@@ -1,0 +1,1 @@
+Docket Numbers are assigned to each enforcement action when it is initiated by the FDIC. The Docket Number consists of the year the action is initiated, a hyphen followed by a sequence number (which resets to “0001” each calendar year) and an alpha code representing the type of action. A decision or order may cover one or more Docket Numbers.
