@@ -1,825 +1,825 @@
-,asset,chrtagnt,clcode,effdate,fdicregn,name,trust,total_violations,unique_violations,year,decade,violation
-430,197439.0,OCC,33,08/31/2022,Kansas City,"Community Development Bank, FSB",0.0,1.0,1.0,2022,2020,1.0
-1432,358303.0,OCC,33,11/01/2014,Chicago,"Lafayette Savings Bank, FSB",0.0,3.0,3.0,2014,2010,1.0
-1454,344058.0,STATE,41,07/11/1994,New York,Johnstown Interim Bank,1.0,1.0,1.0,1994,1990,1.0
-2109,35099327.0,OCC,33,11/01/2015,New York,Hudson City Savings Bank,1.0,5.0,5.0,2015,2010,1.0
-3759,44549.0,STATE,21,07/12/2017,Dallas,Robert Lee State Bank,0.0,2.0,2.0,2017,2010,1.0
-4102,211749.0,STATE,21,08/31/2022,Kansas City,Northwest Bank & Trust Company,1.0,1.0,1.0,2022,2020,1.0
-4186,50291366.0,OTS,43,10/03/1998,San Francisco,"Home Savings of America, FSB",1.0,4.0,4.0,1998,1990,1.0
-4221,662309.0,OTS,43,03/08/2002,New York,Mohawk Community Bank,0.0,1.0,1.0,2002,2000,1.0
-4229,2093569.0,OTS,44,08/12/1994,New York,"The Lincoln Savings Bank, FSB",0.0,1.0,1.0,1994,1990,1.0
-4252,319842.0,OTS,33,04/01/2011,New York,The Rome Savings Bank,0.0,1.0,1.0,2011,2010,1.0
-4271,613561.0,STATE,15,05/14/2022,New York,Elmira Savings Bank,0.0,2.0,2.0,2022,2020,1.0
-4274,32925808.0,OCC,3,10/08/2016,New York,"First Niagara Bank, National Association",0.0,2.0,2.0,2016,2010,1.0
-4281,27971169.0,OTS,43,01/07/2002,New York,"The Dime Savings Bank of New York, FSB",1.0,4.0,4.0,2002,2000,1.0
-4282,6775780.0,STATE,21,02/01/2021,New York,Dime Community Bank,0.0,1.0,1.0,2021,2020,1.0
-4304,4106674.0,STATE,41,10/03/1997,New York,The Rochester Community Savings Bank,1.0,1.0,1.0,1997,1990,1.0
-4310,372013.0,OCC,33,08/31/2022,New York,Generations Bank,0.0,1.0,1.0,2022,2020,1.0
-4319,4452428.0,OCC,33,03/01/2013,New York,"Flushing Savings Bank, FSB",0.0,5.0,5.0,2013,2010,1.0
-4515,799761.0,STATE,21,08/31/2022,Kansas City,Peoples Bank,1.0,1.0,1.0,2022,2020,1.0
-5400,509074.0,OTS,43,10/10/1991,New York,"Numerica Savings Bank, FSB",1.0,1.0,1.0,1991,1990,1.0
-5882,2977290.0,OTS,33,04/15/2011,Atlanta,Superior Bank,1.0,3.0,3.0,2011,2010,1.0
-5926,5673314.0,STATE,13,08/31/2022,New York,Brookline  Bank,0.0,4.0,4.0,2022,2020,1.0
-6694,35742491.0,STATE,21,09/01/2007,New York,Citizens Bank of Massachusetts,1.0,1.0,1.0,2007,2000,1.0
-7825,830449.0,OCC,33,10/16/2015,New York,The Bank of Maine,0.0,5.0,5.0,2015,2010,1.0
-8594,267458.0,OCC,33,12/30/2013,Kansas City,"Liberty Bank, F.S.B.",0.0,2.0,2.0,2013,2010,1.0
-8735,201404.0,STATE,21,07/01/2021,Atlanta,Heritage First Bank,0.0,1.0,1.0,2021,2020,1.0
-9395,2580536.0,OCC,33,08/31/2022,New York,The Bank of Greene County,0.0,3.0,3.0,2022,2020,1.0
-9745,62124.0,STATE,41,06/12/1992,New York,Landmark Bank for Savings,0.0,2.0,2.0,1992,1990,1.0
-13384,209798.0,OCC,33,11/01/2022,New York,42 North Private Bank,0.0,13.0,13.0,2022,2020,1.0
-13447,59927703.0,OCC,3,11/01/2009,San Francisco,"Wells Fargo Bank Southwest, National Association",0.0,1.0,1.0,2009,2000,1.0
-13676,91750000.0,OCC,33,08/31/2022,San Francisco,Synchrony Bank,0.0,1.0,1.0,2022,2020,1.0
-13698,62773810.0,OCC,3,04/02/2022,New York,"People's United Bank, National Association",1.0,2.0,2.0,2022,2020,1.0
-13785,347557.0,OCC,33,08/31/2022,New York,"Home Loan Investment Bank, F.S.B.",0.0,3.0,3.0,2022,2020,1.0
-13979,192423.0,STATE,36,11/16/1989,Chicago,First Savings and Loan Association of Central Indiana,0.0,1.0,1.0,1989,1980,1.0
-13999,217186.0,OTS,37,10/31/2000,Dallas,First Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0
-14008,274610.0,OCC,34,08/31/2022,Chicago,First Federal Bank of Ohio,0.0,2.0,2.0,2022,2020,1.0
-14019,6459408.0,STATE,35,12/31/1988,Dallas,Gibraltar Savings Association,0.0,1.0,1.0,1988,1980,1.0
-14025,1889608.0,OTS,38,06/07/1996,Chicago,Bell Federal Savings and Loan Association,0.0,2.0,2.0,1996,1990,1.0
-14028,6154052.0,OTS,33,10/01/1999,Chicago,St Paul Federal Bank for Savings,0.0,1.0,1.0,1999,1990,1.0
-14031,464238.0,OCC,34,08/31/2022,Chicago,"Sterling Federal Bank, F.S.B.",0.0,1.0,1.0,2022,2020,1.0
-14045,3555111.0,STATE,13,08/31/2022,Atlanta,HomeTrust Bank,0.0,1.0,1.0,2022,2020,1.0
-14046,545518.0,STATE,42,08/31/2022,Dallas,"First Federal Community Bank, SSB",0.0,3.0,3.0,2022,2020,1.0
-14085,23533223.0,OTS,33,10/06/2001,Chicago,Standard Federal Bank,1.0,1.0,1.0,2001,2000,1.0
-14099,151728.0,OCC,38,08/31/2022,Kansas City,Lyons Federal Bank,0.0,3.0,3.0,2022,2020,1.0
-14105,503643.0,OTS,33,09/04/2009,Kansas City,Vantus Bank,1.0,2.0,2.0,2009,2000,1.0
-14109,24973.0,STATE,42,03/27/2004,Chicago,First Savings Bank,0.0,2.0,2.0,2004,2000,1.0
-14118,2058934.0,STATE,21,04/24/2020,Chicago,MutualBank,1.0,1.0,1.0,2020,2020,1.0
-14121,491695.0,OTS,33,07/27/2000,Chicago,Permanent Bank,0.0,2.0,2.0,2000,2000,1.0
-14139,497474.0,STATE,41,08/31/2022,New York,InFirst Bank,0.0,1.0,1.0,2022,2020,1.0
-14149,132850.0,STATE,35,04/02/1993,Kansas City,The Pioneer Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-14152,1955.0,OTS,33,08/06/2008,Kansas City,Horizon Bank,0.0,11.0,11.0,2008,2000,1.0
-14183,110216.0,OTS,33,11/15/2001,Chicago,Columbia Federal Savings Bank,0.0,1.0,1.0,2001,2000,1.0
-14188,47523.0,STATE,42,09/17/2010,Chicago,Bramble Savings Bank,0.0,2.0,2.0,2010,2010,1.0
-14190,84305.0,STATE,35,04/08/2005,Chicago,Genoa Savings and Loan Company,0.0,2.0,2.0,2005,2000,1.0
-14191,4927446.0,STATE,13,10/09/2022,Chicago,Independent Bank,0.0,1.0,1.0,2022,2020,1.0
-14196,43699.0,OTS,33,10/01/2001,New York,Workingmens Savings Bank,0.0,1.0,1.0,2001,2000,1.0
-14205,270228.0,STATE,36,07/12/1991,New York,Danbury Savings and Loan Association Incorporated,0.0,1.0,1.0,1991,1990,1.0
-14212,207779.0,OTS,33,03/31/2000,Atlanta,First American Federal Savings Bank,0.0,1.0,1.0,2000,2000,1.0
-14220,25637.0,OCC,37,11/30/2011,Chicago,"Newton County Loan & Savings, FSB",0.0,2.0,2.0,2011,2010,1.0
-14229,123836.0,STATE,35,10/13/2007,Chicago,City Savings Bank,0.0,1.0,1.0,2007,2000,1.0
-14232,131677.0,OCC,37,10/10/2015,Kansas City,First Federal Savings and Loan Association of Independence,0.0,1.0,1.0,2015,2010,1.0
-14241,1043463.0,OCC,3,08/31/2022,New York,Malvern Bank N.A.,0.0,2.0,2.0,2022,2020,1.0
-14251,3553786.0,OCC,3,04/01/2000,Chicago,TCF NATIONAL BANK ILLINOIS,1.0,2.0,2.0,2000,2000,1.0
-14258,31407.0,OCC,38,10/12/2018,Chicago,Kentucky Federal Savings and Loan Association,0.0,2.0,2.0,2018,2010,1.0
-14266,556420.0,OCC,34,08/31/2022,Atlanta,Huntington Federal Savings Bank,0.0,2.0,2.0,2022,2020,1.0
-14268,31479.0,OTS,34,03/10/2000,Atlanta,Mutual Federal Savings Bank,0.0,1.0,1.0,2000,2000,1.0
-14271,401520.0,OCC,33,09/19/2014,New York,OBA  Bank,0.0,1.0,1.0,2014,2010,1.0
-14274,3439034.0,OTS,33,10/01/1996,Dallas,Leader Federal Bank for Savings,1.0,2.0,2.0,1996,1990,1.0
-14276,51224.0,OCC,38,03/25/2017,New York,Progressive-Home Federal Savings and Loan Association,0.0,4.0,4.0,2017,2010,1.0
-14303,199440.0,OCC,38,12/02/2022,New York,Foxboro Federal Savings,0.0,1.0,1.0,2022,2020,1.0
-14306,954990.0,OTS,34,01/04/1990,Kansas City,Midwest Federal Savings Bank,0.0,1.0,1.0,1990,1990,1.0
-14319,570246.0,OCC,33,08/31/2022,Kansas City,RiverWood Bank,0.0,1.0,1.0,2022,2020,1.0
-14320,1336198.0,STATE,21,04/25/2008,Chicago,Oak Hill Banks,0.0,1.0,1.0,2008,2000,1.0
-14322,896864.0,STATE,13,07/08/2011,Chicago,First Chicago Bank & Trust,0.0,10.0,10.0,2011,2010,1.0
-14334,561781.0,STATE,35,05/21/2016,Chicago,Cheviot Savings Bank,0.0,2.0,2.0,2016,2010,1.0
-14340,2776200.0,OTS,33,02/08/1995,Chicago,"Great Lakes Bancorp, A FSB",1.0,1.0,1.0,1995,1990,1.0
-14352,215468.0,OTS,38,01/31/1997,Chicago,Security Federal Savings and Loan Association of Chicago,0.0,1.0,1.0,1997,1990,1.0
-14355,165567.0,STATE,35,10/31/2018,Chicago,Watch Hill Bank,0.0,1.0,1.0,2018,2010,1.0
-14356,114080.0,OCC,33,08/31/2022,Chicago,Community Savings,0.0,1.0,1.0,2022,2020,1.0
-14358,824000.0,OTS,33,06/25/1993,Dallas,"Home Federal Bank, FSB",1.0,1.0,1.0,1993,1990,1.0
-14359,1926499.0,OTS,33,01/31/1995,New York,Fidelity New York FSB,0.0,4.0,4.0,1995,1990,1.0
-14368,9644228.0,OCC,33,08/31/2022,Kansas City,Capitol Federal Savings Bank,0.0,4.0,4.0,2022,2020,1.0
-14369,240300.0,OTS,33,08/31/1993,Kansas City,"Eureka Savings Bank, FSB",0.0,1.0,1.0,1993,1990,1.0
-14373,190891.0,OCC,38,07/20/2012,Chicago,Second Federal Savings and Loan Association of Chicago,0.0,4.0,4.0,2012,2010,1.0
-14404,149242.0,OTS,33,04/14/1999,Kansas City,"Mid-Iowa Savings Bank, FSB",1.0,27.0,27.0,1999,1990,1.0
-14441,325784.0,OTS,33,04/30/2009,New York,Enfield Federal Savings and Loan Association,0.0,1.0,1.0,2009,2000,1.0
-14443,140325.0,OCC,33,04/30/2016,Chicago,Park Federal Savings Bank,0.0,4.0,4.0,2016,2010,1.0
-14444,2520378.0,OTS,33,09/04/1997,Chicago,Standard Federal Bank for Savings,0.0,1.0,1.0,1997,1990,1.0
-14467,95945.0,OTS,33,04/02/1999,Atlanta,First Carolina Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0
-14479,20772387.0,STATE,21,08/31/2022,San Francisco,Washington Federal Bank,0.0,2.0,2.0,2022,2020,1.0
-14483,1140169.0,STATE,21,05/16/2016,Kansas City,Home Federal Bank,1.0,2.0,2.0,2016,2010,1.0
-14493,37737.0,OTS,38,12/12/2003,New York,"Windsor Locks Community Bank, FSL",0.0,1.0,1.0,2003,2000,1.0
-14497,455484.0,OCC,3,08/31/2022,Chicago,"First Robinson Savings Bank, National Association",1.0,1.0,1.0,2022,2020,1.0
-14513,211974.0,OTS,33,03/24/2001,Kansas City,"Brenton Savings Bank, FSB",0.0,1.0,1.0,2001,2000,1.0
-14516,289377.0,OCC,33,01/10/2014,New York,GCF Bank,0.0,1.0,1.0,2014,2010,1.0
-14527,96584.0,OTS,34,07/16/2010,Chicago,"Mainstreet Savings Bank, FSB",0.0,3.0,3.0,2010,2010,1.0
-14536,65686.0,OCC,33,10/19/2012,Atlanta,First East Side Savings Bank,0.0,1.0,1.0,2012,2010,1.0
-14550,127680.0,STATE,35,08/31/2022,Chicago,The Cincinnatus Savings & Loan Co.,0.0,2.0,2.0,2022,2020,1.0
-14561,270706.0,STATE,15,08/31/2022,New York,Eastern Connecticut Savings Bank,0.0,3.0,3.0,2022,2020,1.0
-14599,538920.0,OTS,33,12/04/1998,New York,The Federal Savings Bank,0.0,1.0,1.0,1998,1990,1.0
-14633,760759.0,OCC,33,10/12/2013,Chicago,Park View Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0
-14643,14256898.0,OTS,33,03/31/2000,Chicago,"LaSalle Bank, F.S.B.",0.0,3.0,3.0,2000,2000,1.0
-14654,1316129.0,OTS,33,07/31/1998,Kansas City,AmerUs Bank,0.0,2.0,2.0,1998,1990,1.0
-14656,4625372.0,OTS,33,05/31/1997,Kansas City,"First Bank, Federal Savings Bank",1.0,4.0,4.0,1997,1990,1.0
-14664,1756179.0,OCC,3,08/31/2022,Chicago,"Cf Bank, National Association",0.0,1.0,1.0,2022,2020,1.0
-14676,23838.0,OCC,38,09/17/2016,Kansas City,Home Savings Bank,0.0,1.0,1.0,2016,2010,1.0
-14687,200087.0,OTS,34,12/31/2008,Chicago,"Continental Savings Bank, FSB",0.0,3.0,3.0,2008,2000,1.0
-14700,96473.0,OCC,33,09/30/2015,Chicago,PNA Bank,0.0,2.0,2.0,2015,2010,1.0
-14715,451888.0,OTS,33,08/28/2009,New York,Bradford Bank,0.0,2.0,2.0,2009,2000,1.0
-14718,141580.0,STATE,36,08/31/2022,Dallas,"RG Bank, A Savings and Loan Association",0.0,1.0,1.0,2022,2020,1.0
-14719,1041703.0,STATE,42,08/31/2022,Dallas,FIDELITY BANK,0.0,1.0,1.0,2022,2020,1.0
-14735,49421342.0,OCC,3,06/09/2021,Kansas City,TCF National Bank,1.0,5.0,5.0,2021,2020,1.0
-14750,3715433.0,OTS,33,11/21/2008,San Francisco,PFF Bank & Trust,1.0,1.0,1.0,2008,2000,1.0
-14752,292113.0,OCC,33,08/31/2022,Chicago,Cincinnati Federal,0.0,1.0,1.0,2022,2020,1.0
-14760,127845.0,OTS,34,12/20/2010,Chicago,Century Bank,0.0,5.0,5.0,2010,2010,1.0
-14763,150454.0,OCC,37,12/01/2012,Dallas,Osage Federal Bank,0.0,2.0,2.0,2012,2010,1.0
-14765,1045787.0,OTS,37,09/13/1994,New York,Crestmont Federal Savings and Loan Association,0.0,4.0,4.0,1994,1990,1.0
-14766,12555762.0,OCC,3,08/31/2022,New York,"OceanFirst Bank, National Association",1.0,3.0,3.0,2022,2020,1.0
-14770,1256144.0,STATE,21,08/31/2022,Dallas,Century Bank,1.0,2.0,2.0,2022,2020,1.0
-14776,584526.0,OCC,38,08/31/2022,New York,"Middlesex Federal Savings, F.A.",0.0,4.0,4.0,2022,2020,1.0
-14793,93017.0,STATE,82,09/30/2020,Chicago,Ben Franklin Bank of Illinois,0.0,2.0,2.0,2020,2020,1.0
-14797,9173196.0,OTS,33,10/20/1995,Kansas City,Roosevelt Bank,1.0,1.0,1.0,1995,1990,1.0
-14799,115655.0,OCC,33,08/31/2022,Kansas City,Edward Jones Trust Company,1.0,1.0,1.0,2022,2020,1.0
-14801,145940.0,OTS,37,09/29/2003,Atlanta,Amicus FSB,1.0,1.0,1.0,2003,2000,1.0
-14815,9813776.0,OTS,33,12/08/1989,New York,City Federal Savings Bank,1.0,7.0,7.0,1989,1980,1.0
-14816,74995.0,OCC,33,05/18/2018,Dallas,Liberty FSB,1.0,4.0,4.0,2018,2010,1.0
-14820,347209.0,OCC,33,09/15/2015,Dallas,Bank of New Orleans,0.0,1.0,1.0,2015,2010,1.0
-14832,149764.0,OTS,38,09/27/2001,New York,Revere Federal Savings and Loan Association,0.0,1.0,1.0,2001,2000,1.0
-14834,192470.0,OCC,34,08/31/2022,Chicago,Central Federal Savings and Loan Association,0.0,3.0,3.0,2022,2020,1.0
-14837,316828.0,STATE,41,10/08/2005,Chicago,Citizens Savings Bank,0.0,1.0,1.0,2005,2000,1.0
-14838,3950708.0,OTS,33,03/14/1998,New York,Collective Bank,0.0,4.0,4.0,1998,1990,1.0
-14840,148436.0,STATE,35,09/21/1989,Dallas,First Savings Association of Brenham,0.0,1.0,1.0,1989,1980,1.0
-14843,86121.0,OCC,3,05/15/1995,Chicago,"Firstar Bank Quad Cities, N.A.",0.0,1.0,1.0,1995,1990,1.0
-14859,636336.0,OCC,37,10/31/2011,San Francisco,"Fullerton Community Bank, FSB",0.0,1.0,1.0,2011,2010,1.0
-14872,70286.0,OCC,34,07/25/2014,Chicago,"GreenChoice Bank, fsb",0.0,2.0,2.0,2014,2010,1.0
-14877,14534.0,STATE,36,11/16/2007,Chicago,The Clifton Heights Savings & Loan Company,0.0,2.0,2.0,2007,2000,1.0
-14891,26035.0,STATE,36,08/31/2022,Chicago,Columbia Savings and Loan Association,0.0,4.0,4.0,2022,2020,1.0
-14913,319514.0,OTS,33,06/10/1994,New York,Annapolis Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-14919,239513.0,OTS,33,03/28/1992,Chicago,Midfed Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-14921,128362.0,OTS,37,04/27/1990,San Francisco,"Westco Savings Bank, FSB",0.0,1.0,1.0,1990,1990,1.0
-14929,379739.0,STATE,41,08/31/2022,Dallas,"TrustTexas Bank, SSB",0.0,1.0,1.0,2022,2020,1.0
-14932,65996.0,OTS,33,12/29/1995,New York,Suburban Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0
-14944,601225.0,OTS,37,10/23/1998,Chicago,Security Federal Savings and Loan Association of Cleveland,0.0,1.0,1.0,1998,1990,1.0
-14948,6143903.0,OTS,33,12/18/2009,San Francisco,"First Federal Bank of California, a Federal Savings Bank",1.0,4.0,4.0,2009,2000,1.0
-14955,2865077.0,STATE,13,06/19/2004,Dallas,Local Oklahoma Bank,0.0,2.0,2.0,2004,2000,1.0
-14956,128190.0,STATE,21,08/31/2022,Kansas City,Custer Federal State Bank,0.0,1.0,1.0,2022,2020,1.0
-14958,15298.0,STATE,36,12/27/1996,New York,Keystone Savings and Loan Association,0.0,1.0,1.0,1996,1990,1.0
-14968,169996.0,OCC,33,12/07/2018,Chicago,Home City Federal Savings Bank of Springfield,0.0,2.0,2.0,2018,2010,1.0
-14979,403746.0,OCC,37,11/09/2012,Chicago,River Valley Financial Bank,1.0,4.0,4.0,2012,2010,1.0
-15003,499076.0,STATE,21,05/01/2019,New York,Hamilton Bank,0.0,1.0,1.0,2019,2010,1.0
-15020,161381.0,OTS,37,03/22/1991,Dallas,First Federal Savings and Loan Association of Chickasha,0.0,1.0,1.0,1991,1990,1.0
-15027,350488.0,OTS,38,09/17/2010,Chicago,Maritime Savings Bank,0.0,2.0,2.0,2010,2010,1.0
-15032,907144.0,STATE,21,04/17/2009,Chicago,Lincoln Bank,0.0,2.0,2.0,2009,2000,1.0
-15037,9625.0,STATE,41,09/19/2002,Chicago,The Findlay Savings Bank,0.0,1.0,1.0,2002,2000,1.0
-15038,740083.0,OCC,3,08/16/2008,Chicago,Century National Bank,0.0,1.0,1.0,2008,2000,1.0
-15040,498070.0,OTS,33,02/26/1999,Chicago,Avondale Federal Savings Bank,0.0,2.0,2.0,1999,1990,1.0
-15041,118523.0,OTS,38,04/12/1999,Chicago,Perpetual Federal Savings and Loan Association,0.0,2.0,2.0,1999,1990,1.0
-15045,123748.0,OCC,33,04/30/2018,New York,Delanco Federal Savings Bank,0.0,4.0,4.0,2018,2010,1.0
-15049,93467.0,STATE,21,08/31/2022,Kansas City,First Federal Savings and Loan Bank,0.0,5.0,5.0,2022,2020,1.0
-15056,11495.0,STATE,35,06/01/1993,Chicago,Cherry Grove Savings Bank,0.0,1.0,1.0,1993,1990,1.0
-15057,142683.0,OTS,37,10/31/1996,Kansas City,Sentinel Federal Savings and Loan Association of Kansas City,0.0,1.0,1.0,1996,1990,1.0
-15093,7188401.0,OTS,37,03/01/1997,New York,First Federal Savings and Loan Association of Rochester,0.0,2.0,2.0,1997,1990,1.0
-15098,3575040.0,OTS,33,03/15/1991,Atlanta,"Amerifirst Bank, A FSB",0.0,1.0,1.0,1991,1990,1.0
-15099,241453.0,OCC,33,07/07/2022,New York,Chesapeake Bank of Maryland,0.0,1.0,1.0,2022,2020,1.0
-15109,910991.0,OCC,33,03/31/2015,Kansas City,Heartland Bank,0.0,6.0,6.0,2015,2010,1.0
-15111,160475.0,STATE,35,09/07/2001,New York,Cargill Bank of Connecticut,0.0,2.0,2.0,2001,2000,1.0
-15129,176949.0,OCC,38,08/31/2022,New York,First Federal Savings of Middletown,0.0,2.0,2.0,2022,2020,1.0
-15130,691529.0,OTS,33,08/22/1997,New York,Citizens Savings Bank F.S.B.,0.0,1.0,1.0,1997,1990,1.0
-15153,4201313.0,OCC,3,07/24/1993,Dallas,Bank Western National Association,1.0,2.0,2.0,1993,1990,1.0
-15197,58525.0,OCC,38,07/01/2015,Chicago,"Liberty Savings Bank, FSB",0.0,2.0,2.0,2015,2010,1.0
-15207,197066.0,OTS,37,11/17/1995,New York,Fidelity Federal Savings and Loan Association,0.0,1.0,1.0,1995,1990,1.0
-15216,385258.0,OTS,33,11/22/1997,Kansas City,"Mercantile Bank, FSB",0.0,1.0,1.0,1997,1990,1.0
-15221,94824.0,OCC,37,08/31/2022,New York,Sunnyside Federal Savings and Loan Association of Irvington,0.0,3.0,3.0,2022,2020,1.0
-15230,247232.0,OTS,33,09/30/1992,Kansas City,"Security Financial Banking and Savings, FSB",0.0,1.0,1.0,1992,1990,1.0
-15240,125274.0,OTS,33,11/01/2001,Chicago,"Middlesboro Federal Bank, FSB",0.0,5.0,5.0,2001,2000,1.0
-15249,769426.0,OCC,38,08/01/2015,New York,First Federal Savings and Loan Association of Bucks Co,0.0,2.0,2.0,2015,2010,1.0
-15251,308029.0,STATE,15,08/31/2022,New York,The Brattleboro Savings and Loan Association,1.0,2.0,2.0,2022,2020,1.0
-15273,580811.0,OCC,38,08/31/2022,Atlanta,First Piedmont Federal Savings and Loan Association of Gaffney,0.0,1.0,1.0,2022,2020,1.0
-15274,94834.0,STATE,36,08/31/2022,Dallas,Century Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-15277,161355.0,OTS,33,07/16/2010,Atlanta,Olde Cypress Community Bank,0.0,3.0,3.0,2010,2010,1.0
-15278,1091193.0,OCC,33,02/15/2017,Kansas City,MidCountry Bank,0.0,1.0,1.0,2017,2010,1.0
-15280,684804.0,STATE,35,06/04/1992,New York,Home Unity Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0
-15295,46699.0,OTS,33,04/22/2005,Dallas,"NBC Bank, FSB",0.0,1.0,1.0,2005,2000,1.0
-15301,440122.0,OTS,34,04/16/2010,Atlanta,First Federal Bank of North Florida,0.0,3.0,3.0,2010,2010,1.0
-15303,1083725.0,STATE,41,07/01/2016,New York,Fox Chase Bank,0.0,4.0,4.0,2016,2010,1.0
-15309,369580.0,OCC,33,08/31/2022,Chicago,Security Federal Savings Bank,1.0,1.0,1.0,2022,2020,1.0
-15314,1810155.0,OTS,37,08/10/1989,Kansas City,Peoples Heritage Federal Savings and Loan Association,0.0,2.0,2.0,1989,1980,1.0
-15327,653811.0,OCC,3,08/13/1998,Dallas,"First Commercial Bank, National Association of Memphis",1.0,3.0,3.0,1998,1990,1.0
-15331,648763.0,OCC,38,08/31/2022,San Francisco,Evergreen Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-15333,302216.0,OCC,33,04/02/2012,New York,St. Edmond's Federal Savings Bank,0.0,4.0,4.0,2012,2010,1.0
-15340,1192436.0,OCC,3,07/05/2011,San Francisco,M & I Bank NATIONAL ASSOCIATION,0.0,1.0,1.0,2011,2010,1.0
-15343,45059.0,STATE,36,11/30/2007,Chicago,Mt. Morris Savings and Loan Association,0.0,7.0,7.0,2007,2000,1.0
-15347,441781.0,STATE,13,08/31/2022,Kansas City,Verimore Bank,0.0,2.0,2.0,2022,2020,1.0
-15349,46376252.0,OCC,3,09/01/2007,Chicago,"Charter One Bank, National Association",1.0,1.0,1.0,2007,2000,1.0
-15363,255081.0,OTS,33,10/10/1991,New York,"HomeBank, FSB",0.0,1.0,1.0,1991,1990,1.0
-15365,8458553.0,OTS,37,10/31/1995,Chicago,First Federal of Michigan,0.0,1.0,1.0,1995,1990,1.0
-15370,155368.0,OTS,37,08/31/1999,Dallas,First Federal Bank for Savings,0.0,1.0,1.0,1999,1990,1.0
-15375,1744873.0,OTS,33,12/05/2003,Dallas,"Superior Bank, FSB",0.0,7.0,7.0,2003,2000,1.0
-15378,39597.0,OCC,38,04/01/2014,Chicago,First Federal Savings and Loan Association of Hammond,0.0,1.0,1.0,2014,2010,1.0
-15380,264238.0,STATE,41,07/01/2022,New York,Lincoln 1st  Bank,0.0,1.0,1.0,2022,2020,1.0
-15385,275566.0,OTS,33,07/25/1997,Atlanta,Florida FirstBank,0.0,2.0,2.0,1997,1990,1.0
-15391,290886.0,OTS,38,05/03/1991,Kansas City,First Federal Savings and Loan Association of Pittsburg,0.0,1.0,1.0,1991,1990,1.0
-15394,97860.0,OTS,33,04/15/2003,Kansas City,Washington Federal Savings Bank,0.0,2.0,2.0,2003,2000,1.0
-15396,47185.0,OTS,33,06/09/2000,Chicago,"Midwest Savings Bank, FSB",0.0,1.0,1.0,2000,2000,1.0
-15398,603767.0,OCC,37,02/13/2015,Dallas,First Federal Bank,0.0,2.0,2.0,2015,2010,1.0
-15399,77530.0,OCC,34,08/31/2022,Chicago,Ladysmith Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-15423,112674.0,STATE,41,01/30/1998,Dallas,"The Bank of East Texas, S.S.B.",0.0,1.0,1.0,1998,1990,1.0
-15424,177138.0,OTS,33,06/23/1995,Chicago,King City Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0
-15425,586291.0,OCC,3,02/14/2004,Chicago,"Covest Banc, National Association",0.0,1.0,1.0,2004,2000,1.0
-15426,888136.0,STATE,42,08/31/2022,Chicago,Liberty Bank for Savings,0.0,1.0,1.0,2022,2020,1.0
-15435,1281258.0,OTS,33,11/01/1997,Dallas,Magnolia Federal Bank for Savings,0.0,2.0,2.0,1997,1990,1.0
-15436,32917.0,OTS,38,03/08/1991,Dallas,First Federal Savings and Loan Association of Wewoka,0.0,1.0,1.0,1991,1990,1.0
-15446,861055.0,STATE,21,06/01/2014,Dallas,Teche Federal Bank,0.0,2.0,2.0,2014,2010,1.0
-15455,6569936.0,OTS,33,10/01/1998,New York,"The Long Island Savings Bank, FSB",0.0,2.0,2.0,1998,1990,1.0
-15460,1046935.0,OCC,37,08/31/2022,Kansas City,Home Federal Savings Bank,0.0,3.0,3.0,2022,2020,1.0
-15465,911504.0,STATE,42,08/31/2022,Kansas City,First Federal Bank of Kansas City,0.0,1.0,1.0,2022,2020,1.0
-15467,79611.0,OCC,38,08/31/2022,Kansas City,Lake City Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-15475,2113186.0,OCC,3,02/02/2008,Chicago,"First Indiana Bank, National Association",1.0,1.0,1.0,2008,2000,1.0
-15487,168915.0,STATE,21,05/11/2015,Chicago,Monarch Community Bank,0.0,1.0,1.0,2015,2010,1.0
-15492,761850.0,OTS,38,10/19/1989,Kansas City,Mid Kansas Federal Savings and Loan Association of Wichita,1.0,1.0,1.0,1989,1980,1.0
-15495,278460.0,STATE,35,12/31/1988,Dallas,Home Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0
-15501,2944195.0,OTS,37,03/15/1991,Kansas City,"Home Savings Association of Kansas City, FA",0.0,1.0,1.0,1991,1990,1.0
-15502,142536.0,OTS,33,06/12/1992,Dallas,Cherokee Valley Federal Savings Bank,1.0,2.0,2.0,1992,1990,1.0
-15503,466162.0,OCC,3,10/01/2018,Dallas,Athens Federal Community Bank National Association,0.0,2.0,2.0,2018,2010,1.0
-15506,352615.0,OTS,33,01/04/2006,Dallas,AccessBank,0.0,8.0,8.0,2006,2000,1.0
-15507,255680.0,OCC,37,08/31/2022,Dallas,Newport Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-15510,91411.0,OTS,38,09/27/1991,Kansas City,Home Federal Savings and Loan Association of Harlan,0.0,1.0,1.0,1991,1990,1.0
-15511,88612.0,STATE,13,08/31/2022,Kansas City,Investors Community Bank,0.0,1.0,1.0,2022,2020,1.0
-15545,2018703.0,OTS,33,03/16/1990,Dallas,"Abq Bank, A Federal Savings Bank",0.0,2.0,2.0,1990,1990,1.0
-15549,50694.0,OTS,33,07/29/1994,Dallas,Citizens Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-15550,815554.0,STATE,41,10/25/2014,New York,3rd Fed Bank,0.0,4.0,4.0,2014,2010,1.0
-15551,49022.0,OTS,34,06/06/2003,New York,Berean Bank,0.0,2.0,2.0,2003,2000,1.0
-15557,84096.0,OTS,37,06/30/1993,Dallas,Mutual Building and Loan Association FA,0.0,1.0,1.0,1993,1990,1.0
-15561,59768.0,STATE,21,08/31/2022,Kansas City,Systematic Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-15564,639378.0,OTS,33,05/01/1997,New York,Bankers Federal Savings FSB,0.0,1.0,1.0,1997,1990,1.0
-15572,207043.0,OCC,3,07/01/1999,Chicago,Damen National Bank,0.0,1.0,1.0,1999,1990,1.0
-15592,27784.0,OCC,38,04/01/2017,Kansas City,First Federal Savings and Loan Association of Wakeeney,0.0,1.0,1.0,2017,2010,1.0
-15598,434111.0,OCC,37,02/24/2012,Kansas City,Home Savings of America,0.0,2.0,2.0,2012,2010,1.0
-15607,64604.0,OTS,34,04/02/1993,Dallas,Tri-County Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0
-15608,395800.0,STATE,41,12/31/2022,Chicago,Fox Valley Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-15618,18095396.0,OTS,33,09/11/1998,San Francisco,"Glendale Federal Bank, Federal Savings Bank",1.0,4.0,4.0,1998,1990,1.0
-15626,150613.0,STATE,41,08/31/2022,Dallas,"Graham Savings and Loan, SSB",0.0,2.0,2.0,2022,2020,1.0
-15627,55433.0,OTS,37,11/16/1990,Dallas,First Federal Savings and Loan Association,0.0,8.0,8.0,1990,1990,1.0
-15628,128536.0,STATE,41,08/31/2022,Dallas,"Dalhart Federal Savings & Loan Association, SSB",0.0,1.0,1.0,2022,2020,1.0
-15641,608151.0,OTS,33,12/31/1998,Dallas,First Federal Savings Bank of North Texas,0.0,1.0,1.0,1998,1990,1.0
-15656,32576.0,OTS,33,08/12/1996,San Francisco,"Union Federal Bank, A federal savings bank",0.0,9.0,9.0,1996,1990,1.0
-15662,53407.0,OTS,33,06/03/1996,Kansas City,"American Federal Bank, A Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0
-15666,23469.0,OCC,33,03/29/2014,New York,"Liberty Savings Bank, F.S.B.",0.0,3.0,3.0,2014,2010,1.0
-15678,111770.0,STATE,35,12/08/1994,Chicago,The Buckeye Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-15687,104920.0,OCC,37,08/31/2022,Dallas,Eureka Homestead,0.0,29.0,29.0,2022,2020,1.0
-15688,603520.0,OTS,33,01/11/1996,New York,Sunrise Federal Savings Bank,0.0,1.0,1.0,1996,1990,1.0
-15692,440162.0,OCC,33,01/07/2012,New York,Brooklyn Federal Savings Bank,0.0,3.0,3.0,2012,2010,1.0
-15708,270049.0,OTS,34,08/01/1997,Chicago,"Community Bank, A FSB",0.0,1.0,1.0,1997,1990,1.0
-15711,449084.0,STATE,21,01/01/1998,Atlanta,Union Planters Bank of Alabama,0.0,1.0,1.0,1998,1990,1.0
-15714,914227.0,OCC,33,09/30/2022,Chicago,Prevail Bank,0.0,3.0,3.0,2022,2020,1.0
-15736,344684.0,OTS,38,09/21/1990,New York,Yorkville Federal Savings and Loan Association,0.0,4.0,4.0,1990,1990,1.0
-15743,65406.0,OCC,34,10/21/2017,Chicago,Ripley Federal Savings Bank,0.0,3.0,3.0,2017,2010,1.0
-15759,2824737.0,OTS,33,06/04/2010,Kansas City,TierOne Bank,0.0,7.0,7.0,2010,2010,1.0
-15763,229965.0,OCC,37,08/31/2022,Chicago,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-15767,79269.0,OTS,37,03/24/2000,New York,Albion Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0
-15773,51628.0,OTS,34,06/28/2002,Chicago,Universal Federal Savings Bank,0.0,1.0,1.0,2002,2000,1.0
-15775,141538.0,OCC,34,08/31/2022,Atlanta,Family Bank,0.0,1.0,1.0,2022,2020,1.0
-15787,481213.0,OTS,33,07/01/2010,New York,First Keystone Bank,0.0,2.0,2.0,2010,2010,1.0
-15788,114564.0,STATE,35,02/20/1991,New York,First Northern Cooperative Bank,0.0,1.0,1.0,1991,1990,1.0
-15794,39551.0,OTS,37,09/17/1998,Kansas City,"Allegiant Bank, FSB",0.0,1.0,1.0,1998,1990,1.0
-15797,16360.0,OCC,38,08/31/2022,Kansas City,Sidney Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0
-15802,176124.0,OCC,34,08/31/2022,Chicago,Peru Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-15823,139108.0,OTS,38,12/31/1991,Dallas,Pocahontas Federal Savings and Loan Association,1.0,1.0,1.0,1991,1990,1.0
-15826,172658.0,OTS,33,01/13/1995,Dallas,First Federal Savings Bank of Maryville,0.0,1.0,1.0,1995,1990,1.0
-15859,106297.0,OCC,37,10/02/2017,Dallas,Morgan Federal Bank,0.0,1.0,1.0,2017,2010,1.0
-15867,83454.0,OTS,38,05/31/1995,Chicago,Fairbury Federal Savings and Loan Association,0.0,1.0,1.0,1995,1990,1.0
-15868,45085.0,OCC,34,08/31/2022,Chicago,North Side Federal Savings and Loan Association of Chicago,0.0,2.0,2.0,2022,2020,1.0
-15875,189293.0,OTS,33,09/13/2002,New York,"Prestige Bank, A Federal Savings Bank",0.0,2.0,2.0,2002,2000,1.0
-15877,1402978.0,OTS,33,02/01/1991,New York,Comfed Savings Bank,0.0,1.0,1.0,1991,1990,1.0
-15879,539316.0,OTS,33,03/25/1994,San Francisco,"Rocky Mountain Bank, F.S.B.",0.0,1.0,1.0,1994,1990,1.0
-15880,174717.0,OTS,34,09/27/1991,New York,Plymouth Federal Savings Bank,0.0,1.0,1.0,1991,1990,1.0
-15891,92084.0,STATE,42,08/31/2022,New York,Armstrong County Building and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-15892,314016.0,OTS,33,12/31/2004,Atlanta,"Advance Financial Savings Bank, FSB",0.0,1.0,1.0,2004,2000,1.0
-15896,425913.0,OCC,38,08/31/2022,Kansas City,Home Federal Savings and Loan Association of Grand Island,0.0,1.0,1.0,2022,2020,1.0
-15931,776600.0,OCC,37,08/31/2022,Atlanta,Affinity Bank,0.0,1.0,1.0,2022,2020,1.0
-15938,111025.0,STATE,36,08/31/2022,San Francisco,Pioneer Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-15940,26960.0,STATE,36,11/01/1997,New York,First New London Savings and Loan Association Incorporated,0.0,1.0,1.0,1997,1990,1.0
-15952,128496.0,OTS,37,07/30/2007,Dallas,Homestead Bank,0.0,2.0,2.0,2007,2000,1.0
-15959,166639.0,OCC,33,10/19/2013,Chicago,"Diamond Bank, FSB",0.0,1.0,1.0,2013,2010,1.0
-15964,197447.0,OTS,33,01/03/2003,Chicago,"Fairfield Savings Bank, F.S.B.",0.0,1.0,1.0,2003,2000,1.0
-15966,5679284.0,STATE,21,08/31/2022,Kansas City,Great Southern Bank,0.0,1.0,1.0,2022,2020,1.0
-15977,881721.0,OTS,33,05/14/1993,Atlanta,Continental Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0
-15978,345419.0,OTS,33,09/20/1997,Chicago,"Home Bank, F.S.B.",0.0,1.0,1.0,1997,1990,1.0
-15981,243215.0,STATE,21,03/12/2010,Dallas,Statewide Bank,0.0,5.0,5.0,2010,2010,1.0
-15986,4928520.0,OCC,33,09/23/2022,Chicago,"United Fidelity Bank, fsb",0.0,3.0,3.0,2022,2020,1.0
-15994,2534323.0,OTS,33,11/01/1995,New York,"First Federal Bank, a federal savings bank",0.0,1.0,1.0,1995,1990,1.0
-15997,173716.0,OCC,38,08/31/2022,Dallas,Heritage Bank of St Tammany,0.0,1.0,1.0,2022,2020,1.0
-16000,198852.0,OTS,33,06/05/2003,Chicago,Security Federal Bank & Trust,1.0,2.0,2.0,2003,2000,1.0
-16001,2771379.0,OTS,33,09/07/1990,New York,Home Owners Savings Bank F.S.B.,1.0,1.0,1.0,1990,1990,1.0
-16004,166121.0,STATE,36,04/03/1992,Kansas City,First State Savings Association,0.0,1.0,1.0,1992,1990,1.0
-16013,92982.0,OCC,38,04/19/2013,Chicago,First Federal Bank,0.0,1.0,1.0,2013,2010,1.0
-16018,438985.0,STATE,35,07/16/1994,San Francisco,United California Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-16022,41584653.0,OTS,33,10/01/1997,San Francisco,"Great Western Bank, A FSB",1.0,2.0,2.0,1997,1990,1.0
-16031,59087.0,OCC,34,01/01/2016,Chicago,First Federal Savings and Loan Association of Kewanee,0.0,1.0,1.0,2016,2010,1.0
-16036,106141.0,OCC,34,08/31/2022,Chicago,"First Mutual Bank, FSB",0.0,3.0,3.0,2022,2020,1.0
-16041,95458.0,OTS,34,06/30/1997,Chicago,United Federal Savings Bank of Vincennes,0.0,1.0,1.0,1997,1990,1.0
-16044,629736.0,OCC,38,08/31/2022,San Francisco,First Federal Savings and Loan Association of McMinnville,0.0,1.0,1.0,2022,2020,1.0
-16048,2414251.0,OTS,33,03/01/1998,New York,Main Line Bank,0.0,1.0,1.0,1998,1990,1.0
-16062,14926832.0,OTS,33,10/01/1994,San Francisco,"First Nationwide Bank, A FSB",1.0,2.0,2.0,1994,1990,1.0
-16064,3810521.0,STATE,35,08/03/1989,San Francisco,Lincoln Savings and Loan Association,0.0,1.0,1.0,1989,1980,1.0
-16066,634963.0,STATE,13,03/27/2006,Dallas,Cavalry Banking,1.0,1.0,1.0,2006,2000,1.0
-16067,190725.0,STATE,42,08/31/2022,Chicago,"First Federal Savings and Loan Association of Central Illinois, S.B.",0.0,1.0,1.0,2022,2020,1.0
-16071,809714.0,OCC,3,09/22/1997,New York,Vermont Federal National Bank,0.0,2.0,2.0,1997,1990,1.0
-16078,68065.0,OCC,33,07/01/2016,New York,First Federal Savings Bank of Boston,0.0,1.0,1.0,2016,2010,1.0
-16090,99301.0,OCC,33,02/18/2012,Chicago,Americantrust Federal Savings Bank,1.0,3.0,3.0,2012,2010,1.0
-16094,3796241.0,OTS,37,06/04/1993,San Francisco,Western Federal Savings and Loan,0.0,1.0,1.0,1993,1990,1.0
-16099,200844.0,STATE,36,08/31/2022,Chicago,Paper City Savings Association,0.0,1.0,1.0,2022,2020,1.0
-16112,105110.0,OTS,37,08/07/2004,Chicago,Sobieski Bank,0.0,3.0,3.0,2004,2000,1.0
-16115,362576.0,OCC,33,08/31/2022,Kansas City,Lincoln FSB of Nebraska,0.0,1.0,1.0,2022,2020,1.0
-16125,629132.0,OCC,33,08/31/2022,Dallas,Century Next Bank,0.0,1.0,1.0,2022,2020,1.0
-16127,545168.0,OTS,33,02/13/2007,Dallas,First Federal Bank,0.0,2.0,2.0,2007,2000,1.0
-16128,130552.0,OCC,37,10/01/2022,Chicago,Peoples Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0
-16130,244420.0,OCC,33,08/31/2022,Chicago,First Federal Community Bank of Bucyrus,0.0,2.0,2.0,2022,2020,1.0
-16131,1002305.0,STATE,35,12/16/1991,Chicago,Hunter Savings Association,0.0,1.0,1.0,1991,1990,1.0
-16133,2641449.0,OCC,33,08/31/2022,Kansas City,"North American Savings Bank, F.S.B.",0.0,1.0,1.0,2022,2020,1.0
-16138,578817.0,OTS,33,05/31/2003,New York,Bay State Federal Savings Bank,0.0,1.0,1.0,2003,2000,1.0
-16148,110172.0,OTS,33,04/22/2011,Chicago,Family Bank FSB,0.0,7.0,7.0,2011,2010,1.0
-16170,523655.0,OCC,33,08/31/2022,New York,First Seacoast Bank,1.0,1.0,1.0,2022,2020,1.0
-16180,97262.0,STATE,41,05/01/2000,Chicago,Northwest Savings Bank,0.0,1.0,1.0,2000,2000,1.0
-16188,182561.0,OCC,33,02/10/2012,Chicago,SCB Bank,0.0,2.0,2.0,2012,2010,1.0
-16195,27455.0,STATE,35,11/20/1992,Chicago,Crestline Building and Loan Association,0.0,2.0,2.0,1992,1990,1.0
-16202,38698.0,OCC,38,08/31/2022,Chicago,Carrollton Federal Bank,0.0,2.0,2.0,2022,2020,1.0
-16204,11438990.0,OTS,33,12/04/2009,Chicago,AmTrust Bank,0.0,2.0,2.0,2009,2000,1.0
-16209,64397.0,STATE,36,05/05/1995,New York,American Savings and Loan Association,0.0,9.0,9.0,1995,1990,1.0
-16210,989734.0,STATE,41,08/31/2022,Dallas,First Federal Bank,0.0,3.0,3.0,2022,2020,1.0
-16211,462315.0,STATE,13,08/31/2022,Dallas,High Country Bank,0.0,2.0,2.0,2022,2020,1.0
-16214,493101.0,STATE,21,08/10/2018,Chicago,"First Bank & Trust,",1.0,1.0,1.0,2018,2010,1.0
-16215,668057.0,OCC,3,08/31/2022,Chicago,"First Federal Community Bank, National Association",0.0,3.0,3.0,2022,2020,1.0
-16223,955876.0,OTS,38,12/31/1992,Kansas City,American Charter Federal Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0
-16226,111823.0,OTS,33,02/13/1998,Kansas City,Liberty Bank and Trust,0.0,1.0,1.0,1998,1990,1.0
-16231,64851.0,STATE,35,05/22/1998,Chicago,Jefferson Savings Bank,0.0,2.0,2.0,1998,1990,1.0
-16233,271870.0,OCC,33,08/31/2022,Dallas,Catalyst Bank,0.0,1.0,1.0,2022,2020,1.0
-16234,13882898.0,OCC,37,10/02/2017,New York,Astoria Bank,0.0,3.0,3.0,2017,2010,1.0
-16268,527719.0,STATE,21,08/31/2022,Chicago,Crossroads Bank,1.0,1.0,1.0,2022,2020,1.0
-16271,210815.0,STATE,15,08/31/2022,New York,Commonwealth Co-operative Bank,0.0,12.0,12.0,2022,2020,1.0
-16276,688849.0,STATE,21,08/31/2022,Chicago,Wayne Savings Community Bank,0.0,3.0,3.0,2022,2020,1.0
-16278,166715.0,OCC,33,04/01/2014,San Francisco,Alaska Pacific Bank,0.0,4.0,4.0,2014,2010,1.0
-16282,,OTS,38,11/30/1976,New York,Edmondson Federal Savings and Loan Association of Baltimore Co,,1.0,1.0,1976,1970,1.0
-16286,32342.0,OCC,38,08/31/2022,Kansas City,"The Liberty Savings Association, FSA",0.0,1.0,1.0,2022,2020,1.0
-16300,161877.0,STATE,36,10/16/1989,Kansas City,Banc Iowa Savings Bank,0.0,1.0,1.0,1989,1980,1.0
-16307,319245.0,STATE,21,08/31/2022,Chicago,American Community Bank of Indiana,0.0,1.0,1.0,2022,2020,1.0
-16316,373489.0,STATE,13,11/01/2000,Chicago,M & I Lakeview Bank,0.0,1.0,1.0,2000,2000,1.0
-16325,112191.0,OTS,33,06/06/2008,New York,Summit Federal Savings Bank,0.0,1.0,1.0,2008,2000,1.0
-16328,44285.0,STATE,35,08/30/2019,Chicago,New Valley Central Bank,0.0,1.0,1.0,2019,2010,1.0
-16331,144938.0,STATE,42,02/28/2019,New York,Kopernik Bank,0.0,1.0,1.0,2019,2010,1.0
-16336,241020.0,STATE,21,08/31/2022,Chicago,Logansport Savings Bank,1.0,1.0,1.0,2022,2020,1.0
-16345,108672.0,OTS,37,12/19/2002,Kansas City,"Community Bank - Excelsior Springs, A Savings Bank",0.0,1.0,1.0,2002,2000,1.0
-16352,1683600.0,STATE,21,08/31/2022,San Francisco,Riverview Bank,0.0,1.0,1.0,2022,2020,1.0
-16355,,OTS,38,04/30/1983,Atlanta,Peoples Federal Savings and Loan Association,,4.0,4.0,1983,1980,1.0
-16356,127248.0,OCC,37,05/18/2020,Chicago,Dearborn Savings Bank,1.0,2.0,2.0,2020,2020,1.0
-16375,324830.0,OCC,33,10/31/2014,New York,First Federal Savings Bank,0.0,2.0,2.0,2014,2010,1.0
-16383,96466257.0,OCC,3,08/31/2022,New York,"Santander Bank, N.A.",1.0,20.0,20.0,2022,2020,1.0
-16391,4644939.0,STATE,35,12/31/1988,Dallas,United Savings Association of Texas,0.0,6.0,6.0,1988,1980,1.0
-16413,2226287.0,OCC,33,05/01/2016,Chicago,"AnchorBank, fsb",0.0,11.0,11.0,2016,2010,1.0
-16415,126256.0,OCC,37,08/31/2022,Chicago,Midland Federal Savings and Loan Association,1.0,4.0,4.0,2022,2020,1.0
-16416,233597.0,STATE,21,05/01/2021,Chicago,Edgewater  Bank,0.0,1.0,1.0,2021,2020,1.0
-16427,84821.0,OTS,33,07/09/2001,Kansas City,"Provident Bank, F.S.B.",0.0,2.0,2.0,2001,2000,1.0
-16430,587321.0,STATE,42,08/31/2022,New York,Phoenixville Federal Bank and Trust,1.0,3.0,3.0,2022,2020,1.0
-16437,123216.0,OCC,3,10/14/2016,Chicago,"Mfsb, National Association",0.0,1.0,1.0,2016,2010,1.0
-16438,137673.0,STATE,41,02/28/1997,Dallas,Loan and Building State Savings Bank,0.0,1.0,1.0,1997,1990,1.0
-16439,1031900.0,OCC,33,05/05/2017,Chicago,Guaranty Bank,0.0,2.0,2.0,2017,2010,1.0
-16448,15775362.0,OCC,37,08/31/2022,Chicago,Third Federal Savings and Loan Association of Cleveland,0.0,4.0,4.0,2022,2020,1.0
-16452,558863.0,OCC,3,07/22/2004,Chicago,"FSFSB, National Association",0.0,2.0,2.0,2004,2000,1.0
-16456,605418.0,STATE,35,05/16/1998,Chicago,County Savings Bank,0.0,1.0,1.0,1998,1990,1.0
-16464,760267.0,OTS,33,06/30/2005,New York,Ocwen Federal Bank FSB,1.0,2.0,2.0,2005,2000,1.0
-16486,165955.0,OCC,33,01/01/2013,Dallas,First Federal Bank Texas,0.0,1.0,1.0,2013,2010,1.0
-16497,186082.0,OCC,38,08/31/2022,Chicago,First Federal Savings and Loan Association of Greensburg,0.0,2.0,2.0,2022,2020,1.0
-16507,45955.0,STATE,13,08/31/2022,Kansas City,Cornerstone Bank,0.0,2.0,2.0,2022,2020,1.0
-16516,24501.0,OTS,33,11/23/2002,Chicago,Blue River Federal Savings Bank,0.0,2.0,2.0,2002,2000,1.0
-16517,3694232.0,STATE,36,08/31/2022,New York,"Spencer Savings Bank, SLA",0.0,1.0,1.0,2022,2020,1.0
-16525,81872.0,OTS,33,03/08/1996,Chicago,"Metro Savings Bank, FSB",0.0,1.0,1.0,1996,1990,1.0
-16526,153545.0,STATE,36,08/31/2022,Chicago,Mercer Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-16531,1583044.0,OTS,38,12/06/2008,New York,Willow Financial Bank,0.0,1.0,1.0,2008,2000,1.0
-16533,932176.0,STATE,21,07/27/2019,Chicago,"Heritage Bank USA, Inc.",0.0,2.0,2.0,2019,2010,1.0
-16557,303584.0,OTS,37,09/25/1994,Atlanta,First Federal Savings and Loan Association of Charlotte,0.0,1.0,1.0,1994,1990,1.0
-16565,47068.0,OCC,34,11/05/2016,Chicago,Merrill Federal Savings and Loan Association,0.0,1.0,1.0,2016,2010,1.0
-16570,2389537.0,OCC,34,06/24/2018,Chicago,Bank Mutual,0.0,4.0,4.0,2018,2010,1.0
-16571,107452.0,OCC,34,02/28/2021,New York,Gibraltar Bank,0.0,3.0,3.0,2021,2020,1.0
-16577,26046.0,OCC,38,09/01/2012,Chicago,First Federal Savings and Loan Association of Pekin,0.0,2.0,2.0,2012,2010,1.0
-16578,264488.0,OCC,33,08/31/2022,Chicago,"Mid-Southern Savings Bank, FSB",0.0,2.0,2.0,2022,2020,1.0
-16588,46807.0,STATE,41,01/26/1996,Atlanta,"Seaboard Savings Bank, Inc., SSB",0.0,1.0,1.0,1996,1990,1.0
-16589,36722.0,OTS,37,06/30/2000,Dallas,Gilmer Savings Bank FSB,0.0,1.0,1.0,2000,2000,1.0
-16614,404384.0,OCC,33,08/31/2022,Atlanta,Cullman Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-16665,291292.0,OTS,37,04/19/1996,New York,First Federal Savings and Loan Association,0.0,3.0,3.0,1996,1990,1.0
-16674,261969.0,STATE,35,11/15/1990,New York,"Action Savings Bank, SLA",0.0,1.0,1.0,1990,1990,1.0
-16695,381667.0,OTS,33,06/27/2001,New York,"Crusader Savings Bank, F.S.B.",0.0,3.0,3.0,2001,2000,1.0
-16709,2167240.0,STATE,41,07/14/2004,New York,First Savings Bank,0.0,1.0,1.0,2004,2000,1.0
-16715,563830.0,STATE,42,08/31/2022,New York,Cross County Savings Bank,0.0,3.0,3.0,2022,2020,1.0
-16722,105531.0,OTS,37,03/09/1990,Dallas,Peoples Federal Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0
-16733,50680164.0,OTS,33,11/13/2002,San Francisco,California Federal Bank,1.0,9.0,9.0,2002,2000,1.0
-16740,1655057.0,OCC,3,11/04/2016,Kansas City,Pulaski Bank National Association,0.0,1.0,1.0,2016,2010,1.0
-16748,56937.0,STATE,41,08/31/2022,Dallas,"First Federal Bank Littlefield, Texas",0.0,1.0,1.0,2022,2020,1.0
-16754,1292268.0,OCC,3,06/30/2007,Atlanta,"Encore Bank, National Association",0.0,2.0,2.0,2007,2000,1.0
-16765,476391.0,OCC,33,04/01/2021,San Francisco,"Broadway Federal Bank, f.s.b.",0.0,3.0,3.0,2021,2020,1.0
-16786,153082.0,OTS,33,06/13/1997,Chicago,SJS Federal Savings Bank,0.0,1.0,1.0,1997,1990,1.0
-16789,12994.0,OTS,34,11/06/2009,Chicago,Home Federal Savings Bank,0.0,13.0,13.0,2009,2000,1.0
-16790,677730.0,OCC,3,03/17/2017,Chicago,"First Clover Leaf Bank, National Association",0.0,2.0,2.0,2017,2010,1.0
-16802,10175915.0,OTS,33,12/03/2005,Kansas City,"Commercial Federal Bank, a Federal Savings Bank",1.0,15.0,15.0,2005,2000,1.0
-16824,220852.0,STATE,21,10/01/2017,Kansas City,First Home Bank,0.0,3.0,3.0,2017,2010,1.0
-16827,328694.0,STATE,41,08/31/2022,New York,1st Bank of Sea Isle City,0.0,2.0,2.0,2022,2020,1.0
-16833,42969.0,OTS,33,10/15/1999,Dallas,Guthrie Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0
-16838,16353.0,STATE,36,11/01/1994,New York,Springfield Savings and Loan Association,0.0,1.0,1.0,1994,1990,1.0
-16846,46349.0,STATE,41,08/26/2005,Chicago,American Savings Bank of Danville,0.0,1.0,1.0,2005,2000,1.0
-16848,18431369.0,STATE,21,08/31/2022,New York,FirstBank Puerto Rico,1.0,1.0,1.0,2022,2020,1.0
-16856,756146.0,OCC,33,08/31/2022,New York,Carver Federal Savings Bank,0.0,2.0,2.0,2022,2020,1.0
-16857,49202.0,OCC,34,08/31/2022,Kansas City,Tecumseh Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-16859,601967.0,OCC,38,08/31/2022,New York,Geddes Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0
-16881,467236.0,OCC,33,01/10/2013,Atlanta,Community Bank,0.0,2.0,2.0,2013,2010,1.0
-16889,296573.0,OCC,33,12/04/2015,New York,Scituate Federal Savings Bank,0.0,1.0,1.0,2015,2010,1.0
-16894,169981.0,OCC,38,08/31/2022,New York,Massena Savings and Loan,0.0,2.0,2.0,2022,2020,1.0
-16899,95047.0,OCC,37,04/15/2021,Atlanta,SouthFirst Bank,0.0,9.0,9.0,2021,2020,1.0
-16902,141107.0,STATE,35,01/29/1993,New York,Mayflower Savings Bank SLA,0.0,1.0,1.0,1993,1990,1.0
-16907,1237064.0,OCC,38,08/31/2022,Dallas,First Federal Bank of Louisiana,0.0,1.0,1.0,2022,2020,1.0
-16913,53180.0,STATE,36,08/31/2022,Dallas,Rayne Building and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-16919,83026.0,STATE,35,07/28/2000,Chicago,"Marquette Savings Bank, S.A.",0.0,1.0,1.0,2000,2000,1.0
-16940,3284425.0,OTS,33,07/01/1995,Atlanta,"American Savings of Florida, F.S.B.",0.0,3.0,3.0,1995,1990,1.0
-16964,55405.0,OTS,33,12/09/1994,Atlanta,First Republic Savings Bank FSB,0.0,1.0,1.0,1994,1990,1.0
-16981,348193.0,OTS,33,05/20/1999,New York,Little Falls Bank,0.0,1.0,1.0,1999,1990,1.0
-16992,142242.0,OTS,38,07/31/1992,New York,Doylestown Federal Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0
-16993,668433.0,OTS,33,07/23/1998,Atlanta,Palmetto Federal Savings Bank of South Carolina,0.0,1.0,1.0,1998,1990,1.0
-17005,5079.0,STATE,36,07/08/1993,Chicago,Benld Loan Association,0.0,1.0,1.0,1993,1990,1.0
-17023,204686.0,STATE,41,05/12/2000,Chicago,The Ravenna Savings Bank,0.0,1.0,1.0,2000,2000,1.0
-17024,72180.0,OTS,33,08/31/1998,Chicago,Pioneer Federal Savings Bank,0.0,8.0,8.0,1998,1990,1.0
-17027,3807907.0,OCC,33,08/02/2012,Atlanta,BankAtlantic,0.0,4.0,4.0,2012,2010,1.0
-17041,47499.0,STATE,35,12/31/1991,New York,Star Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0
-17048,528629.0,STATE,35,07/06/2010,New York,"Pamrapo Savings Bank, SLA",0.0,17.0,17.0,2010,2010,1.0
-17060,29526.0,STATE,42,10/01/2005,Chicago,"Rantoul First Bank, s.b.",0.0,2.0,2.0,2005,2000,1.0
-17065,162967.0,STATE,13,08/31/2022,Kansas City,F&M Bank and Trust Company,1.0,1.0,1.0,2022,2020,1.0
-17075,22374.0,STATE,35,11/11/1993,Kansas City,Postal Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-17077,103229.0,OTS,33,07/01/1995,New York,"Plaistow Co-operative Bank, FSB",0.0,2.0,2.0,1995,1990,1.0
-17080,44670.0,STATE,41,08/31/1998,New York,Peoples Savings Bank,0.0,2.0,2.0,1998,1990,1.0
-17090,107921.0,STATE,42,08/31/2022,Atlanta,"Abbeville First Bank, SSB",0.0,1.0,1.0,2022,2020,1.0
-17092,397143.0,STATE,41,05/21/1999,Chicago,"First Mutual Bank, S.B.",0.0,1.0,1.0,1999,1990,1.0
-17097,363720.0,STATE,35,09/26/1988,Dallas,Continental Savings Association,0.0,1.0,1.0,1988,1980,1.0
-17098,426254.0,OCC,33,09/07/2013,New York,Newport Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0
-17107,59357.0,OTS,33,11/13/1993,Atlanta,United Savings Bank FSB,0.0,1.0,1.0,1993,1990,1.0
-17119,98594.0,STATE,35,06/30/1993,New York,Hampton Co-operative Bank,0.0,1.0,1.0,1993,1990,1.0
-17137,69853.0,OCC,38,05/23/2020,Kansas City,Central Federal Savings and Loan Association of Rolla,0.0,1.0,1.0,2020,2020,1.0
-17159,3189949.0,STATE,35,05/25/1989,Dallas,University Savings Association,0.0,1.0,1.0,1989,1980,1.0
-17166,191974.0,STATE,35,08/31/2022,San Francisco,"BankPacific, Ltd",0.0,1.0,1.0,2022,2020,1.0
-17169,56065.0,OCC,38,01/01/2016,Kansas City,Home Federal Savings and Loan Association of Nebraska,0.0,1.0,1.0,2016,2010,1.0
-17170,437786.0,STATE,41,06/01/2013,Dallas,"Orange Savings Bank, ssb",0.0,2.0,2.0,2013,2010,1.0
-17175,2380289.0,OTS,33,10/25/2002,San Francisco,"Fidelity Federal Bank, a Federal Savings Bank",1.0,7.0,7.0,2002,2000,1.0
-17197,1629638.0,OCC,33,09/01/2018,Atlanta,CharterBank,0.0,8.0,8.0,2018,2010,1.0
-17199,324983.0,OCC,33,08/31/2022,San Francisco,Universal Bank,0.0,7.0,7.0,2022,2020,1.0
-17211,51954.0,STATE,35,06/16/1993,New York,New Jersey Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-17219,434876.0,STATE,13,06/22/2012,Kansas City,First Federal Savings Bank of Iowa,0.0,2.0,2.0,2012,2010,1.0
-17222,79134776.0,OCC,33,01/01/2022,Atlanta,E*TRADE Bank,0.0,1.0,1.0,2022,2020,1.0
-17238,347408.0,OTS,34,01/30/2009,New York,Suburban Federal Savings Bank,0.0,2.0,2.0,2009,2000,1.0
-17250,119230.0,STATE,41,12/08/2005,Chicago,Pekin Savings Bank,0.0,1.0,1.0,2005,2000,1.0
-17251,6745045.0,OCC,3,08/31/2022,Kansas City,"Pathward, National Association",0.0,4.0,4.0,2022,2020,1.0
-17263,81201.0,OTS,33,12/31/1995,Dallas,"Capital Bank, a Federal Savings Bank",0.0,1.0,1.0,1995,1990,1.0
-17265,37425.0,OCC,33,01/19/2013,Kansas City,BANK 360,0.0,1.0,1.0,2013,2010,1.0
-17281,74853.0,STATE,36,10/14/2005,New York,Westerly Savings Bank,0.0,2.0,2.0,2005,2000,1.0
-17289,344555.0,OCC,38,08/31/2022,Dallas,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-17299,1698255.0,OTS,37,10/30/2000,New York,York Federal Savings and Loan Association,1.0,1.0,1.0,2000,2000,1.0
-17311,1133191.0,OTS,33,11/26/1996,Atlanta,"Home Savings Bank, F.S.B.",0.0,1.0,1.0,1996,1990,1.0
-17315,1608137.0,OTS,33,07/19/1996,San Francisco,"Primerit Bank, Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0
-17372,313646.0,OCC,3,06/05/2013,Dallas,Aurora Interim National Bank,0.0,5.0,5.0,2013,2010,1.0
-17380,453349.0,OTS,33,10/15/2010,Kansas City,"Security Savings Bank, F.S.B.",0.0,3.0,3.0,2010,2010,1.0
-17405,101903.0,OTS,33,02/16/2002,Atlanta,Citizens Federal Savings Bank of Port St. Joe,0.0,2.0,2.0,2002,2000,1.0
-17411,108540.0,OTS,37,03/01/2003,Atlanta,Citizens Federal Savings Bank,0.0,4.0,4.0,2003,2000,1.0
-17412,62517.0,STATE,42,07/01/2016,Chicago,"Lake Federal Bank, FSB",0.0,1.0,1.0,2016,2010,1.0
-17438,4233.0,OCC,38,10/07/2016,Kansas City,American Loan and Savings Association,0.0,2.0,2.0,2016,2010,1.0
-17439,74211.0,STATE,41,10/14/2014,Dallas,Texas Savings Bank,0.0,7.0,7.0,2014,2010,1.0
-17457,12779371.0,OTS,37,11/21/2008,San Francisco,"Downey Savings and Loan Association, F.A.",0.0,3.0,3.0,2008,2000,1.0
-17463,405170.0,STATE,35,01/24/1997,San Francisco,United Savings Bank,1.0,1.0,1.0,1997,1990,1.0
-17490,193664.0,STATE,35,02/28/1992,Chicago,Lemont Savings Association,0.0,1.0,1.0,1992,1990,1.0
-17519,572398.0,STATE,35,01/10/1992,New York,"Hansen Savings Bank, SLA",0.0,2.0,2.0,1992,1990,1.0
-17539,244927.0,STATE,21,08/31/2022,Dallas,Interstate Bank,0.0,1.0,1.0,2022,2020,1.0
-17542,139591.0,OTS,33,03/29/1996,Atlanta,"First of Englewood, F.S.B.",0.0,1.0,1.0,1996,1990,1.0
-17555,2869629.0,STATE,35,12/14/1990,Dallas,San Jacinto Savings Association,1.0,9.0,9.0,1990,1990,1.0
-17559,5358626.0,STATE,35,03/22/1991,San Francisco,Columbia Savings and Loan Association,0.0,3.0,3.0,1991,1990,1.0
-17560,163683.0,OCC,33,02/22/2013,Kansas City,RiverWood  Bank,0.0,1.0,1.0,2013,2010,1.0
-17565,31587.0,STATE,21,08/24/2005,Chicago,Illinois Community Bank,1.0,1.0,1.0,2005,2000,1.0
-17579,154850.0,STATE,35,10/31/1988,Dallas,Southern Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0
-17581,144930.0,OCC,38,08/31/2022,New York,Jarrettsville Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0
-17593,774723.0,OTS,33,11/01/1994,San Francisco,"First Western Bank, F.S.B.",0.0,1.0,1.0,1994,1990,1.0
-17601,1294172.0,STATE,21,08/31/2022,Atlanta,Security Federal Bank,1.0,1.0,1.0,2022,2020,1.0
-17602,1336502.0,STATE,35,05/16/2003,Chicago,Metropolitan Bank and Trust,0.0,4.0,4.0,2003,2000,1.0
-17611,218733.0,STATE,35,05/15/2001,Chicago,First Savings and Loan Association of South Holland,0.0,2.0,2.0,2001,2000,1.0
-17620,321194.0,OTS,33,07/17/1998,Chicago,"Homebanc, A Federal Savings Bank",1.0,2.0,2.0,1998,1990,1.0
-17625,171079.0,OTS,33,05/01/2011,Dallas,Woodforest Bank,0.0,3.0,3.0,2011,2010,1.0
-17629,118823.0,OCC,33,08/31/2022,Atlanta,"First Federal Bank, A FSB",0.0,2.0,2.0,2022,2020,1.0
-17630,341873.0,STATE,35,12/14/1990,Dallas,Bancplus Savings Association,0.0,3.0,3.0,1990,1990,1.0
-17653,130604.0,OTS,33,12/16/2005,Chicago,Peoples Federal Savings Bank,0.0,1.0,1.0,2005,2000,1.0
-17661,120517.0,OCC,33,01/01/2013,Chicago,Central Kentucky Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0
-17695,164568.0,STATE,42,06/01/2011,New York,North Penn Bank,0.0,2.0,2.0,2011,2010,1.0
-17696,2150148.0,OCC,33,08/31/2022,New York,Ponce Bank,0.0,2.0,2.0,2022,2020,1.0
-17702,237876.0,OTS,33,12/07/1996,Atlanta,First Federal Bank,0.0,1.0,1.0,1996,1990,1.0
-17705,82164.0,OCC,37,08/31/2022,Chicago,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0
-17706,159590.0,OCC,34,08/31/2022,Dallas,"Greeneville Federal Bank, FSB",0.0,3.0,3.0,2022,2020,1.0
-17714,242460.0,OCC,33,08/22/2011,Kansas City,Queen City Federal Savings Bank,0.0,1.0,1.0,2011,2010,1.0
-17727,416228.0,STATE,13,08/31/2022,Atlanta,LifeStore Bank,0.0,1.0,1.0,2022,2020,1.0
-17729,96660.0,OTS,33,04/13/1998,Atlanta,"Regions Bank, FSB",0.0,1.0,1.0,1998,1990,1.0
-17736,6890.0,STATE,36,02/20/2009,New York,Canisteo Savings and Loan Association,0.0,1.0,1.0,2009,2000,1.0
-17743,2892072.0,OTS,33,01/10/1992,Atlanta,"Perpetual Savings Bank, FSB",1.0,1.0,1.0,1992,1990,1.0
-17771,112226.0,STATE,85,09/30/2020,Chicago,New Buffalo Savings Bank,0.0,2.0,2.0,2020,2020,1.0
-17778,538258.0,STATE,21,11/05/2010,New York,K Bank,0.0,1.0,1.0,2010,2010,1.0
-17792,10886.0,OTS,33,06/14/1991,Chicago,"First Commerce Bank, A FSB",0.0,1.0,1.0,1991,1990,1.0
-17799,29327.0,OTS,38,06/21/2007,New York,Golden Prague Federal Savings and Loan Association,0.0,2.0,2.0,2007,2000,1.0
-17810,2153690.0,OTS,37,01/21/2011,Dallas,United Western Bank,0.0,2.0,2.0,2011,2010,1.0
-17811,389843.0,STATE,13,10/10/2015,Atlanta,Shore Bank,0.0,1.0,1.0,2015,2010,1.0
-17824,70178.0,OTS,33,01/07/1994,Chicago,"Heart of Illinois Bank, F.S.B.",0.0,2.0,2.0,1994,1990,1.0
-17827,28248.0,OTS,33,01/15/1997,Chicago,Home Federal Savings Bank,0.0,1.0,1.0,1997,1990,1.0
-17831,3644048.0,OCC,34,08/31/2022,Atlanta,First Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-17833,4782218.0,OTS,37,12/31/2000,San Francisco,"World Savings and Loan Association, A Federal Savings and Loan Associati",0.0,1.0,1.0,2000,2000,1.0
-17841,272521.0,OTS,33,02/11/1994,Atlanta,"FloridaBank, A Federal Savings Bank",0.0,1.0,1.0,1994,1990,1.0
-17850,13408.0,OTS,33,02/14/2004,New York,Dollar Savings Bank,0.0,15.0,15.0,2004,2000,1.0
-17855,1052496.0,OTS,33,04/02/1995,Atlanta,"Ameribanc Savings Bank, FSB",0.0,1.0,1.0,1995,1990,1.0
-17874,9125.0,STATE,36,10/17/2008,New York,Elk County Savings and Loan Association,0.0,2.0,2.0,2008,2000,1.0
-17899,176450.0,OTS,33,10/01/2007,Chicago,"Cardunal Savings Bank, FSB",0.0,1.0,1.0,2007,2000,1.0
-17914,703762.0,OCC,3,08/31/2022,Atlanta,"Axiom Bank, National Association",0.0,2.0,2.0,2022,2020,1.0
-17937,140907.0,STATE,35,08/31/2022,Atlanta,"1st Federal Savings Bank of SC, Inc.",0.0,1.0,1.0,2022,2020,1.0
-17938,73110.0,OTS,37,10/31/1997,Atlanta,First Federal Savings and Loan Association of Chilton County,0.0,1.0,1.0,1997,1990,1.0
-17946,148616.0,OCC,33,07/03/2013,New York,Roebling Bank,0.0,1.0,1.0,2013,2010,1.0
-17978,40485.0,OTS,33,08/24/2000,Atlanta,"Dominion Savings Bank, F.S.B.",0.0,10.0,10.0,2000,2000,1.0
-17999,39383.0,OTS,38,05/08/1991,New York,First Federal Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0
-18009,8837584.0,OTS,33,03/01/1998,San Francisco,"Coast Federal Bank, Federal Savings Bank",0.0,1.0,1.0,1998,1990,1.0
-18011,145365.0,STATE,21,08/31/2022,Atlanta,First Fidelity Bank,0.0,1.0,1.0,2022,2020,1.0
-18021,167109.0,STATE,13,08/31/2022,Kansas City,Progressive Ozark Bank,1.0,1.0,1.0,2022,2020,1.0
-18029,463840.0,OCC,33,04/27/2012,Kansas City,"Inter Savings Bank, fsb  D/B/A  Interbank,  fsb",0.0,6.0,6.0,2012,2010,1.0
-18050,57517.0,OTS,33,11/05/2008,Atlanta,Security Bank,0.0,6.0,6.0,2008,2000,1.0
-18057,378751.0,OTS,33,12/09/1996,Atlanta,"Regions Bank, F.S.B.",0.0,3.0,3.0,1996,1990,1.0
-18065,55112.0,STATE,35,06/09/2006,Chicago,The Mercantile Savings Bank,0.0,1.0,1.0,2006,2000,1.0
-18081,1717520.0,OTS,33,10/21/1992,New York,Standard Federal Savings Bank,1.0,1.0,1.0,1992,1990,1.0
-18085,24299.0,STATE,35,03/16/1990,Kansas City,Sun Savings Bank,0.0,1.0,1.0,1990,1990,1.0
-18091,46230.0,OTS,38,09/30/1994,Kansas City,First Federal Savings and Loan Association of Hastings,0.0,1.0,1.0,1994,1990,1.0
-18092,188705.0,STATE,21,10/13/2018,New York,Colombo Bank,0.0,4.0,4.0,2018,2010,1.0
-18096,12947.0,STATE,36,08/14/2009,New York,Dwelling House Savings and Loan Association,0.0,12.0,12.0,2009,2000,1.0
-18097,17375.0,STATE,36,01/11/1991,New York,Connecticut Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0
-18112,29046.0,STATE,35,01/31/1993,Kansas City,Home Trust Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-18116,10947.0,STATE,81,06/30/1997,Atlanta,First Commonwealth Savings Bank FSB,0.0,1.0,1.0,1997,1990,1.0
-18120,19259.0,OCC,38,01/20/2012,New York,American Eagle Savings Bank,0.0,3.0,3.0,2012,2010,1.0
-18126,223248.0,STATE,35,08/30/1991,New York,Homestead Savings Association,0.0,2.0,2.0,1991,1990,1.0
-18132,425492.0,STATE,41,07/31/2012,New York,First Star Bank,0.0,1.0,1.0,2012,2010,1.0
-18164,9448.0,OTS,38,08/20/2010,Atlanta,Imperial Savings and Loan Association,0.0,11.0,11.0,2010,2010,1.0
-18177,28992.0,OTS,33,07/31/1998,New York,Fajardo Federal Savings Bank,0.0,3.0,3.0,1998,1990,1.0
-18205,248839.0,STATE,35,02/23/1990,Dallas,Texasbanc Savings Association,0.0,1.0,1.0,1990,1990,1.0
-18209,94195.0,OTS,33,05/08/1992,Atlanta,Shenandoah Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-18218,18256.0,STATE,41,01/03/1997,Chicago,"Litchfield Community Savings, S.B.",0.0,1.0,1.0,1997,1990,1.0
-18221,66086.0,STATE,35,08/31/1989,San Francisco,Home Savings Bank,0.0,2.0,2.0,1989,1980,1.0
-18261,93679.0,STATE,21,08/31/2022,Dallas,RiverBank,1.0,6.0,6.0,2022,2020,1.0
-18307,467894.0,OTS,33,12/01/1994,New York,Citizens Savings Bank FSB,0.0,2.0,2.0,1994,1990,1.0
-18311,30486.0,OTS,33,12/31/1995,Dallas,Sun World Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0
-18312,35536.0,OTS,33,04/11/1996,Chicago,"American Fidelity Bank, FSB",0.0,1.0,1.0,1996,1990,1.0
-18313,441753.0,OTS,33,11/04/1994,Chicago,"Republic Savings Bank, FSB",1.0,9.0,9.0,1994,1990,1.0
-18316,139771.0,STATE,21,08/31/2022,Dallas,Greater State Bank,0.0,7.0,7.0,2022,2020,1.0
-18325,521998.0,OTS,33,07/31/1998,New York,"First Home Savings Bank, F.S.B.",0.0,1.0,1.0,1998,1990,1.0
-18351,493555.0,OTS,37,05/26/1994,Dallas,"Equity Bank for Savings, F.A.",1.0,2.0,2.0,1994,1990,1.0
-18369,6128.0,STATE,36,01/31/1987,New York,Anthracite Building and Loan Association,0.0,1.0,1.0,1987,1980,1.0
-18372,28807.0,OTS,33,06/24/1993,Dallas,Eagle Federal Bank for Savings,0.0,3.0,3.0,1993,1990,1.0
-18381,271536.0,OCC,33,08/31/2022,Atlanta,"Interamerican Bank, A FSB",0.0,1.0,1.0,2022,2020,1.0
-18400,837383.0,STATE,13,08/31/2022,Dallas,Financial Federal Bank,0.0,1.0,1.0,2022,2020,1.0
-18409,20161.0,OTS,37,12/03/1993,Dallas,Republic Federal Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-18426,111038.0,OCC,33,08/31/2022,Dallas,"Grand Bank for Savings, FSB",0.0,1.0,1.0,2022,2020,1.0
-18429,81003.0,STATE,21,12/31/2008,Dallas,First Bank and Trust of Mississippi,0.0,2.0,2.0,2008,2000,1.0
-18467,145072.0,STATE,41,01/01/2023,Atlanta,CBL State Savings Bank,0.0,1.0,1.0,2023,2020,1.0
-18471,240966.0,STATE,35,01/04/1990,Dallas,First Guaranty Bank for Savings,0.0,1.0,1.0,1990,1990,1.0
-18478,124725.0,OTS,37,11/10/2000,New York,Nutmeg Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0
-18482,33779.0,STATE,35,04/19/1991,Dallas,Mercantile Savings Bank,0.0,1.0,1.0,1991,1990,1.0
-18490,24275.0,OTS,33,11/02/2001,Dallas,The Federal Savings Bank of Evangeline Parish,0.0,2.0,2.0,2001,2000,1.0
-18503,36010.0,STATE,35,02/09/1990,Dallas,Colorado Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0
-18513,6078748.0,OCC,33,08/31/2022,New York,TrustCo Bank,0.0,2.0,2.0,2022,2020,1.0
-18522,1552939.0,OCC,33,01/14/2017,New York,"Lake Sunapee Bank, FSB",1.0,1.0,1.0,2017,2010,1.0
-18534,714574.0,STATE,21,07/30/2010,San Francisco,LibertyBank,0.0,1.0,1.0,2010,2010,1.0
-18546,50245.0,OTS,33,03/31/2006,Kansas City,"Central West End Bank, A Federal Savings Bank",0.0,3.0,3.0,2006,2000,1.0
-18553,130720.0,OTS,33,11/30/2001,San Francisco,"Del Amo Savings Bank, FSB",0.0,1.0,1.0,2001,2000,1.0
-18567,161556.0,OCC,38,08/31/2022,New York,Slovenian Savings and Loan Association of Franklin-Conemaugh,0.0,1.0,1.0,2022,2020,1.0
-18593,79030.0,STATE,41,08/31/2022,Dallas,"Angelina Savings Bank, SSB",0.0,1.0,1.0,2022,2020,1.0
-18597,295333.0,STATE,21,03/01/2020,Dallas,Progressive Savings Bank,0.0,1.0,1.0,2020,2020,1.0
-18601,261726.0,STATE,13,08/31/2022,Dallas,United Bank,0.0,5.0,5.0,2022,2020,1.0
-18606,355501.0,OTS,33,11/16/1989,Atlanta,"General Bank, A Federal Savings Bank",0.0,8.0,8.0,1989,1980,1.0
-18614,71979.0,OTS,37,04/18/1997,Atlanta,"Firstate Financial, F.A.",0.0,1.0,1.0,1997,1990,1.0
-18644,209991.0,STATE,35,07/29/1997,San Francisco,Hancock Savings Bank,0.0,2.0,2.0,1997,1990,1.0
-18648,1260354.0,STATE,21,04/24/2009,San Francisco,First Bank of Beverly Hills,0.0,5.0,5.0,2009,2000,1.0
-18652,254759.0,STATE,13,09/11/2004,Atlanta,Guaranty Bank,0.0,1.0,1.0,2004,2000,1.0
-18654,259724.0,OTS,33,02/09/1995,Atlanta,"PRESIDENTIAL BANK, F.S.B.",0.0,1.0,1.0,1995,1990,1.0
-18671,2214549.0,STATE,35,10/15/1991,Dallas,"Oak Tree Savings Bank, S.S.B.",0.0,11.0,11.0,1991,1990,1.0
-18677,84667.0,OTS,33,10/01/1998,San Francisco,First Global Bank Federal Savings Bank,0.0,1.0,1.0,1998,1990,1.0
-18680,2507789.0,OTS,33,06/27/1997,Dallas,MidFirst Bank,0.0,2.0,2.0,1997,1990,1.0
-18685,5898515.0,STATE,21,02/27/2015,New York,Doral Bank,1.0,1.0,1.0,2015,2010,1.0
-18689,3689416.0,OTS,33,11/30/1998,New York,"ALBANK, FSB",0.0,1.0,1.0,1998,1990,1.0
-18694,922548.0,OTS,33,03/18/2006,San Francisco,Standard Bank,0.0,3.0,3.0,2006,2000,1.0
-18696,161641.0,OTS,33,07/10/1998,Atlanta,"Anchor Savings Bank, F.S.B.",0.0,1.0,1.0,1998,1990,1.0
-18704,380790.0,OTS,33,01/17/2003,New York,"Savings Bank of the Finger Lakes, FSB",0.0,2.0,2.0,2003,2000,1.0
-18720,401294.0,STATE,41,08/31/2022,Dallas,"Shelby Savings Bank, SSB",0.0,4.0,4.0,2022,2020,1.0
-18721,41886.0,STATE,35,09/10/1993,San Francisco,Amador Valley Savings and Loan Association,0.0,8.0,8.0,1993,1990,1.0
-18730,381486.0,OTS,33,11/01/1996,San Francisco,"Topa Savings Bank, FSB",0.0,6.0,6.0,1996,1990,1.0
-18734,145485.0,STATE,13,03/01/2010,San Francisco,Community Banks of Northern California,0.0,4.0,4.0,2010,2010,1.0
-18736,56769.0,STATE,35,01/31/1992,San Francisco,Butte Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0
-18748,16386.0,STATE,35,03/27/1998,Kansas City,"First Savings and Loan Association of South Dakota, Inc.",0.0,1.0,1.0,1998,1990,1.0
-18752,866459.0,OTS,33,08/20/2010,San Francisco,Los Padres Bank,0.0,4.0,4.0,2010,2010,1.0
-18754,1795420.0,OTS,33,12/18/2009,Atlanta,Peoples First Community Bank,1.0,3.0,3.0,2009,2000,1.0
-18760,21622295.0,STATE,13,08/31/2022,San Francisco,Pacific Premier Bank,0.0,4.0,4.0,2022,2020,1.0
-18767,638581.0,STATE,35,12/06/1991,San Francisco,Guardian Savings and Loan Association,0.0,4.0,4.0,1991,1990,1.0
-18777,110419000.0,OCC,33,08/31/2022,Dallas,USAA Federal Savings Bank,1.0,6.0,6.0,2022,2020,1.0
-18780,281348.0,STATE,21,05/01/2003,Atlanta,First Georgia Bank,0.0,1.0,1.0,2003,2000,1.0
-18785,253495.0,OTS,33,07/01/1995,San Francisco,"International Savings Bank, F.S.B.",0.0,1.0,1.0,1995,1990,1.0
-18798,139454.0,OCC,33,08/09/2019,New York,Chinatown Federal Savings Bank,0.0,1.0,1.0,2019,2010,1.0
-18801,1607372.0,OCC,33,03/24/2018,Atlanta,Gibraltar Private Bank & Trust Co.,1.0,3.0,3.0,2018,2010,1.0
-18803,102977.0,OTS,37,06/29/1990,New York,Charter Federal Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0
-18807,213205.0,OCC,3,10/30/2009,San Francisco,"Bank USA, National Association",0.0,4.0,4.0,2009,2000,1.0
-18808,110644.0,OTS,33,12/31/1997,San Francisco,"First Bank of Beverly Hills, FSB",0.0,5.0,5.0,1997,1990,1.0
-18814,50532.0,OTS,33,09/13/1991,Dallas,Davy Crockett Federal Savings Bank,0.0,1.0,1.0,1991,1990,1.0
-18817,13127.0,STATE,35,12/31/1993,New York,Sentry Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0
-18823,2442858.0,OCC,33,08/31/2022,Chicago,"Sterling Bank and Trust, FSB",0.0,4.0,4.0,2022,2020,1.0
-18832,41550.0,STATE,35,11/14/1997,Dallas,"First Commercial Bank, SSB",0.0,1.0,1.0,1997,1990,1.0
-18834,1202137.0,OCC,33,08/31/2022,Chicago,"Liberty Savings Bank, F.S.B.",1.0,4.0,4.0,2022,2020,1.0
-18836,59403.0,OTS,33,12/08/1992,Atlanta,Palm Beach Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-18839,13111463.0,OTS,33,05/21/2009,Atlanta,"BankUnited, FSB",0.0,2.0,2.0,2009,2000,1.0
-18844,94823.0,STATE,13,10/22/2010,Atlanta,Progress Bank of Florida,0.0,1.0,1.0,2010,2010,1.0
-18850,325884.0,OCC,33,08/31/2022,New York,Abacus Federal Savings Bank,0.0,5.0,5.0,2022,2020,1.0
-18854,73400.0,OCC,33,03/26/2018,New York,Wawel Bank,0.0,2.0,2.0,2018,2010,1.0
-18856,93138.0,STATE,35,05/31/1997,San Francisco,US Community Savings Bank,0.0,1.0,1.0,1997,1990,1.0
-18858,1960018.0,OTS,37,09/30/1988,Dallas,Guaranty Federal Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0
-18859,331556.0,OCC,33,10/04/2019,Dallas,Preferred Bank,0.0,2.0,2.0,2019,2010,1.0
-18860,585656.0,OCC,33,11/01/2013,Atlanta,Acacia Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0
-18861,755923.0,OTS,33,11/13/2009,Atlanta,"Century Bank, a Federal Savings Bank",0.0,5.0,5.0,2009,2000,1.0
-18865,452283.0,OTS,33,06/01/2011,Atlanta,First Community Bank of America,0.0,5.0,5.0,2011,2010,1.0
-18870,210528.0,OTS,33,05/24/2001,San Francisco,"Bank of Stockdale, F.S.B.",0.0,1.0,1.0,2001,2000,1.0
-18871,1464127.0,OTS,33,12/18/2009,Atlanta,New South Federal Savings Bank,1.0,2.0,2.0,2009,2000,1.0
-18876,240251.0,OTS,33,07/16/2010,Atlanta,Turnberry Bank,0.0,2.0,2.0,2010,2010,1.0
-18880,36484.0,STATE,41,05/23/2014,Chicago,Columbia Savings Bank,0.0,1.0,1.0,2014,2010,1.0
-18884,606153.0,OTS,33,07/31/2009,Chicago,Peoples Community Bank,0.0,3.0,3.0,2009,2000,1.0
-18891,36426.0,STATE,36,09/12/2014,Chicago,The Home Building and Loan Company,0.0,11.0,11.0,2014,2010,1.0
-18892,3217178.0,STATE,35,08/31/2022,Chicago,Union Savings Bank,0.0,2.0,2.0,2022,2020,1.0
-18907,410396.0,OTS,33,05/07/1993,Chicago,Charter Oak Federal Savings Bank,0.0,4.0,4.0,1993,1990,1.0
-18908,159630.0,STATE,35,01/31/1987,Chicago,Midwest Savings Association,0.0,9.0,9.0,1987,1980,1.0
-18915,21712.0,OTS,33,05/03/2004,Dallas,Allied Houston Bank,0.0,6.0,6.0,2004,2000,1.0
-18921,30628.0,STATE,35,08/16/1996,Dallas,Firstbanc Savings of Texas,0.0,2.0,2.0,1996,1990,1.0
-18923,18493587.0,OTS,33,07/30/2009,Atlanta,"Chevy Chase Bank, F.S.B.",1.0,1.0,1.0,2009,2000,1.0
-18924,8443364.0,OCC,33,01/01/2020,Kansas City,Mutual of Omaha Bank,1.0,1.0,1.0,2020,2020,1.0
-18927,319176.0,OCC,33,01/01/2016,New York,American Bank,0.0,15.0,15.0,2016,2010,1.0
-18928,61232.0,STATE,35,11/29/2013,Dallas,Union Savings Bank,0.0,1.0,1.0,2013,2010,1.0
-18930,187366.0,OTS,33,03/16/1990,Dallas,"First America Savings Bank, FSB",0.0,1.0,1.0,1990,1990,1.0
-18937,2790988.0,OCC,3,11/02/2007,Atlanta,"R-G Crown Bank, National Association",0.0,3.0,3.0,2007,2000,1.0
-18939,1572770.0,OTS,33,12/04/1992,New York,Second National Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-18942,604045.0,STATE,13,02/15/2014,New York,Baltimore County Savings Bank,0.0,1.0,1.0,2014,2010,1.0
-18948,161430.0,STATE,41,10/14/2011,Atlanta,"Blue Ridge Savings Bank, Inc.",0.0,1.0,1.0,2011,2010,1.0
-18952,331846.0,OCC,33,05/10/2013,New York,"The Washington Savings Bank, FSB",0.0,3.0,3.0,2013,2010,1.0
-18961,326035.0,OCC,33,08/31/2022,New York,"Eastern Savings Bank, FSB",0.0,5.0,5.0,2022,2020,1.0
-18963,186104.0,OCC,33,10/01/2014,Atlanta,Bank of Atlanta,0.0,1.0,1.0,2014,2010,1.0
-18964,817787.0,OCC,33,08/31/2022,New York,"Presidential Bank, FSB",1.0,1.0,1.0,2022,2020,1.0
-18968,1113906.0,OCC,33,11/01/2021,New York,"SEVERN SAVINGS BANK, FSB DBA SEVERN BANK",0.0,1.0,1.0,2021,2020,1.0
-18969,140063.0,OCC,37,05/30/2014,New York,Slavie Federal Savings Bank,0.0,1.0,1.0,2014,2010,1.0
-18970,77215.0,STATE,21,09/11/2015,New York,Fairmount Bank,0.0,2.0,2.0,2015,2010,1.0
-18972,135673.0,STATE,21,12/05/2015,New York,Regal Bank & Trust,0.0,1.0,1.0,2015,2010,1.0
-18974,223510.0,OCC,33,07/08/2016,New York,Hopkins Federal Savings Bank,0.0,1.0,1.0,2016,2010,1.0
-18975,161973.0,STATE,41,03/12/1997,Dallas,"Horizon Bank & Trust, SSB",0.0,2.0,2.0,1997,1990,1.0
-18979,337023.0,OTS,33,05/01/2004,Atlanta,"Essex Savings Bank, F.S.B.",0.0,1.0,1.0,2004,2000,1.0
-18980,661568.0,OTS,33,03/03/1995,San Francisco,"Plaza Home Mortgage Bank, a Federal Savings Bank",0.0,5.0,5.0,1995,1990,1.0
-18996,176160.0,STATE,21,10/01/2020,New York,Carroll Community Bank,0.0,5.0,5.0,2020,2020,1.0
-19001,50566.0,OTS,33,04/07/1995,New York,Family First FSB,0.0,12.0,12.0,1995,1990,1.0
-19008,50790.0,OTS,33,01/20/2007,New York,Valley Bank of Maryland,0.0,1.0,1.0,2007,2000,1.0
-19012,225755.0,STATE,21,08/20/2004,Atlanta,Madison Bank,0.0,1.0,1.0,2004,2000,1.0
-19016,172343.0,STATE,35,05/08/1990,Dallas,Mississippi Savings Bank,0.0,1.0,1.0,1990,1990,1.0
-19023,56200.0,OTS,37,11/05/1998,Atlanta,Lochaven Federal Savings and Loan Association,0.0,1.0,1.0,1998,1990,1.0
-19029,3646071.0,OTS,33,02/19/2010,San Francisco,"La Jolla Bank, FSB",0.0,2.0,2.0,2010,2010,1.0
-19042,119027.0,STATE,41,04/30/1996,Dallas,"Charter Bank, S.S.B.",0.0,1.0,1.0,1996,1990,1.0
-19047,485271.0,OCC,3,08/31/2022,Chicago,"United Midwest Savings Bank, National Association",0.0,1.0,1.0,2022,2020,1.0
-19048,75117.0,OTS,33,07/02/1997,Atlanta,"Seaboard Savings Bank, FSB",0.0,1.0,1.0,1997,1990,1.0
-19050,137307.0,OTS,33,07/17/1992,New York,New England Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-19059,35042.0,OTS,33,06/19/1992,San Francisco,"First Newport Bank, F.S.B.",0.0,3.0,3.0,1992,1990,1.0
-19060,108031.0,STATE,35,07/01/1996,San Francisco,"Torrance Bank, S.S.B.",0.0,3.0,3.0,1996,1990,1.0
-19061,58064.0,STATE,35,09/06/1991,Atlanta,Bay Savings Bank,0.0,6.0,6.0,1991,1990,1.0
-19063,6177.0,OTS,34,07/09/2010,New York,Ideal Federal Savings Bank,0.0,2.0,2.0,2010,2010,1.0
-19065,31467.0,OTS,33,06/25/1999,Atlanta,"Partners Bank of Florida, FSB",0.0,1.0,1.0,1999,1990,1.0
-19066,485387.0,OCC,33,08/31/2022,Dallas,Homeland Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-19068,1192209.0,OCC,33,01/01/2015,Dallas,"Southwest Securities , FSB",1.0,8.0,8.0,2015,2010,1.0
-19073,113859.0,OCC,3,01/15/1998,Dallas,"Sun World, National Association",0.0,1.0,1.0,1998,1990,1.0
-19076,38978.0,OTS,33,08/07/1992,Atlanta,Citadel Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0
-19080,234209.0,OTS,33,09/15/2007,Atlanta,Monticello Bank,0.0,3.0,3.0,2007,2000,1.0
-19084,77029.0,STATE,35,01/10/1997,Dallas,Colorado Springs Savings and Loan Association,0.0,1.0,1.0,1997,1990,1.0
-19085,61665.0,OCC,33,11/30/2012,Atlanta,E*TRADE United Bank,0.0,1.0,1.0,2012,2010,1.0
-19086,65075.0,OTS,33,08/31/1994,San Francisco,"Home Federal Bank, SB",0.0,1.0,1.0,1994,1990,1.0
-19092,57479.0,OTS,33,12/31/1997,San Francisco,Flagship Bank FSB,0.0,2.0,2.0,1997,1990,1.0
-19097,36626.0,STATE,35,06/05/1993,Dallas,Sun Savings Association,0.0,1.0,1.0,1993,1990,1.0
-19101,68981.0,OTS,33,07/12/1999,Atlanta,"Oceanmark Bank, A FSB",0.0,1.0,1.0,1999,1990,1.0
-19103,85449.0,OTS,33,07/30/1996,Atlanta,"Key Florida Bank, A Federal Savings Bank",0.0,5.0,5.0,1996,1990,1.0
-19108,1201922.0,OTS,33,01/22/2010,Dallas,Charter Bank,0.0,4.0,4.0,2010,2010,1.0
-19109,128700.0,OTS,33,01/01/2006,Kansas City,"First Savings Bank, F.S.B.",0.0,2.0,2.0,2006,2000,1.0
-19115,433512.0,OCC,33,04/27/2012,Atlanta,Plantation Federal Bank,0.0,6.0,6.0,2012,2010,1.0
-19129,163831.0,OTS,33,06/27/1996,Dallas,"River Valley Bank, FSB",0.0,1.0,1.0,1996,1990,1.0
-19134,492643.0,OTS,33,04/01/1995,Atlanta,"AMTRUST BANK, F.S.B.",0.0,1.0,1.0,1995,1990,1.0
-19136,79070.0,OTS,33,11/22/1996,Atlanta,"Preferred Bank, A FSB",0.0,1.0,1.0,1996,1990,1.0
-19140,9315611.0,OCC,33,08/31/2022,San Francisco,"American Savings Bank, FSB",0.0,4.0,4.0,2022,2020,1.0
-19149,3851.0,OTS,33,09/30/2008,Chicago,Universal Savings Bank FA,0.0,1.0,1.0,2008,2000,1.0
-19154,69141.0,OTS,33,11/05/1998,Atlanta,Bankers Savings Bank,0.0,1.0,1.0,1998,1990,1.0
-19157,25391417.0,OCC,3,12/01/2022,New York,"Flagstar Bank, National Association",1.0,6.0,6.0,2022,2020,1.0
-19168,6299148.0,OCC,3,08/31/2022,San Francisco,"LendingClub Bank, National Association",0.0,6.0,6.0,2022,2020,1.0
-19172,76826.0,OTS,33,06/01/1996,Atlanta,"Treasure Coast Bank, A Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0
-19179,71928.0,OTS,38,05/11/1990,Kansas City,"Topeka Savings, A Federal Savings and Loan Association",0.0,1.0,1.0,1990,1990,1.0
-19180,56201.0,OTS,33,09/25/2000,New York,First Virgin Islands FSB,0.0,2.0,2.0,2000,2000,1.0
-19185,724698.0,OCC,3,04/01/2000,Chicago,TCF National Bank Wisconsin,0.0,1.0,1.0,2000,2000,1.0
-19187,21365.0,OTS,33,06/30/2011,Chicago,American Home Bank,0.0,3.0,3.0,2011,2010,1.0
-19189,382803.0,OTS,33,07/16/2010,Atlanta,Woodlands Bank,0.0,5.0,5.0,2010,2010,1.0
-19190,36469.0,OTS,33,09/12/2002,Kansas City,"First American Savings Bank, F.S.B.",0.0,1.0,1.0,2002,2000,1.0
-19193,2473806.0,OTS,33,09/28/2007,Atlanta,NetBank,0.0,2.0,2.0,2007,2000,1.0
-19194,28089.0,OTS,33,05/11/1990,Dallas,"Great West Savings Bank, F.S.B.",0.0,2.0,2.0,1990,1990,1.0
-19199,322131.0,OCC,33,11/01/2011,Atlanta,Federal Trust Bank,0.0,5.0,5.0,2011,2010,1.0
-19201,255920.0,OTS,33,10/22/2010,San Francisco,"First Arizona Savings, A FSB",0.0,2.0,2.0,2010,2010,1.0
-19202,203262.0,OTS,33,12/04/2009,Atlanta,Greater Atlantic Bank,0.0,5.0,5.0,2009,2000,1.0
-19208,35355.0,OTS,33,09/14/1990,Dallas,First Federal Savings Bank of Hempstead,0.0,2.0,2.0,1990,1990,1.0
-19220,1002511.0,OTS,33,12/13/1996,Kansas City,"First Bank, Federal Savings Bank",1.0,1.0,1.0,1996,1990,1.0
-19222,671140.0,OTS,33,11/30/1998,Dallas,"Local America Bank of Tulsa, A Federal Savings Bank",0.0,3.0,3.0,1998,1990,1.0
-19225,422245.0,OTS,37,04/26/1991,Dallas,Red River Federal Savings and Loan Association,0.0,2.0,2.0,1991,1990,1.0
-19227,80148.0,STATE,35,07/18/1997,Atlanta,"Lowcountry Savings Bank, Inc.",0.0,1.0,1.0,1997,1990,1.0
-19232,517.0,OTS,33,09/09/2005,Dallas,"First Heights Bank, a  FSB",0.0,1.0,1.0,2005,2000,1.0
-19233,3161743.0,OCC,3,08/31/2022,Chicago,"NATIONAL COOPERATIVE BANK, N.A.",0.0,1.0,1.0,2022,2020,1.0
-19235,2461979.0,OTS,33,11/03/2006,Chicago,Union Federal Bank of Indianapolis,1.0,4.0,4.0,2006,2000,1.0
-19239,13464352.0,OTS,33,08/21/2009,Dallas,Guaranty Bank,1.0,24.0,24.0,2009,2000,1.0
-19240,588856.0,STATE,81,08/12/1998,Dallas,"Franklin Federal Bancorp, A Federal Savings Bank",0.0,2.0,2.0,1998,1990,1.0
-19242,151484.0,OCC,3,03/23/1998,Chicago,Peoples National Bank,1.0,1.0,1.0,1998,1990,1.0
-19244,6244877.0,OCC,3,10/01/2006,Dallas,"Citibank Texas, National Association",1.0,3.0,3.0,2006,2000,1.0
-19245,48437.0,OTS,33,10/23/2009,Kansas City,"United Security Savings Bank, F.S.B.",0.0,1.0,1.0,2009,2000,1.0
-19250,1349755.0,OCC,33,08/31/2022,Kansas City,First Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-19255,307021614.0,OTS,33,09/25/2008,San Francisco,Washington Mutual Bank,0.0,22.0,22.0,2008,2000,1.0
-19262,18646936.0,OTS,33,02/13/2001,Dallas,Bank United,0.0,12.0,12.0,2001,2000,1.0
-19263,1833.0,OTS,33,03/19/2001,Dallas,Pacific Southwest Bank,1.0,5.0,5.0,2001,2000,1.0
-19265,16490888.0,OTS,33,01/03/1997,Dallas,"First Nationwide Bank, FSB",1.0,13.0,13.0,1997,1990,1.0
-19267,719927.0,OTS,33,01/28/1994,Atlanta,Virginia Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-19268,1765455.0,OTS,33,07/27/2001,Chicago,Superior Bank FSB,0.0,6.0,6.0,2001,2000,1.0
-19270,451172.0,OTS,33,10/31/2003,Dallas,Bluebonnet Savings Bank FSB,1.0,1.0,1.0,2003,2000,1.0
-19271,107093.0,OCC,33,09/30/2016,Atlanta,American Bank of Huntsville,0.0,4.0,4.0,2016,2010,1.0
-19274,18410.0,OCC,3,02/09/2006,Atlanta,FBR National Trust Company,1.0,1.0,1.0,2006,2000,1.0
-19276,140142.0,OCC,33,11/28/2013,New York,Colombo Bank,0.0,7.0,7.0,2013,2010,1.0
-19282,24653.0,OCC,34,11/30/2012,New York,Hull Federal Savings Bank,0.0,1.0,1.0,2012,2010,1.0
-19419,848596.0,OTS,38,07/19/1991,San Francisco,"Southwest Savings and Loan Association, FA",0.0,4.0,4.0,1991,1990,1.0
-19456,209157.0,OTS,38,07/05/1991,New York,Colonial Federal Savings Association,0.0,1.0,1.0,1991,1990,1.0
-19736,103942.0,OTS,33,01/15/2000,Kansas City,"UNICO Bank, Federal Savings Bank",0.0,1.0,1.0,2000,2000,1.0
-19737,164819.0,OCC,33,08/31/2022,San Francisco,"Gateway Bank, F.S.B.",0.0,11.0,11.0,2022,2020,1.0
-19738,280986.0,STATE,41,09/13/1999,Chicago,"Advance Bank, s.b.",0.0,1.0,1.0,1999,1990,1.0
-19743,62727.0,OCC,33,05/06/2016,Atlanta,"SouthBank, a Federal Savings Bank",0.0,4.0,4.0,2016,2010,1.0
-19745,2108698.0,OCC,33,08/31/2022,Dallas,Colorado Federal Savings Bank,0.0,8.0,8.0,2022,2020,1.0
-19758,274330.0,OTS,33,07/02/1996,Dallas,"Colorado Savings Bank, F.S.B.",0.0,1.0,1.0,1996,1990,1.0
-19814,16753.0,OTS,33,01/29/1993,Dallas,"Life Savings Bank, F.S.B.",0.0,1.0,1.0,1993,1990,1.0
-19828,156243.0,OTS,33,09/14/2000,Kansas City,Reliastar Bank,1.0,1.0,1.0,2000,2000,1.0
-19917,388780.0,STATE,81,06/29/1994,Dallas,First Federal Savings Bank,0.0,2.0,2.0,1994,1990,1.0
-20118,2879.0,OTS,34,07/15/1994,Atlanta,Bay Federal Savings Bank,0.0,3.0,3.0,1994,1990,1.0
-20149,84726.0,OTS,34,08/06/1993,New York,Marine View Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0
-20165,1647135.0,OTS,37,01/01/2011,Dallas,IBERIABANK fsb,1.0,1.0,1.0,2011,2010,1.0
-20244,1196762.0,OTS,34,09/16/1994,Chicago,Transohio Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0
-20426,88778.0,OCC,33,08/31/2022,Dallas,Priority Bank,0.0,2.0,2.0,2022,2020,1.0
-20440,2444512.0,OCC,3,04/01/2000,Chicago,TCF NATIONAL BANK,1.0,1.0,1.0,2000,2000,1.0
-20450,18720.0,OCC,33,07/31/2015,Atlanta,"SouthBank, a Federal Savings Bank",0.0,4.0,4.0,2015,2010,1.0
-20460,108239.0,OTS,33,01/23/1999,New York,Stamford Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0
-20473,46141.0,OTS,33,04/15/2000,Chicago,"Matewan Bank, FSB",0.0,1.0,1.0,2000,2000,1.0
-20478,4111503.0,OTS,43,02/29/1996,New York,CrossLand Federal Savings Bank,0.0,1.0,1.0,1996,1990,1.0
-20500,29259.0,STATE,21,10/22/2010,Atlanta,The Gordon Bank,0.0,1.0,1.0,2010,2010,1.0
-20504,494885.0,OCC,3,07/01/2011,New York,"Wilmington Trust, National Association",1.0,1.0,1.0,2011,2010,1.0
-20515,287210.0,OCC,33,08/31/2022,Kansas City,Frontier Bank,1.0,2.0,2.0,2022,2020,1.0
-20525,81563.0,OTS,33,11/30/2010,Dallas,"Dryades Savings Bank, F.S.B.",0.0,2.0,2.0,2010,2010,1.0
-20540,37923.0,OTS,33,02/28/2003,New York,Enterprise Federal Savings Bank,0.0,1.0,1.0,2003,2000,1.0
-20553,1770123.0,OCC,3,01/02/1999,New York,"Banco Popular, National Association (New Jersey)",0.0,4.0,4.0,1999,1990,1.0
-20719,200.0,OCC,33,06/30/2013,New York,Monadnock Community Bank,0.0,1.0,1.0,2013,2010,1.0
-20907,490656.0,OTS,33,04/24/2009,San Francisco,"First Bank of Idaho, FSB",0.0,1.0,1.0,2009,2000,1.0
-20923,164335.0,OCC,33,08/29/2013,Atlanta,Bank of St. Augustine,0.0,1.0,1.0,2013,2010,1.0
-20925,1166638.0,OCC,33,08/31/2022,Dallas,First Command Bank,1.0,2.0,2.0,2022,2020,1.0
-21042,226307.0,OTS,33,10/31/2004,Kansas City,MidCountry Bank,0.0,1.0,1.0,2004,2000,1.0
-21068,365959.0,STATE,21,08/31/2022,Dallas,American Bank of Oklahoma,0.0,7.0,7.0,2022,2020,1.0
-21077,717331.0,OCC,33,03/30/2021,Chicago,"State Farm Bank, F.S.B.",0.0,4.0,4.0,2021,2020,1.0
-21100,46792.0,OCC,33,08/27/2021,Atlanta,Home Federal Bank of Hollywood,0.0,3.0,3.0,2021,2020,1.0
-21105,2236878.0,OCC,33,02/10/2014,Chicago,First Place Bank,0.0,2.0,2.0,2014,2010,1.0
-21125,144688.0,OTS,33,08/21/2009,Atlanta,Ebank,0.0,5.0,5.0,2009,2000,1.0
-21127,88031.0,OTS,33,03/26/2010,Atlanta,Key West Bank,0.0,2.0,2.0,2010,2010,1.0
-21166,80736.0,OCC,33,11/07/2014,San Francisco,"Frontier Bank, FSB",0.0,1.0,1.0,2014,2010,1.0
-21185,37594043.0,OCC,33,08/31/2022,Atlanta,"TIAA, FSB",0.0,1.0,1.0,2022,2020,1.0
-21193,332596.0,OTS,33,02/18/2011,San Francisco,"San Luis Trust Bank, FSB",0.0,7.0,7.0,2011,2010,1.0
-21237,148321.0,OTS,33,07/01/2004,Chicago,"First State,  FSB",0.0,2.0,2.0,2004,2000,1.0
-21247,152659.0,OTS,33,10/31/2009,Atlanta,Manatee River Community Bank,0.0,2.0,2.0,2009,2000,1.0
-21253,103455.0,STATE,21,08/31/2022,Atlanta,New Republic Bank,0.0,1.0,1.0,2022,2020,1.0
-21263,85436.0,OTS,33,10/21/2005,Atlanta,"Equinox Bank, FSB",0.0,2.0,2.0,2005,2000,1.0
-21283,129429.0,OTS,33,05/06/2011,Atlanta,Coastal Bank,0.0,3.0,3.0,2011,2010,1.0
-21310,587884.0,STATE,13,09/01/2015,Dallas,Magna Bank,0.0,2.0,2.0,2015,2010,1.0
-21330,4219.0,OTS,33,03/31/2011,New York,"Guardian Trust Company, FSB",1.0,4.0,4.0,2011,2010,1.0
-21345,155566.0,OTS,33,03/05/2010,New York,Waterfield Bank,0.0,2.0,2.0,2010,2010,1.0
-21386,228724.0,OCC,33,10/02/2021,Atlanta,CornerstoneBank,0.0,1.0,1.0,2021,2020,1.0
-21389,147961.0,OTS,33,09/04/2009,Chicago,Platinum Community Bank,0.0,3.0,3.0,2009,2000,1.0
-21433,128004.0,OTS,33,12/02/2006,Atlanta,1st Service Bank,0.0,1.0,1.0,2006,2000,1.0
-21483,1022892.0,OCC,33,08/31/2022,San Francisco,Farm Bureau Bank FSB,0.0,1.0,1.0,2022,2020,1.0
-21554,41482.0,OCC,33,08/31/2022,New York,AIG Federal Savings Bank,1.0,1.0,1.0,2022,2020,1.0
-21582,1539.0,OTS,33,03/31/2008,New York,"INATrust, fsb",1.0,1.0,1.0,2008,2000,1.0
-21602,55002198.0,OCC,33,04/01/2018,San Francisco,"American Express Bank,  FSB.",0.0,5.0,5.0,2018,2010,1.0
-21623,1700117.0,OCC,33,08/19/2011,Atlanta,Lydian Private Bank,0.0,2.0,2.0,2011,2010,1.0
-21635,54373.0,OCC,34,06/08/2012,Atlanta,Carolina Federal Savings Bank,0.0,5.0,5.0,2012,2010,1.0
-21651,104884.0,OCC,33,08/31/2022,Chicago,United Trust Bank,0.0,5.0,5.0,2022,2020,1.0
-21735,10719.0,OCC,33,08/31/2022,San Francisco,Davidson Trust Co.,1.0,3.0,3.0,2022,2020,1.0
-21743,762714.0,OCC,33,08/31/2022,Chicago,The Federal Savings Bank,0.0,6.0,6.0,2022,2020,1.0
-21749,48861.0,OCC,33,04/20/2012,New York,"Fort Lee Federal Savings Bank, FSB",0.0,2.0,2.0,2012,2010,1.0
-22218,33326143.0,OCC,33,08/31/2022,Dallas,MidFirst Bank,1.0,5.0,5.0,2022,2020,1.0
-22653,929742.0,STATE,21,05/25/2018,Atlanta,Atlantic Coast Bank,0.0,1.0,1.0,2018,2010,1.0
-23600,518151.0,OTS,33,09/18/2009,Chicago,"Irwin Union Bank,  F.S.B.",0.0,2.0,2.0,2009,2000,1.0
-23659,596688.0,OCC,33,08/31/2022,New York,Community Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0
-23704,131990.0,STATE,85,06/12/2015,New York,Union Federal Savings Bank,0.0,2.0,2.0,2015,2010,1.0
-23747,224955.0,OCC,33,06/01/2014,Atlanta,"Harrington Bank, FSB",0.0,2.0,2.0,2014,2010,1.0
-23750,1779439.0,OCC,3,08/31/2022,Chicago,Citizens Community Federal National Association,0.0,1.0,1.0,2022,2020,1.0
-23777,42019.0,OCC,3,07/01/2005,Atlanta,"Omni Interim, National Association",0.0,2.0,2.0,2005,2000,1.0
-23866,982396.0,STATE,21,08/31/2022,San Francisco,Sound Community Bank,0.0,1.0,1.0,2022,2020,1.0
-23918,132460.0,OCC,33,02/04/2020,Dallas,"Grand Mountain Bank, FSB",0.0,2.0,2.0,2020,2020,1.0
-23937,364834.0,STATE,21,04/01/2019,Atlanta,The Oculina Bank,0.0,1.0,1.0,2019,2010,1.0
-24011,64344.0,OTS,33,07/30/2010,Atlanta,Bayside Savings Bank,0.0,2.0,2.0,2010,2010,1.0
-24090,793429.0,OCC,33,08/31/2022,New York,Quontic Bank,0.0,5.0,5.0,2022,2020,1.0
-24186,259.0,OCC,33,03/31/2014,New York,Saddle River Valley Bank,0.0,1.0,1.0,2014,2010,1.0
-24202,65498.0,OTS,33,10/23/2009,Atlanta,Partners Bank,0.0,2.0,2.0,2009,2000,1.0
-24273,1338340.0,OCC,33,12/18/2014,Dallas,OmniAmerican Bank,0.0,3.0,3.0,2014,2010,1.0
-24282,676475.0,OCC,33,01/01/2015,New York,Continental Bank,0.0,1.0,1.0,2015,2010,1.0
-24335,59252.0,OCC,33,03/29/2013,Atlanta,"Reliance Bank, FSB",0.0,1.0,1.0,2013,2010,1.0
-24341,148658.0,OTS,33,02/01/2010,Atlanta,Liberty Bank,0.0,2.0,2.0,2010,2010,1.0
-24494,23292.0,OCC,33,10/25/2019,Chicago,Resolute Bank,0.0,1.0,1.0,2019,2010,1.0
-24572,208204.0,OTS,33,06/03/2011,Atlanta,Atlantic Bank and Trust,0.0,1.0,1.0,2011,2010,1.0
-24592,213094.0,STATE,21,04/01/2018,Atlanta,Sunshine Community Bank,0.0,1.0,1.0,2018,2010,1.0
-24625,68201.0,OTS,33,12/17/2010,Atlanta,"Appalachian Community Bank, F.S.B.",0.0,10.0,10.0,2010,2010,1.0
-24702,20330.0,OCC,33,06/22/2018,San Francisco,High Desert Bank,0.0,1.0,1.0,2018,2010,1.0
-24781,8407.0,OCC,33,12/31/2017,Atlanta,The Trust Company of Virginia,1.0,2.0,2.0,2017,2010,1.0
-24828,59415.0,OCC,33,10/20/2012,Atlanta,1st Commonwealth Bank of Virginia,0.0,11.0,11.0,2012,2010,1.0
-24906,47562923.0,OCC,3,01/04/2022,San Francisco,"CIT Bank, National Association",0.0,1.0,1.0,2022,2020,1.0
-25577,103965.0,OTS,33,09/19/2008,Atlanta,"Ameribank, Inc.",0.0,2.0,2.0,2008,2000,1.0
-26385,166456.0,OTS,33,04/17/2009,Kansas City,American Sterling Bank,0.0,11.0,11.0,2009,2000,1.0
-27055,2576594.0,OCC,33,08/31/2022,New York,Westfield Bank,0.0,1.0,1.0,2022,2020,1.0
+,asset,chrtagnt,clcode,effdate,fdicregn,name,trust,total_violations,unique_violations,year,decade,violation,no_violation
+430,197439.0,OCC,33,08/31/2022,Kansas City,"Community Development Bank, FSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+1432,358303.0,OCC,33,11/01/2014,Chicago,"Lafayette Savings Bank, FSB",0.0,3.0,3.0,2014,2010,1.0,0.0
+1454,344058.0,STATE,41,07/11/1994,New York,Johnstown Interim Bank,1.0,1.0,1.0,1994,1990,1.0,0.0
+2109,35099327.0,OCC,33,11/01/2015,New York,Hudson City Savings Bank,1.0,5.0,5.0,2015,2010,1.0,0.0
+3759,44549.0,STATE,21,07/12/2017,Dallas,Robert Lee State Bank,0.0,2.0,2.0,2017,2010,1.0,0.0
+4102,211749.0,STATE,21,08/31/2022,Kansas City,Northwest Bank & Trust Company,1.0,1.0,1.0,2022,2020,1.0,0.0
+4186,50291366.0,OTS,43,10/03/1998,San Francisco,"Home Savings of America, FSB",1.0,4.0,4.0,1998,1990,1.0,0.0
+4221,662309.0,OTS,43,03/08/2002,New York,Mohawk Community Bank,0.0,1.0,1.0,2002,2000,1.0,0.0
+4229,2093569.0,OTS,44,08/12/1994,New York,"The Lincoln Savings Bank, FSB",0.0,1.0,1.0,1994,1990,1.0,0.0
+4252,319842.0,OTS,33,04/01/2011,New York,The Rome Savings Bank,0.0,1.0,1.0,2011,2010,1.0,0.0
+4271,613561.0,STATE,15,05/14/2022,New York,Elmira Savings Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+4274,32925808.0,OCC,3,10/08/2016,New York,"First Niagara Bank, National Association",0.0,2.0,2.0,2016,2010,1.0,0.0
+4281,27971169.0,OTS,43,01/07/2002,New York,"The Dime Savings Bank of New York, FSB",1.0,4.0,4.0,2002,2000,1.0,0.0
+4282,6775780.0,STATE,21,02/01/2021,New York,Dime Community Bank,0.0,1.0,1.0,2021,2020,1.0,0.0
+4304,4106674.0,STATE,41,10/03/1997,New York,The Rochester Community Savings Bank,1.0,1.0,1.0,1997,1990,1.0,0.0
+4310,372013.0,OCC,33,08/31/2022,New York,Generations Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+4319,4452428.0,OCC,33,03/01/2013,New York,"Flushing Savings Bank, FSB",0.0,5.0,5.0,2013,2010,1.0,0.0
+4515,799761.0,STATE,21,08/31/2022,Kansas City,Peoples Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+5400,509074.0,OTS,43,10/10/1991,New York,"Numerica Savings Bank, FSB",1.0,1.0,1.0,1991,1990,1.0,0.0
+5882,2977290.0,OTS,33,04/15/2011,Atlanta,Superior Bank,1.0,3.0,3.0,2011,2010,1.0,0.0
+5926,5673314.0,STATE,13,08/31/2022,New York,Brookline  Bank,0.0,4.0,4.0,2022,2020,1.0,0.0
+6694,35742491.0,STATE,21,09/01/2007,New York,Citizens Bank of Massachusetts,1.0,1.0,1.0,2007,2000,1.0,0.0
+7825,830449.0,OCC,33,10/16/2015,New York,The Bank of Maine,0.0,5.0,5.0,2015,2010,1.0,0.0
+8594,267458.0,OCC,33,12/30/2013,Kansas City,"Liberty Bank, F.S.B.",0.0,2.0,2.0,2013,2010,1.0,0.0
+8735,201404.0,STATE,21,07/01/2021,Atlanta,Heritage First Bank,0.0,1.0,1.0,2021,2020,1.0,0.0
+9395,2580536.0,OCC,33,08/31/2022,New York,The Bank of Greene County,0.0,3.0,3.0,2022,2020,1.0,0.0
+9745,62124.0,STATE,41,06/12/1992,New York,Landmark Bank for Savings,0.0,2.0,2.0,1992,1990,1.0,0.0
+13384,209798.0,OCC,33,11/01/2022,New York,42 North Private Bank,0.0,13.0,13.0,2022,2020,1.0,0.0
+13447,59927703.0,OCC,3,11/01/2009,San Francisco,"Wells Fargo Bank Southwest, National Association",0.0,1.0,1.0,2009,2000,1.0,0.0
+13676,91750000.0,OCC,33,08/31/2022,San Francisco,Synchrony Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+13698,62773810.0,OCC,3,04/02/2022,New York,"People's United Bank, National Association",1.0,2.0,2.0,2022,2020,1.0,0.0
+13785,347557.0,OCC,33,08/31/2022,New York,"Home Loan Investment Bank, F.S.B.",0.0,3.0,3.0,2022,2020,1.0,0.0
+13979,192423.0,STATE,36,11/16/1989,Chicago,First Savings and Loan Association of Central Indiana,0.0,1.0,1.0,1989,1980,1.0,0.0
+13999,217186.0,OTS,37,10/31/2000,Dallas,First Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0,0.0
+14008,274610.0,OCC,34,08/31/2022,Chicago,First Federal Bank of Ohio,0.0,2.0,2.0,2022,2020,1.0,0.0
+14019,6459408.0,STATE,35,12/31/1988,Dallas,Gibraltar Savings Association,0.0,1.0,1.0,1988,1980,1.0,0.0
+14025,1889608.0,OTS,38,06/07/1996,Chicago,Bell Federal Savings and Loan Association,0.0,2.0,2.0,1996,1990,1.0,0.0
+14028,6154052.0,OTS,33,10/01/1999,Chicago,St Paul Federal Bank for Savings,0.0,1.0,1.0,1999,1990,1.0,0.0
+14031,464238.0,OCC,34,08/31/2022,Chicago,"Sterling Federal Bank, F.S.B.",0.0,1.0,1.0,2022,2020,1.0,0.0
+14045,3555111.0,STATE,13,08/31/2022,Atlanta,HomeTrust Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+14046,545518.0,STATE,42,08/31/2022,Dallas,"First Federal Community Bank, SSB",0.0,3.0,3.0,2022,2020,1.0,0.0
+14085,23533223.0,OTS,33,10/06/2001,Chicago,Standard Federal Bank,1.0,1.0,1.0,2001,2000,1.0,0.0
+14099,151728.0,OCC,38,08/31/2022,Kansas City,Lyons Federal Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+14105,503643.0,OTS,33,09/04/2009,Kansas City,Vantus Bank,1.0,2.0,2.0,2009,2000,1.0,0.0
+14109,24973.0,STATE,42,03/27/2004,Chicago,First Savings Bank,0.0,2.0,2.0,2004,2000,1.0,0.0
+14118,2058934.0,STATE,21,04/24/2020,Chicago,MutualBank,1.0,1.0,1.0,2020,2020,1.0,0.0
+14121,491695.0,OTS,33,07/27/2000,Chicago,Permanent Bank,0.0,2.0,2.0,2000,2000,1.0,0.0
+14139,497474.0,STATE,41,08/31/2022,New York,InFirst Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+14149,132850.0,STATE,35,04/02/1993,Kansas City,The Pioneer Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+14152,1955.0,OTS,33,08/06/2008,Kansas City,Horizon Bank,0.0,11.0,11.0,2008,2000,1.0,0.0
+14183,110216.0,OTS,33,11/15/2001,Chicago,Columbia Federal Savings Bank,0.0,1.0,1.0,2001,2000,1.0,0.0
+14188,47523.0,STATE,42,09/17/2010,Chicago,Bramble Savings Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+14190,84305.0,STATE,35,04/08/2005,Chicago,Genoa Savings and Loan Company,0.0,2.0,2.0,2005,2000,1.0,0.0
+14191,4927446.0,STATE,13,10/09/2022,Chicago,Independent Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+14196,43699.0,OTS,33,10/01/2001,New York,Workingmens Savings Bank,0.0,1.0,1.0,2001,2000,1.0,0.0
+14205,270228.0,STATE,36,07/12/1991,New York,Danbury Savings and Loan Association Incorporated,0.0,1.0,1.0,1991,1990,1.0,0.0
+14212,207779.0,OTS,33,03/31/2000,Atlanta,First American Federal Savings Bank,0.0,1.0,1.0,2000,2000,1.0,0.0
+14220,25637.0,OCC,37,11/30/2011,Chicago,"Newton County Loan & Savings, FSB",0.0,2.0,2.0,2011,2010,1.0,0.0
+14229,123836.0,STATE,35,10/13/2007,Chicago,City Savings Bank,0.0,1.0,1.0,2007,2000,1.0,0.0
+14232,131677.0,OCC,37,10/10/2015,Kansas City,First Federal Savings and Loan Association of Independence,0.0,1.0,1.0,2015,2010,1.0,0.0
+14241,1043463.0,OCC,3,08/31/2022,New York,Malvern Bank N.A.,0.0,2.0,2.0,2022,2020,1.0,0.0
+14251,3553786.0,OCC,3,04/01/2000,Chicago,TCF NATIONAL BANK ILLINOIS,1.0,2.0,2.0,2000,2000,1.0,0.0
+14258,31407.0,OCC,38,10/12/2018,Chicago,Kentucky Federal Savings and Loan Association,0.0,2.0,2.0,2018,2010,1.0,0.0
+14266,556420.0,OCC,34,08/31/2022,Atlanta,Huntington Federal Savings Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+14268,31479.0,OTS,34,03/10/2000,Atlanta,Mutual Federal Savings Bank,0.0,1.0,1.0,2000,2000,1.0,0.0
+14271,401520.0,OCC,33,09/19/2014,New York,OBA  Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+14274,3439034.0,OTS,33,10/01/1996,Dallas,Leader Federal Bank for Savings,1.0,2.0,2.0,1996,1990,1.0,0.0
+14276,51224.0,OCC,38,03/25/2017,New York,Progressive-Home Federal Savings and Loan Association,0.0,4.0,4.0,2017,2010,1.0,0.0
+14303,199440.0,OCC,38,12/02/2022,New York,Foxboro Federal Savings,0.0,1.0,1.0,2022,2020,1.0,0.0
+14306,954990.0,OTS,34,01/04/1990,Kansas City,Midwest Federal Savings Bank,0.0,1.0,1.0,1990,1990,1.0,0.0
+14319,570246.0,OCC,33,08/31/2022,Kansas City,RiverWood Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+14320,1336198.0,STATE,21,04/25/2008,Chicago,Oak Hill Banks,0.0,1.0,1.0,2008,2000,1.0,0.0
+14322,896864.0,STATE,13,07/08/2011,Chicago,First Chicago Bank & Trust,0.0,10.0,10.0,2011,2010,1.0,0.0
+14334,561781.0,STATE,35,05/21/2016,Chicago,Cheviot Savings Bank,0.0,2.0,2.0,2016,2010,1.0,0.0
+14340,2776200.0,OTS,33,02/08/1995,Chicago,"Great Lakes Bancorp, A FSB",1.0,1.0,1.0,1995,1990,1.0,0.0
+14352,215468.0,OTS,38,01/31/1997,Chicago,Security Federal Savings and Loan Association of Chicago,0.0,1.0,1.0,1997,1990,1.0,0.0
+14355,165567.0,STATE,35,10/31/2018,Chicago,Watch Hill Bank,0.0,1.0,1.0,2018,2010,1.0,0.0
+14356,114080.0,OCC,33,08/31/2022,Chicago,Community Savings,0.0,1.0,1.0,2022,2020,1.0,0.0
+14358,824000.0,OTS,33,06/25/1993,Dallas,"Home Federal Bank, FSB",1.0,1.0,1.0,1993,1990,1.0,0.0
+14359,1926499.0,OTS,33,01/31/1995,New York,Fidelity New York FSB,0.0,4.0,4.0,1995,1990,1.0,0.0
+14368,9644228.0,OCC,33,08/31/2022,Kansas City,Capitol Federal Savings Bank,0.0,4.0,4.0,2022,2020,1.0,0.0
+14369,240300.0,OTS,33,08/31/1993,Kansas City,"Eureka Savings Bank, FSB",0.0,1.0,1.0,1993,1990,1.0,0.0
+14373,190891.0,OCC,38,07/20/2012,Chicago,Second Federal Savings and Loan Association of Chicago,0.0,4.0,4.0,2012,2010,1.0,0.0
+14404,149242.0,OTS,33,04/14/1999,Kansas City,"Mid-Iowa Savings Bank, FSB",1.0,27.0,27.0,1999,1990,1.0,0.0
+14441,325784.0,OTS,33,04/30/2009,New York,Enfield Federal Savings and Loan Association,0.0,1.0,1.0,2009,2000,1.0,0.0
+14443,140325.0,OCC,33,04/30/2016,Chicago,Park Federal Savings Bank,0.0,4.0,4.0,2016,2010,1.0,0.0
+14444,2520378.0,OTS,33,09/04/1997,Chicago,Standard Federal Bank for Savings,0.0,1.0,1.0,1997,1990,1.0,0.0
+14467,95945.0,OTS,33,04/02/1999,Atlanta,First Carolina Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0,0.0
+14479,20772387.0,STATE,21,08/31/2022,San Francisco,Washington Federal Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+14483,1140169.0,STATE,21,05/16/2016,Kansas City,Home Federal Bank,1.0,2.0,2.0,2016,2010,1.0,0.0
+14493,37737.0,OTS,38,12/12/2003,New York,"Windsor Locks Community Bank, FSL",0.0,1.0,1.0,2003,2000,1.0,0.0
+14497,455484.0,OCC,3,08/31/2022,Chicago,"First Robinson Savings Bank, National Association",1.0,1.0,1.0,2022,2020,1.0,0.0
+14513,211974.0,OTS,33,03/24/2001,Kansas City,"Brenton Savings Bank, FSB",0.0,1.0,1.0,2001,2000,1.0,0.0
+14516,289377.0,OCC,33,01/10/2014,New York,GCF Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+14527,96584.0,OTS,34,07/16/2010,Chicago,"Mainstreet Savings Bank, FSB",0.0,3.0,3.0,2010,2010,1.0,0.0
+14536,65686.0,OCC,33,10/19/2012,Atlanta,First East Side Savings Bank,0.0,1.0,1.0,2012,2010,1.0,0.0
+14550,127680.0,STATE,35,08/31/2022,Chicago,The Cincinnatus Savings & Loan Co.,0.0,2.0,2.0,2022,2020,1.0,0.0
+14561,270706.0,STATE,15,08/31/2022,New York,Eastern Connecticut Savings Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+14599,538920.0,OTS,33,12/04/1998,New York,The Federal Savings Bank,0.0,1.0,1.0,1998,1990,1.0,0.0
+14633,760759.0,OCC,33,10/12/2013,Chicago,Park View Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+14643,14256898.0,OTS,33,03/31/2000,Chicago,"LaSalle Bank, F.S.B.",0.0,3.0,3.0,2000,2000,1.0,0.0
+14654,1316129.0,OTS,33,07/31/1998,Kansas City,AmerUs Bank,0.0,2.0,2.0,1998,1990,1.0,0.0
+14656,4625372.0,OTS,33,05/31/1997,Kansas City,"First Bank, Federal Savings Bank",1.0,4.0,4.0,1997,1990,1.0,0.0
+14664,1756179.0,OCC,3,08/31/2022,Chicago,"Cf Bank, National Association",0.0,1.0,1.0,2022,2020,1.0,0.0
+14676,23838.0,OCC,38,09/17/2016,Kansas City,Home Savings Bank,0.0,1.0,1.0,2016,2010,1.0,0.0
+14687,200087.0,OTS,34,12/31/2008,Chicago,"Continental Savings Bank, FSB",0.0,3.0,3.0,2008,2000,1.0,0.0
+14700,96473.0,OCC,33,09/30/2015,Chicago,PNA Bank,0.0,2.0,2.0,2015,2010,1.0,0.0
+14715,451888.0,OTS,33,08/28/2009,New York,Bradford Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+14718,141580.0,STATE,36,08/31/2022,Dallas,"RG Bank, A Savings and Loan Association",0.0,1.0,1.0,2022,2020,1.0,0.0
+14719,1041703.0,STATE,42,08/31/2022,Dallas,FIDELITY BANK,0.0,1.0,1.0,2022,2020,1.0,0.0
+14735,49421342.0,OCC,3,06/09/2021,Kansas City,TCF National Bank,1.0,5.0,5.0,2021,2020,1.0,0.0
+14750,3715433.0,OTS,33,11/21/2008,San Francisco,PFF Bank & Trust,1.0,1.0,1.0,2008,2000,1.0,0.0
+14752,292113.0,OCC,33,08/31/2022,Chicago,Cincinnati Federal,0.0,1.0,1.0,2022,2020,1.0,0.0
+14760,127845.0,OTS,34,12/20/2010,Chicago,Century Bank,0.0,5.0,5.0,2010,2010,1.0,0.0
+14763,150454.0,OCC,37,12/01/2012,Dallas,Osage Federal Bank,0.0,2.0,2.0,2012,2010,1.0,0.0
+14765,1045787.0,OTS,37,09/13/1994,New York,Crestmont Federal Savings and Loan Association,0.0,4.0,4.0,1994,1990,1.0,0.0
+14766,12555762.0,OCC,3,08/31/2022,New York,"OceanFirst Bank, National Association",1.0,3.0,3.0,2022,2020,1.0,0.0
+14770,1256144.0,STATE,21,08/31/2022,Dallas,Century Bank,1.0,2.0,2.0,2022,2020,1.0,0.0
+14776,584526.0,OCC,38,08/31/2022,New York,"Middlesex Federal Savings, F.A.",0.0,4.0,4.0,2022,2020,1.0,0.0
+14793,93017.0,STATE,82,09/30/2020,Chicago,Ben Franklin Bank of Illinois,0.0,2.0,2.0,2020,2020,1.0,0.0
+14797,9173196.0,OTS,33,10/20/1995,Kansas City,Roosevelt Bank,1.0,1.0,1.0,1995,1990,1.0,0.0
+14799,115655.0,OCC,33,08/31/2022,Kansas City,Edward Jones Trust Company,1.0,1.0,1.0,2022,2020,1.0,0.0
+14801,145940.0,OTS,37,09/29/2003,Atlanta,Amicus FSB,1.0,1.0,1.0,2003,2000,1.0,0.0
+14815,9813776.0,OTS,33,12/08/1989,New York,City Federal Savings Bank,1.0,7.0,7.0,1989,1980,1.0,0.0
+14816,74995.0,OCC,33,05/18/2018,Dallas,Liberty FSB,1.0,4.0,4.0,2018,2010,1.0,0.0
+14820,347209.0,OCC,33,09/15/2015,Dallas,Bank of New Orleans,0.0,1.0,1.0,2015,2010,1.0,0.0
+14832,149764.0,OTS,38,09/27/2001,New York,Revere Federal Savings and Loan Association,0.0,1.0,1.0,2001,2000,1.0,0.0
+14834,192470.0,OCC,34,08/31/2022,Chicago,Central Federal Savings and Loan Association,0.0,3.0,3.0,2022,2020,1.0,0.0
+14837,316828.0,STATE,41,10/08/2005,Chicago,Citizens Savings Bank,0.0,1.0,1.0,2005,2000,1.0,0.0
+14838,3950708.0,OTS,33,03/14/1998,New York,Collective Bank,0.0,4.0,4.0,1998,1990,1.0,0.0
+14840,148436.0,STATE,35,09/21/1989,Dallas,First Savings Association of Brenham,0.0,1.0,1.0,1989,1980,1.0,0.0
+14843,86121.0,OCC,3,05/15/1995,Chicago,"Firstar Bank Quad Cities, N.A.",0.0,1.0,1.0,1995,1990,1.0,0.0
+14859,636336.0,OCC,37,10/31/2011,San Francisco,"Fullerton Community Bank, FSB",0.0,1.0,1.0,2011,2010,1.0,0.0
+14872,70286.0,OCC,34,07/25/2014,Chicago,"GreenChoice Bank, fsb",0.0,2.0,2.0,2014,2010,1.0,0.0
+14877,14534.0,STATE,36,11/16/2007,Chicago,The Clifton Heights Savings & Loan Company,0.0,2.0,2.0,2007,2000,1.0,0.0
+14891,26035.0,STATE,36,08/31/2022,Chicago,Columbia Savings and Loan Association,0.0,4.0,4.0,2022,2020,1.0,0.0
+14913,319514.0,OTS,33,06/10/1994,New York,Annapolis Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+14919,239513.0,OTS,33,03/28/1992,Chicago,Midfed Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+14921,128362.0,OTS,37,04/27/1990,San Francisco,"Westco Savings Bank, FSB",0.0,1.0,1.0,1990,1990,1.0,0.0
+14929,379739.0,STATE,41,08/31/2022,Dallas,"TrustTexas Bank, SSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+14932,65996.0,OTS,33,12/29/1995,New York,Suburban Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0,0.0
+14944,601225.0,OTS,37,10/23/1998,Chicago,Security Federal Savings and Loan Association of Cleveland,0.0,1.0,1.0,1998,1990,1.0,0.0
+14948,6143903.0,OTS,33,12/18/2009,San Francisco,"First Federal Bank of California, a Federal Savings Bank",1.0,4.0,4.0,2009,2000,1.0,0.0
+14955,2865077.0,STATE,13,06/19/2004,Dallas,Local Oklahoma Bank,0.0,2.0,2.0,2004,2000,1.0,0.0
+14956,128190.0,STATE,21,08/31/2022,Kansas City,Custer Federal State Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+14958,15298.0,STATE,36,12/27/1996,New York,Keystone Savings and Loan Association,0.0,1.0,1.0,1996,1990,1.0,0.0
+14968,169996.0,OCC,33,12/07/2018,Chicago,Home City Federal Savings Bank of Springfield,0.0,2.0,2.0,2018,2010,1.0,0.0
+14979,403746.0,OCC,37,11/09/2012,Chicago,River Valley Financial Bank,1.0,4.0,4.0,2012,2010,1.0,0.0
+15003,499076.0,STATE,21,05/01/2019,New York,Hamilton Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+15020,161381.0,OTS,37,03/22/1991,Dallas,First Federal Savings and Loan Association of Chickasha,0.0,1.0,1.0,1991,1990,1.0,0.0
+15027,350488.0,OTS,38,09/17/2010,Chicago,Maritime Savings Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+15032,907144.0,STATE,21,04/17/2009,Chicago,Lincoln Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+15037,9625.0,STATE,41,09/19/2002,Chicago,The Findlay Savings Bank,0.0,1.0,1.0,2002,2000,1.0,0.0
+15038,740083.0,OCC,3,08/16/2008,Chicago,Century National Bank,0.0,1.0,1.0,2008,2000,1.0,0.0
+15040,498070.0,OTS,33,02/26/1999,Chicago,Avondale Federal Savings Bank,0.0,2.0,2.0,1999,1990,1.0,0.0
+15041,118523.0,OTS,38,04/12/1999,Chicago,Perpetual Federal Savings and Loan Association,0.0,2.0,2.0,1999,1990,1.0,0.0
+15045,123748.0,OCC,33,04/30/2018,New York,Delanco Federal Savings Bank,0.0,4.0,4.0,2018,2010,1.0,0.0
+15049,93467.0,STATE,21,08/31/2022,Kansas City,First Federal Savings and Loan Bank,0.0,5.0,5.0,2022,2020,1.0,0.0
+15056,11495.0,STATE,35,06/01/1993,Chicago,Cherry Grove Savings Bank,0.0,1.0,1.0,1993,1990,1.0,0.0
+15057,142683.0,OTS,37,10/31/1996,Kansas City,Sentinel Federal Savings and Loan Association of Kansas City,0.0,1.0,1.0,1996,1990,1.0,0.0
+15093,7188401.0,OTS,37,03/01/1997,New York,First Federal Savings and Loan Association of Rochester,0.0,2.0,2.0,1997,1990,1.0,0.0
+15098,3575040.0,OTS,33,03/15/1991,Atlanta,"Amerifirst Bank, A FSB",0.0,1.0,1.0,1991,1990,1.0,0.0
+15099,241453.0,OCC,33,07/07/2022,New York,Chesapeake Bank of Maryland,0.0,1.0,1.0,2022,2020,1.0,0.0
+15109,910991.0,OCC,33,03/31/2015,Kansas City,Heartland Bank,0.0,6.0,6.0,2015,2010,1.0,0.0
+15111,160475.0,STATE,35,09/07/2001,New York,Cargill Bank of Connecticut,0.0,2.0,2.0,2001,2000,1.0,0.0
+15129,176949.0,OCC,38,08/31/2022,New York,First Federal Savings of Middletown,0.0,2.0,2.0,2022,2020,1.0,0.0
+15130,691529.0,OTS,33,08/22/1997,New York,Citizens Savings Bank F.S.B.,0.0,1.0,1.0,1997,1990,1.0,0.0
+15153,4201313.0,OCC,3,07/24/1993,Dallas,Bank Western National Association,1.0,2.0,2.0,1993,1990,1.0,0.0
+15197,58525.0,OCC,38,07/01/2015,Chicago,"Liberty Savings Bank, FSB",0.0,2.0,2.0,2015,2010,1.0,0.0
+15207,197066.0,OTS,37,11/17/1995,New York,Fidelity Federal Savings and Loan Association,0.0,1.0,1.0,1995,1990,1.0,0.0
+15216,385258.0,OTS,33,11/22/1997,Kansas City,"Mercantile Bank, FSB",0.0,1.0,1.0,1997,1990,1.0,0.0
+15221,94824.0,OCC,37,08/31/2022,New York,Sunnyside Federal Savings and Loan Association of Irvington,0.0,3.0,3.0,2022,2020,1.0,0.0
+15230,247232.0,OTS,33,09/30/1992,Kansas City,"Security Financial Banking and Savings, FSB",0.0,1.0,1.0,1992,1990,1.0,0.0
+15240,125274.0,OTS,33,11/01/2001,Chicago,"Middlesboro Federal Bank, FSB",0.0,5.0,5.0,2001,2000,1.0,0.0
+15249,769426.0,OCC,38,08/01/2015,New York,First Federal Savings and Loan Association of Bucks Co,0.0,2.0,2.0,2015,2010,1.0,0.0
+15251,308029.0,STATE,15,08/31/2022,New York,The Brattleboro Savings and Loan Association,1.0,2.0,2.0,2022,2020,1.0,0.0
+15273,580811.0,OCC,38,08/31/2022,Atlanta,First Piedmont Federal Savings and Loan Association of Gaffney,0.0,1.0,1.0,2022,2020,1.0,0.0
+15274,94834.0,STATE,36,08/31/2022,Dallas,Century Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+15277,161355.0,OTS,33,07/16/2010,Atlanta,Olde Cypress Community Bank,0.0,3.0,3.0,2010,2010,1.0,0.0
+15278,1091193.0,OCC,33,02/15/2017,Kansas City,MidCountry Bank,0.0,1.0,1.0,2017,2010,1.0,0.0
+15280,684804.0,STATE,35,06/04/1992,New York,Home Unity Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+15295,46699.0,OTS,33,04/22/2005,Dallas,"NBC Bank, FSB",0.0,1.0,1.0,2005,2000,1.0,0.0
+15301,440122.0,OTS,34,04/16/2010,Atlanta,First Federal Bank of North Florida,0.0,3.0,3.0,2010,2010,1.0,0.0
+15303,1083725.0,STATE,41,07/01/2016,New York,Fox Chase Bank,0.0,4.0,4.0,2016,2010,1.0,0.0
+15309,369580.0,OCC,33,08/31/2022,Chicago,Security Federal Savings Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+15314,1810155.0,OTS,37,08/10/1989,Kansas City,Peoples Heritage Federal Savings and Loan Association,0.0,2.0,2.0,1989,1980,1.0,0.0
+15327,653811.0,OCC,3,08/13/1998,Dallas,"First Commercial Bank, National Association of Memphis",1.0,3.0,3.0,1998,1990,1.0,0.0
+15331,648763.0,OCC,38,08/31/2022,San Francisco,Evergreen Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15333,302216.0,OCC,33,04/02/2012,New York,St. Edmond's Federal Savings Bank,0.0,4.0,4.0,2012,2010,1.0,0.0
+15340,1192436.0,OCC,3,07/05/2011,San Francisco,M & I Bank NATIONAL ASSOCIATION,0.0,1.0,1.0,2011,2010,1.0,0.0
+15343,45059.0,STATE,36,11/30/2007,Chicago,Mt. Morris Savings and Loan Association,0.0,7.0,7.0,2007,2000,1.0,0.0
+15347,441781.0,STATE,13,08/31/2022,Kansas City,Verimore Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+15349,46376252.0,OCC,3,09/01/2007,Chicago,"Charter One Bank, National Association",1.0,1.0,1.0,2007,2000,1.0,0.0
+15363,255081.0,OTS,33,10/10/1991,New York,"HomeBank, FSB",0.0,1.0,1.0,1991,1990,1.0,0.0
+15365,8458553.0,OTS,37,10/31/1995,Chicago,First Federal of Michigan,0.0,1.0,1.0,1995,1990,1.0,0.0
+15370,155368.0,OTS,37,08/31/1999,Dallas,First Federal Bank for Savings,0.0,1.0,1.0,1999,1990,1.0,0.0
+15375,1744873.0,OTS,33,12/05/2003,Dallas,"Superior Bank, FSB",0.0,7.0,7.0,2003,2000,1.0,0.0
+15378,39597.0,OCC,38,04/01/2014,Chicago,First Federal Savings and Loan Association of Hammond,0.0,1.0,1.0,2014,2010,1.0,0.0
+15380,264238.0,STATE,41,07/01/2022,New York,Lincoln 1st  Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15385,275566.0,OTS,33,07/25/1997,Atlanta,Florida FirstBank,0.0,2.0,2.0,1997,1990,1.0,0.0
+15391,290886.0,OTS,38,05/03/1991,Kansas City,First Federal Savings and Loan Association of Pittsburg,0.0,1.0,1.0,1991,1990,1.0,0.0
+15394,97860.0,OTS,33,04/15/2003,Kansas City,Washington Federal Savings Bank,0.0,2.0,2.0,2003,2000,1.0,0.0
+15396,47185.0,OTS,33,06/09/2000,Chicago,"Midwest Savings Bank, FSB",0.0,1.0,1.0,2000,2000,1.0,0.0
+15398,603767.0,OCC,37,02/13/2015,Dallas,First Federal Bank,0.0,2.0,2.0,2015,2010,1.0,0.0
+15399,77530.0,OCC,34,08/31/2022,Chicago,Ladysmith Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+15423,112674.0,STATE,41,01/30/1998,Dallas,"The Bank of East Texas, S.S.B.",0.0,1.0,1.0,1998,1990,1.0,0.0
+15424,177138.0,OTS,33,06/23/1995,Chicago,King City Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0,0.0
+15425,586291.0,OCC,3,02/14/2004,Chicago,"Covest Banc, National Association",0.0,1.0,1.0,2004,2000,1.0,0.0
+15426,888136.0,STATE,42,08/31/2022,Chicago,Liberty Bank for Savings,0.0,1.0,1.0,2022,2020,1.0,0.0
+15435,1281258.0,OTS,33,11/01/1997,Dallas,Magnolia Federal Bank for Savings,0.0,2.0,2.0,1997,1990,1.0,0.0
+15436,32917.0,OTS,38,03/08/1991,Dallas,First Federal Savings and Loan Association of Wewoka,0.0,1.0,1.0,1991,1990,1.0,0.0
+15446,861055.0,STATE,21,06/01/2014,Dallas,Teche Federal Bank,0.0,2.0,2.0,2014,2010,1.0,0.0
+15455,6569936.0,OTS,33,10/01/1998,New York,"The Long Island Savings Bank, FSB",0.0,2.0,2.0,1998,1990,1.0,0.0
+15460,1046935.0,OCC,37,08/31/2022,Kansas City,Home Federal Savings Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+15465,911504.0,STATE,42,08/31/2022,Kansas City,First Federal Bank of Kansas City,0.0,1.0,1.0,2022,2020,1.0,0.0
+15467,79611.0,OCC,38,08/31/2022,Kansas City,Lake City Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15475,2113186.0,OCC,3,02/02/2008,Chicago,"First Indiana Bank, National Association",1.0,1.0,1.0,2008,2000,1.0,0.0
+15487,168915.0,STATE,21,05/11/2015,Chicago,Monarch Community Bank,0.0,1.0,1.0,2015,2010,1.0,0.0
+15492,761850.0,OTS,38,10/19/1989,Kansas City,Mid Kansas Federal Savings and Loan Association of Wichita,1.0,1.0,1.0,1989,1980,1.0,0.0
+15495,278460.0,STATE,35,12/31/1988,Dallas,Home Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0,0.0
+15501,2944195.0,OTS,37,03/15/1991,Kansas City,"Home Savings Association of Kansas City, FA",0.0,1.0,1.0,1991,1990,1.0,0.0
+15502,142536.0,OTS,33,06/12/1992,Dallas,Cherokee Valley Federal Savings Bank,1.0,2.0,2.0,1992,1990,1.0,0.0
+15503,466162.0,OCC,3,10/01/2018,Dallas,Athens Federal Community Bank National Association,0.0,2.0,2.0,2018,2010,1.0,0.0
+15506,352615.0,OTS,33,01/04/2006,Dallas,AccessBank,0.0,8.0,8.0,2006,2000,1.0,0.0
+15507,255680.0,OCC,37,08/31/2022,Dallas,Newport Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15510,91411.0,OTS,38,09/27/1991,Kansas City,Home Federal Savings and Loan Association of Harlan,0.0,1.0,1.0,1991,1990,1.0,0.0
+15511,88612.0,STATE,13,08/31/2022,Kansas City,Investors Community Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15545,2018703.0,OTS,33,03/16/1990,Dallas,"Abq Bank, A Federal Savings Bank",0.0,2.0,2.0,1990,1990,1.0,0.0
+15549,50694.0,OTS,33,07/29/1994,Dallas,Citizens Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+15550,815554.0,STATE,41,10/25/2014,New York,3rd Fed Bank,0.0,4.0,4.0,2014,2010,1.0,0.0
+15551,49022.0,OTS,34,06/06/2003,New York,Berean Bank,0.0,2.0,2.0,2003,2000,1.0,0.0
+15557,84096.0,OTS,37,06/30/1993,Dallas,Mutual Building and Loan Association FA,0.0,1.0,1.0,1993,1990,1.0,0.0
+15561,59768.0,STATE,21,08/31/2022,Kansas City,Systematic Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15564,639378.0,OTS,33,05/01/1997,New York,Bankers Federal Savings FSB,0.0,1.0,1.0,1997,1990,1.0,0.0
+15572,207043.0,OCC,3,07/01/1999,Chicago,Damen National Bank,0.0,1.0,1.0,1999,1990,1.0,0.0
+15592,27784.0,OCC,38,04/01/2017,Kansas City,First Federal Savings and Loan Association of Wakeeney,0.0,1.0,1.0,2017,2010,1.0,0.0
+15598,434111.0,OCC,37,02/24/2012,Kansas City,Home Savings of America,0.0,2.0,2.0,2012,2010,1.0,0.0
+15607,64604.0,OTS,34,04/02/1993,Dallas,Tri-County Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0,0.0
+15608,395800.0,STATE,41,12/31/2022,Chicago,Fox Valley Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15618,18095396.0,OTS,33,09/11/1998,San Francisco,"Glendale Federal Bank, Federal Savings Bank",1.0,4.0,4.0,1998,1990,1.0,0.0
+15626,150613.0,STATE,41,08/31/2022,Dallas,"Graham Savings and Loan, SSB",0.0,2.0,2.0,2022,2020,1.0,0.0
+15627,55433.0,OTS,37,11/16/1990,Dallas,First Federal Savings and Loan Association,0.0,8.0,8.0,1990,1990,1.0,0.0
+15628,128536.0,STATE,41,08/31/2022,Dallas,"Dalhart Federal Savings & Loan Association, SSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+15641,608151.0,OTS,33,12/31/1998,Dallas,First Federal Savings Bank of North Texas,0.0,1.0,1.0,1998,1990,1.0,0.0
+15656,32576.0,OTS,33,08/12/1996,San Francisco,"Union Federal Bank, A federal savings bank",0.0,9.0,9.0,1996,1990,1.0,0.0
+15662,53407.0,OTS,33,06/03/1996,Kansas City,"American Federal Bank, A Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0,0.0
+15666,23469.0,OCC,33,03/29/2014,New York,"Liberty Savings Bank, F.S.B.",0.0,3.0,3.0,2014,2010,1.0,0.0
+15678,111770.0,STATE,35,12/08/1994,Chicago,The Buckeye Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+15687,104920.0,OCC,37,08/31/2022,Dallas,Eureka Homestead,0.0,29.0,29.0,2022,2020,1.0,0.0
+15688,603520.0,OTS,33,01/11/1996,New York,Sunrise Federal Savings Bank,0.0,1.0,1.0,1996,1990,1.0,0.0
+15692,440162.0,OCC,33,01/07/2012,New York,Brooklyn Federal Savings Bank,0.0,3.0,3.0,2012,2010,1.0,0.0
+15708,270049.0,OTS,34,08/01/1997,Chicago,"Community Bank, A FSB",0.0,1.0,1.0,1997,1990,1.0,0.0
+15711,449084.0,STATE,21,01/01/1998,Atlanta,Union Planters Bank of Alabama,0.0,1.0,1.0,1998,1990,1.0,0.0
+15714,914227.0,OCC,33,09/30/2022,Chicago,Prevail Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+15736,344684.0,OTS,38,09/21/1990,New York,Yorkville Federal Savings and Loan Association,0.0,4.0,4.0,1990,1990,1.0,0.0
+15743,65406.0,OCC,34,10/21/2017,Chicago,Ripley Federal Savings Bank,0.0,3.0,3.0,2017,2010,1.0,0.0
+15759,2824737.0,OTS,33,06/04/2010,Kansas City,TierOne Bank,0.0,7.0,7.0,2010,2010,1.0,0.0
+15763,229965.0,OCC,37,08/31/2022,Chicago,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+15767,79269.0,OTS,37,03/24/2000,New York,Albion Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0,0.0
+15773,51628.0,OTS,34,06/28/2002,Chicago,Universal Federal Savings Bank,0.0,1.0,1.0,2002,2000,1.0,0.0
+15775,141538.0,OCC,34,08/31/2022,Atlanta,Family Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15787,481213.0,OTS,33,07/01/2010,New York,First Keystone Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+15788,114564.0,STATE,35,02/20/1991,New York,First Northern Cooperative Bank,0.0,1.0,1.0,1991,1990,1.0,0.0
+15794,39551.0,OTS,37,09/17/1998,Kansas City,"Allegiant Bank, FSB",0.0,1.0,1.0,1998,1990,1.0,0.0
+15797,16360.0,OCC,38,08/31/2022,Kansas City,Sidney Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0,0.0
+15802,176124.0,OCC,34,08/31/2022,Chicago,Peru Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15823,139108.0,OTS,38,12/31/1991,Dallas,Pocahontas Federal Savings and Loan Association,1.0,1.0,1.0,1991,1990,1.0,0.0
+15826,172658.0,OTS,33,01/13/1995,Dallas,First Federal Savings Bank of Maryville,0.0,1.0,1.0,1995,1990,1.0,0.0
+15859,106297.0,OCC,37,10/02/2017,Dallas,Morgan Federal Bank,0.0,1.0,1.0,2017,2010,1.0,0.0
+15867,83454.0,OTS,38,05/31/1995,Chicago,Fairbury Federal Savings and Loan Association,0.0,1.0,1.0,1995,1990,1.0,0.0
+15868,45085.0,OCC,34,08/31/2022,Chicago,North Side Federal Savings and Loan Association of Chicago,0.0,2.0,2.0,2022,2020,1.0,0.0
+15875,189293.0,OTS,33,09/13/2002,New York,"Prestige Bank, A Federal Savings Bank",0.0,2.0,2.0,2002,2000,1.0,0.0
+15877,1402978.0,OTS,33,02/01/1991,New York,Comfed Savings Bank,0.0,1.0,1.0,1991,1990,1.0,0.0
+15879,539316.0,OTS,33,03/25/1994,San Francisco,"Rocky Mountain Bank, F.S.B.",0.0,1.0,1.0,1994,1990,1.0,0.0
+15880,174717.0,OTS,34,09/27/1991,New York,Plymouth Federal Savings Bank,0.0,1.0,1.0,1991,1990,1.0,0.0
+15891,92084.0,STATE,42,08/31/2022,New York,Armstrong County Building and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+15892,314016.0,OTS,33,12/31/2004,Atlanta,"Advance Financial Savings Bank, FSB",0.0,1.0,1.0,2004,2000,1.0,0.0
+15896,425913.0,OCC,38,08/31/2022,Kansas City,Home Federal Savings and Loan Association of Grand Island,0.0,1.0,1.0,2022,2020,1.0,0.0
+15931,776600.0,OCC,37,08/31/2022,Atlanta,Affinity Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15938,111025.0,STATE,36,08/31/2022,San Francisco,Pioneer Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+15940,26960.0,STATE,36,11/01/1997,New York,First New London Savings and Loan Association Incorporated,0.0,1.0,1.0,1997,1990,1.0,0.0
+15952,128496.0,OTS,37,07/30/2007,Dallas,Homestead Bank,0.0,2.0,2.0,2007,2000,1.0,0.0
+15959,166639.0,OCC,33,10/19/2013,Chicago,"Diamond Bank, FSB",0.0,1.0,1.0,2013,2010,1.0,0.0
+15964,197447.0,OTS,33,01/03/2003,Chicago,"Fairfield Savings Bank, F.S.B.",0.0,1.0,1.0,2003,2000,1.0,0.0
+15966,5679284.0,STATE,21,08/31/2022,Kansas City,Great Southern Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+15977,881721.0,OTS,33,05/14/1993,Atlanta,Continental Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0,0.0
+15978,345419.0,OTS,33,09/20/1997,Chicago,"Home Bank, F.S.B.",0.0,1.0,1.0,1997,1990,1.0,0.0
+15981,243215.0,STATE,21,03/12/2010,Dallas,Statewide Bank,0.0,5.0,5.0,2010,2010,1.0,0.0
+15986,4928520.0,OCC,33,09/23/2022,Chicago,"United Fidelity Bank, fsb",0.0,3.0,3.0,2022,2020,1.0,0.0
+15994,2534323.0,OTS,33,11/01/1995,New York,"First Federal Bank, a federal savings bank",0.0,1.0,1.0,1995,1990,1.0,0.0
+15997,173716.0,OCC,38,08/31/2022,Dallas,Heritage Bank of St Tammany,0.0,1.0,1.0,2022,2020,1.0,0.0
+16000,198852.0,OTS,33,06/05/2003,Chicago,Security Federal Bank & Trust,1.0,2.0,2.0,2003,2000,1.0,0.0
+16001,2771379.0,OTS,33,09/07/1990,New York,Home Owners Savings Bank F.S.B.,1.0,1.0,1.0,1990,1990,1.0,0.0
+16004,166121.0,STATE,36,04/03/1992,Kansas City,First State Savings Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+16013,92982.0,OCC,38,04/19/2013,Chicago,First Federal Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+16018,438985.0,STATE,35,07/16/1994,San Francisco,United California Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+16022,41584653.0,OTS,33,10/01/1997,San Francisco,"Great Western Bank, A FSB",1.0,2.0,2.0,1997,1990,1.0,0.0
+16031,59087.0,OCC,34,01/01/2016,Chicago,First Federal Savings and Loan Association of Kewanee,0.0,1.0,1.0,2016,2010,1.0,0.0
+16036,106141.0,OCC,34,08/31/2022,Chicago,"First Mutual Bank, FSB",0.0,3.0,3.0,2022,2020,1.0,0.0
+16041,95458.0,OTS,34,06/30/1997,Chicago,United Federal Savings Bank of Vincennes,0.0,1.0,1.0,1997,1990,1.0,0.0
+16044,629736.0,OCC,38,08/31/2022,San Francisco,First Federal Savings and Loan Association of McMinnville,0.0,1.0,1.0,2022,2020,1.0,0.0
+16048,2414251.0,OTS,33,03/01/1998,New York,Main Line Bank,0.0,1.0,1.0,1998,1990,1.0,0.0
+16062,14926832.0,OTS,33,10/01/1994,San Francisco,"First Nationwide Bank, A FSB",1.0,2.0,2.0,1994,1990,1.0,0.0
+16064,3810521.0,STATE,35,08/03/1989,San Francisco,Lincoln Savings and Loan Association,0.0,1.0,1.0,1989,1980,1.0,0.0
+16066,634963.0,STATE,13,03/27/2006,Dallas,Cavalry Banking,1.0,1.0,1.0,2006,2000,1.0,0.0
+16067,190725.0,STATE,42,08/31/2022,Chicago,"First Federal Savings and Loan Association of Central Illinois, S.B.",0.0,1.0,1.0,2022,2020,1.0,0.0
+16071,809714.0,OCC,3,09/22/1997,New York,Vermont Federal National Bank,0.0,2.0,2.0,1997,1990,1.0,0.0
+16078,68065.0,OCC,33,07/01/2016,New York,First Federal Savings Bank of Boston,0.0,1.0,1.0,2016,2010,1.0,0.0
+16090,99301.0,OCC,33,02/18/2012,Chicago,Americantrust Federal Savings Bank,1.0,3.0,3.0,2012,2010,1.0,0.0
+16094,3796241.0,OTS,37,06/04/1993,San Francisco,Western Federal Savings and Loan,0.0,1.0,1.0,1993,1990,1.0,0.0
+16099,200844.0,STATE,36,08/31/2022,Chicago,Paper City Savings Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+16112,105110.0,OTS,37,08/07/2004,Chicago,Sobieski Bank,0.0,3.0,3.0,2004,2000,1.0,0.0
+16115,362576.0,OCC,33,08/31/2022,Kansas City,Lincoln FSB of Nebraska,0.0,1.0,1.0,2022,2020,1.0,0.0
+16125,629132.0,OCC,33,08/31/2022,Dallas,Century Next Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16127,545168.0,OTS,33,02/13/2007,Dallas,First Federal Bank,0.0,2.0,2.0,2007,2000,1.0,0.0
+16128,130552.0,OCC,37,10/01/2022,Chicago,Peoples Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0,0.0
+16130,244420.0,OCC,33,08/31/2022,Chicago,First Federal Community Bank of Bucyrus,0.0,2.0,2.0,2022,2020,1.0,0.0
+16131,1002305.0,STATE,35,12/16/1991,Chicago,Hunter Savings Association,0.0,1.0,1.0,1991,1990,1.0,0.0
+16133,2641449.0,OCC,33,08/31/2022,Kansas City,"North American Savings Bank, F.S.B.",0.0,1.0,1.0,2022,2020,1.0,0.0
+16138,578817.0,OTS,33,05/31/2003,New York,Bay State Federal Savings Bank,0.0,1.0,1.0,2003,2000,1.0,0.0
+16148,110172.0,OTS,33,04/22/2011,Chicago,Family Bank FSB,0.0,7.0,7.0,2011,2010,1.0,0.0
+16170,523655.0,OCC,33,08/31/2022,New York,First Seacoast Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+16180,97262.0,STATE,41,05/01/2000,Chicago,Northwest Savings Bank,0.0,1.0,1.0,2000,2000,1.0,0.0
+16188,182561.0,OCC,33,02/10/2012,Chicago,SCB Bank,0.0,2.0,2.0,2012,2010,1.0,0.0
+16195,27455.0,STATE,35,11/20/1992,Chicago,Crestline Building and Loan Association,0.0,2.0,2.0,1992,1990,1.0,0.0
+16202,38698.0,OCC,38,08/31/2022,Chicago,Carrollton Federal Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+16204,11438990.0,OTS,33,12/04/2009,Chicago,AmTrust Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+16209,64397.0,STATE,36,05/05/1995,New York,American Savings and Loan Association,0.0,9.0,9.0,1995,1990,1.0,0.0
+16210,989734.0,STATE,41,08/31/2022,Dallas,First Federal Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+16211,462315.0,STATE,13,08/31/2022,Dallas,High Country Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+16214,493101.0,STATE,21,08/10/2018,Chicago,"First Bank & Trust,",1.0,1.0,1.0,2018,2010,1.0,0.0
+16215,668057.0,OCC,3,08/31/2022,Chicago,"First Federal Community Bank, National Association",0.0,3.0,3.0,2022,2020,1.0,0.0
+16223,955876.0,OTS,38,12/31/1992,Kansas City,American Charter Federal Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+16226,111823.0,OTS,33,02/13/1998,Kansas City,Liberty Bank and Trust,0.0,1.0,1.0,1998,1990,1.0,0.0
+16231,64851.0,STATE,35,05/22/1998,Chicago,Jefferson Savings Bank,0.0,2.0,2.0,1998,1990,1.0,0.0
+16233,271870.0,OCC,33,08/31/2022,Dallas,Catalyst Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16234,13882898.0,OCC,37,10/02/2017,New York,Astoria Bank,0.0,3.0,3.0,2017,2010,1.0,0.0
+16268,527719.0,STATE,21,08/31/2022,Chicago,Crossroads Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+16271,210815.0,STATE,15,08/31/2022,New York,Commonwealth Co-operative Bank,0.0,12.0,12.0,2022,2020,1.0,0.0
+16276,688849.0,STATE,21,08/31/2022,Chicago,Wayne Savings Community Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+16278,166715.0,OCC,33,04/01/2014,San Francisco,Alaska Pacific Bank,0.0,4.0,4.0,2014,2010,1.0,0.0
+16282,,OTS,38,11/30/1976,New York,Edmondson Federal Savings and Loan Association of Baltimore Co,,1.0,1.0,1976,1970,1.0,0.0
+16286,32342.0,OCC,38,08/31/2022,Kansas City,"The Liberty Savings Association, FSA",0.0,1.0,1.0,2022,2020,1.0,0.0
+16300,161877.0,STATE,36,10/16/1989,Kansas City,Banc Iowa Savings Bank,0.0,1.0,1.0,1989,1980,1.0,0.0
+16307,319245.0,STATE,21,08/31/2022,Chicago,American Community Bank of Indiana,0.0,1.0,1.0,2022,2020,1.0,0.0
+16316,373489.0,STATE,13,11/01/2000,Chicago,M & I Lakeview Bank,0.0,1.0,1.0,2000,2000,1.0,0.0
+16325,112191.0,OTS,33,06/06/2008,New York,Summit Federal Savings Bank,0.0,1.0,1.0,2008,2000,1.0,0.0
+16328,44285.0,STATE,35,08/30/2019,Chicago,New Valley Central Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+16331,144938.0,STATE,42,02/28/2019,New York,Kopernik Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+16336,241020.0,STATE,21,08/31/2022,Chicago,Logansport Savings Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+16345,108672.0,OTS,37,12/19/2002,Kansas City,"Community Bank - Excelsior Springs, A Savings Bank",0.0,1.0,1.0,2002,2000,1.0,0.0
+16352,1683600.0,STATE,21,08/31/2022,San Francisco,Riverview Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16355,,OTS,38,04/30/1983,Atlanta,Peoples Federal Savings and Loan Association,,4.0,4.0,1983,1980,1.0,0.0
+16356,127248.0,OCC,37,05/18/2020,Chicago,Dearborn Savings Bank,1.0,2.0,2.0,2020,2020,1.0,0.0
+16375,324830.0,OCC,33,10/31/2014,New York,First Federal Savings Bank,0.0,2.0,2.0,2014,2010,1.0,0.0
+16383,96466257.0,OCC,3,08/31/2022,New York,"Santander Bank, N.A.",1.0,20.0,20.0,2022,2020,1.0,0.0
+16391,4644939.0,STATE,35,12/31/1988,Dallas,United Savings Association of Texas,0.0,6.0,6.0,1988,1980,1.0,0.0
+16413,2226287.0,OCC,33,05/01/2016,Chicago,"AnchorBank, fsb",0.0,11.0,11.0,2016,2010,1.0,0.0
+16415,126256.0,OCC,37,08/31/2022,Chicago,Midland Federal Savings and Loan Association,1.0,4.0,4.0,2022,2020,1.0,0.0
+16416,233597.0,STATE,21,05/01/2021,Chicago,Edgewater  Bank,0.0,1.0,1.0,2021,2020,1.0,0.0
+16427,84821.0,OTS,33,07/09/2001,Kansas City,"Provident Bank, F.S.B.",0.0,2.0,2.0,2001,2000,1.0,0.0
+16430,587321.0,STATE,42,08/31/2022,New York,Phoenixville Federal Bank and Trust,1.0,3.0,3.0,2022,2020,1.0,0.0
+16437,123216.0,OCC,3,10/14/2016,Chicago,"Mfsb, National Association",0.0,1.0,1.0,2016,2010,1.0,0.0
+16438,137673.0,STATE,41,02/28/1997,Dallas,Loan and Building State Savings Bank,0.0,1.0,1.0,1997,1990,1.0,0.0
+16439,1031900.0,OCC,33,05/05/2017,Chicago,Guaranty Bank,0.0,2.0,2.0,2017,2010,1.0,0.0
+16448,15775362.0,OCC,37,08/31/2022,Chicago,Third Federal Savings and Loan Association of Cleveland,0.0,4.0,4.0,2022,2020,1.0,0.0
+16452,558863.0,OCC,3,07/22/2004,Chicago,"FSFSB, National Association",0.0,2.0,2.0,2004,2000,1.0,0.0
+16456,605418.0,STATE,35,05/16/1998,Chicago,County Savings Bank,0.0,1.0,1.0,1998,1990,1.0,0.0
+16464,760267.0,OTS,33,06/30/2005,New York,Ocwen Federal Bank FSB,1.0,2.0,2.0,2005,2000,1.0,0.0
+16486,165955.0,OCC,33,01/01/2013,Dallas,First Federal Bank Texas,0.0,1.0,1.0,2013,2010,1.0,0.0
+16497,186082.0,OCC,38,08/31/2022,Chicago,First Federal Savings and Loan Association of Greensburg,0.0,2.0,2.0,2022,2020,1.0,0.0
+16507,45955.0,STATE,13,08/31/2022,Kansas City,Cornerstone Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+16516,24501.0,OTS,33,11/23/2002,Chicago,Blue River Federal Savings Bank,0.0,2.0,2.0,2002,2000,1.0,0.0
+16517,3694232.0,STATE,36,08/31/2022,New York,"Spencer Savings Bank, SLA",0.0,1.0,1.0,2022,2020,1.0,0.0
+16525,81872.0,OTS,33,03/08/1996,Chicago,"Metro Savings Bank, FSB",0.0,1.0,1.0,1996,1990,1.0,0.0
+16526,153545.0,STATE,36,08/31/2022,Chicago,Mercer Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16531,1583044.0,OTS,38,12/06/2008,New York,Willow Financial Bank,0.0,1.0,1.0,2008,2000,1.0,0.0
+16533,932176.0,STATE,21,07/27/2019,Chicago,"Heritage Bank USA, Inc.",0.0,2.0,2.0,2019,2010,1.0,0.0
+16557,303584.0,OTS,37,09/25/1994,Atlanta,First Federal Savings and Loan Association of Charlotte,0.0,1.0,1.0,1994,1990,1.0,0.0
+16565,47068.0,OCC,34,11/05/2016,Chicago,Merrill Federal Savings and Loan Association,0.0,1.0,1.0,2016,2010,1.0,0.0
+16570,2389537.0,OCC,34,06/24/2018,Chicago,Bank Mutual,0.0,4.0,4.0,2018,2010,1.0,0.0
+16571,107452.0,OCC,34,02/28/2021,New York,Gibraltar Bank,0.0,3.0,3.0,2021,2020,1.0,0.0
+16577,26046.0,OCC,38,09/01/2012,Chicago,First Federal Savings and Loan Association of Pekin,0.0,2.0,2.0,2012,2010,1.0,0.0
+16578,264488.0,OCC,33,08/31/2022,Chicago,"Mid-Southern Savings Bank, FSB",0.0,2.0,2.0,2022,2020,1.0,0.0
+16588,46807.0,STATE,41,01/26/1996,Atlanta,"Seaboard Savings Bank, Inc., SSB",0.0,1.0,1.0,1996,1990,1.0,0.0
+16589,36722.0,OTS,37,06/30/2000,Dallas,Gilmer Savings Bank FSB,0.0,1.0,1.0,2000,2000,1.0,0.0
+16614,404384.0,OCC,33,08/31/2022,Atlanta,Cullman Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16665,291292.0,OTS,37,04/19/1996,New York,First Federal Savings and Loan Association,0.0,3.0,3.0,1996,1990,1.0,0.0
+16674,261969.0,STATE,35,11/15/1990,New York,"Action Savings Bank, SLA",0.0,1.0,1.0,1990,1990,1.0,0.0
+16695,381667.0,OTS,33,06/27/2001,New York,"Crusader Savings Bank, F.S.B.",0.0,3.0,3.0,2001,2000,1.0,0.0
+16709,2167240.0,STATE,41,07/14/2004,New York,First Savings Bank,0.0,1.0,1.0,2004,2000,1.0,0.0
+16715,563830.0,STATE,42,08/31/2022,New York,Cross County Savings Bank,0.0,3.0,3.0,2022,2020,1.0,0.0
+16722,105531.0,OTS,37,03/09/1990,Dallas,Peoples Federal Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0,0.0
+16733,50680164.0,OTS,33,11/13/2002,San Francisco,California Federal Bank,1.0,9.0,9.0,2002,2000,1.0,0.0
+16740,1655057.0,OCC,3,11/04/2016,Kansas City,Pulaski Bank National Association,0.0,1.0,1.0,2016,2010,1.0,0.0
+16748,56937.0,STATE,41,08/31/2022,Dallas,"First Federal Bank Littlefield, Texas",0.0,1.0,1.0,2022,2020,1.0,0.0
+16754,1292268.0,OCC,3,06/30/2007,Atlanta,"Encore Bank, National Association",0.0,2.0,2.0,2007,2000,1.0,0.0
+16765,476391.0,OCC,33,04/01/2021,San Francisco,"Broadway Federal Bank, f.s.b.",0.0,3.0,3.0,2021,2020,1.0,0.0
+16786,153082.0,OTS,33,06/13/1997,Chicago,SJS Federal Savings Bank,0.0,1.0,1.0,1997,1990,1.0,0.0
+16789,12994.0,OTS,34,11/06/2009,Chicago,Home Federal Savings Bank,0.0,13.0,13.0,2009,2000,1.0,0.0
+16790,677730.0,OCC,3,03/17/2017,Chicago,"First Clover Leaf Bank, National Association",0.0,2.0,2.0,2017,2010,1.0,0.0
+16802,10175915.0,OTS,33,12/03/2005,Kansas City,"Commercial Federal Bank, a Federal Savings Bank",1.0,15.0,15.0,2005,2000,1.0,0.0
+16824,220852.0,STATE,21,10/01/2017,Kansas City,First Home Bank,0.0,3.0,3.0,2017,2010,1.0,0.0
+16827,328694.0,STATE,41,08/31/2022,New York,1st Bank of Sea Isle City,0.0,2.0,2.0,2022,2020,1.0,0.0
+16833,42969.0,OTS,33,10/15/1999,Dallas,Guthrie Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0,0.0
+16838,16353.0,STATE,36,11/01/1994,New York,Springfield Savings and Loan Association,0.0,1.0,1.0,1994,1990,1.0,0.0
+16846,46349.0,STATE,41,08/26/2005,Chicago,American Savings Bank of Danville,0.0,1.0,1.0,2005,2000,1.0,0.0
+16848,18431369.0,STATE,21,08/31/2022,New York,FirstBank Puerto Rico,1.0,1.0,1.0,2022,2020,1.0,0.0
+16856,756146.0,OCC,33,08/31/2022,New York,Carver Federal Savings Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+16857,49202.0,OCC,34,08/31/2022,Kansas City,Tecumseh Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+16859,601967.0,OCC,38,08/31/2022,New York,Geddes Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0,0.0
+16881,467236.0,OCC,33,01/10/2013,Atlanta,Community Bank,0.0,2.0,2.0,2013,2010,1.0,0.0
+16889,296573.0,OCC,33,12/04/2015,New York,Scituate Federal Savings Bank,0.0,1.0,1.0,2015,2010,1.0,0.0
+16894,169981.0,OCC,38,08/31/2022,New York,Massena Savings and Loan,0.0,2.0,2.0,2022,2020,1.0,0.0
+16899,95047.0,OCC,37,04/15/2021,Atlanta,SouthFirst Bank,0.0,9.0,9.0,2021,2020,1.0,0.0
+16902,141107.0,STATE,35,01/29/1993,New York,Mayflower Savings Bank SLA,0.0,1.0,1.0,1993,1990,1.0,0.0
+16907,1237064.0,OCC,38,08/31/2022,Dallas,First Federal Bank of Louisiana,0.0,1.0,1.0,2022,2020,1.0,0.0
+16913,53180.0,STATE,36,08/31/2022,Dallas,Rayne Building and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+16919,83026.0,STATE,35,07/28/2000,Chicago,"Marquette Savings Bank, S.A.",0.0,1.0,1.0,2000,2000,1.0,0.0
+16940,3284425.0,OTS,33,07/01/1995,Atlanta,"American Savings of Florida, F.S.B.",0.0,3.0,3.0,1995,1990,1.0,0.0
+16964,55405.0,OTS,33,12/09/1994,Atlanta,First Republic Savings Bank FSB,0.0,1.0,1.0,1994,1990,1.0,0.0
+16981,348193.0,OTS,33,05/20/1999,New York,Little Falls Bank,0.0,1.0,1.0,1999,1990,1.0,0.0
+16992,142242.0,OTS,38,07/31/1992,New York,Doylestown Federal Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+16993,668433.0,OTS,33,07/23/1998,Atlanta,Palmetto Federal Savings Bank of South Carolina,0.0,1.0,1.0,1998,1990,1.0,0.0
+17005,5079.0,STATE,36,07/08/1993,Chicago,Benld Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+17023,204686.0,STATE,41,05/12/2000,Chicago,The Ravenna Savings Bank,0.0,1.0,1.0,2000,2000,1.0,0.0
+17024,72180.0,OTS,33,08/31/1998,Chicago,Pioneer Federal Savings Bank,0.0,8.0,8.0,1998,1990,1.0,0.0
+17027,3807907.0,OCC,33,08/02/2012,Atlanta,BankAtlantic,0.0,4.0,4.0,2012,2010,1.0,0.0
+17041,47499.0,STATE,35,12/31/1991,New York,Star Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0,0.0
+17048,528629.0,STATE,35,07/06/2010,New York,"Pamrapo Savings Bank, SLA",0.0,17.0,17.0,2010,2010,1.0,0.0
+17060,29526.0,STATE,42,10/01/2005,Chicago,"Rantoul First Bank, s.b.",0.0,2.0,2.0,2005,2000,1.0,0.0
+17065,162967.0,STATE,13,08/31/2022,Kansas City,F&M Bank and Trust Company,1.0,1.0,1.0,2022,2020,1.0,0.0
+17075,22374.0,STATE,35,11/11/1993,Kansas City,Postal Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+17077,103229.0,OTS,33,07/01/1995,New York,"Plaistow Co-operative Bank, FSB",0.0,2.0,2.0,1995,1990,1.0,0.0
+17080,44670.0,STATE,41,08/31/1998,New York,Peoples Savings Bank,0.0,2.0,2.0,1998,1990,1.0,0.0
+17090,107921.0,STATE,42,08/31/2022,Atlanta,"Abbeville First Bank, SSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+17092,397143.0,STATE,41,05/21/1999,Chicago,"First Mutual Bank, S.B.",0.0,1.0,1.0,1999,1990,1.0,0.0
+17097,363720.0,STATE,35,09/26/1988,Dallas,Continental Savings Association,0.0,1.0,1.0,1988,1980,1.0,0.0
+17098,426254.0,OCC,33,09/07/2013,New York,Newport Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+17107,59357.0,OTS,33,11/13/1993,Atlanta,United Savings Bank FSB,0.0,1.0,1.0,1993,1990,1.0,0.0
+17119,98594.0,STATE,35,06/30/1993,New York,Hampton Co-operative Bank,0.0,1.0,1.0,1993,1990,1.0,0.0
+17137,69853.0,OCC,38,05/23/2020,Kansas City,Central Federal Savings and Loan Association of Rolla,0.0,1.0,1.0,2020,2020,1.0,0.0
+17159,3189949.0,STATE,35,05/25/1989,Dallas,University Savings Association,0.0,1.0,1.0,1989,1980,1.0,0.0
+17166,191974.0,STATE,35,08/31/2022,San Francisco,"BankPacific, Ltd",0.0,1.0,1.0,2022,2020,1.0,0.0
+17169,56065.0,OCC,38,01/01/2016,Kansas City,Home Federal Savings and Loan Association of Nebraska,0.0,1.0,1.0,2016,2010,1.0,0.0
+17170,437786.0,STATE,41,06/01/2013,Dallas,"Orange Savings Bank, ssb",0.0,2.0,2.0,2013,2010,1.0,0.0
+17175,2380289.0,OTS,33,10/25/2002,San Francisco,"Fidelity Federal Bank, a Federal Savings Bank",1.0,7.0,7.0,2002,2000,1.0,0.0
+17197,1629638.0,OCC,33,09/01/2018,Atlanta,CharterBank,0.0,8.0,8.0,2018,2010,1.0,0.0
+17199,324983.0,OCC,33,08/31/2022,San Francisco,Universal Bank,0.0,7.0,7.0,2022,2020,1.0,0.0
+17211,51954.0,STATE,35,06/16/1993,New York,New Jersey Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+17219,434876.0,STATE,13,06/22/2012,Kansas City,First Federal Savings Bank of Iowa,0.0,2.0,2.0,2012,2010,1.0,0.0
+17222,79134776.0,OCC,33,01/01/2022,Atlanta,E*TRADE Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+17238,347408.0,OTS,34,01/30/2009,New York,Suburban Federal Savings Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+17250,119230.0,STATE,41,12/08/2005,Chicago,Pekin Savings Bank,0.0,1.0,1.0,2005,2000,1.0,0.0
+17251,6745045.0,OCC,3,08/31/2022,Kansas City,"Pathward, National Association",0.0,4.0,4.0,2022,2020,1.0,0.0
+17263,81201.0,OTS,33,12/31/1995,Dallas,"Capital Bank, a Federal Savings Bank",0.0,1.0,1.0,1995,1990,1.0,0.0
+17265,37425.0,OCC,33,01/19/2013,Kansas City,BANK 360,0.0,1.0,1.0,2013,2010,1.0,0.0
+17281,74853.0,STATE,36,10/14/2005,New York,Westerly Savings Bank,0.0,2.0,2.0,2005,2000,1.0,0.0
+17289,344555.0,OCC,38,08/31/2022,Dallas,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+17299,1698255.0,OTS,37,10/30/2000,New York,York Federal Savings and Loan Association,1.0,1.0,1.0,2000,2000,1.0,0.0
+17311,1133191.0,OTS,33,11/26/1996,Atlanta,"Home Savings Bank, F.S.B.",0.0,1.0,1.0,1996,1990,1.0,0.0
+17315,1608137.0,OTS,33,07/19/1996,San Francisco,"Primerit Bank, Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0,0.0
+17372,313646.0,OCC,3,06/05/2013,Dallas,Aurora Interim National Bank,0.0,5.0,5.0,2013,2010,1.0,0.0
+17380,453349.0,OTS,33,10/15/2010,Kansas City,"Security Savings Bank, F.S.B.",0.0,3.0,3.0,2010,2010,1.0,0.0
+17405,101903.0,OTS,33,02/16/2002,Atlanta,Citizens Federal Savings Bank of Port St. Joe,0.0,2.0,2.0,2002,2000,1.0,0.0
+17411,108540.0,OTS,37,03/01/2003,Atlanta,Citizens Federal Savings Bank,0.0,4.0,4.0,2003,2000,1.0,0.0
+17412,62517.0,STATE,42,07/01/2016,Chicago,"Lake Federal Bank, FSB",0.0,1.0,1.0,2016,2010,1.0,0.0
+17438,4233.0,OCC,38,10/07/2016,Kansas City,American Loan and Savings Association,0.0,2.0,2.0,2016,2010,1.0,0.0
+17439,74211.0,STATE,41,10/14/2014,Dallas,Texas Savings Bank,0.0,7.0,7.0,2014,2010,1.0,0.0
+17457,12779371.0,OTS,37,11/21/2008,San Francisco,"Downey Savings and Loan Association, F.A.",0.0,3.0,3.0,2008,2000,1.0,0.0
+17463,405170.0,STATE,35,01/24/1997,San Francisco,United Savings Bank,1.0,1.0,1.0,1997,1990,1.0,0.0
+17490,193664.0,STATE,35,02/28/1992,Chicago,Lemont Savings Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+17519,572398.0,STATE,35,01/10/1992,New York,"Hansen Savings Bank, SLA",0.0,2.0,2.0,1992,1990,1.0,0.0
+17539,244927.0,STATE,21,08/31/2022,Dallas,Interstate Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+17542,139591.0,OTS,33,03/29/1996,Atlanta,"First of Englewood, F.S.B.",0.0,1.0,1.0,1996,1990,1.0,0.0
+17555,2869629.0,STATE,35,12/14/1990,Dallas,San Jacinto Savings Association,1.0,9.0,9.0,1990,1990,1.0,0.0
+17559,5358626.0,STATE,35,03/22/1991,San Francisco,Columbia Savings and Loan Association,0.0,3.0,3.0,1991,1990,1.0,0.0
+17560,163683.0,OCC,33,02/22/2013,Kansas City,RiverWood  Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+17565,31587.0,STATE,21,08/24/2005,Chicago,Illinois Community Bank,1.0,1.0,1.0,2005,2000,1.0,0.0
+17579,154850.0,STATE,35,10/31/1988,Dallas,Southern Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0,0.0
+17581,144930.0,OCC,38,08/31/2022,New York,Jarrettsville Federal Savings and Loan Association,0.0,2.0,2.0,2022,2020,1.0,0.0
+17593,774723.0,OTS,33,11/01/1994,San Francisco,"First Western Bank, F.S.B.",0.0,1.0,1.0,1994,1990,1.0,0.0
+17601,1294172.0,STATE,21,08/31/2022,Atlanta,Security Federal Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+17602,1336502.0,STATE,35,05/16/2003,Chicago,Metropolitan Bank and Trust,0.0,4.0,4.0,2003,2000,1.0,0.0
+17611,218733.0,STATE,35,05/15/2001,Chicago,First Savings and Loan Association of South Holland,0.0,2.0,2.0,2001,2000,1.0,0.0
+17620,321194.0,OTS,33,07/17/1998,Chicago,"Homebanc, A Federal Savings Bank",1.0,2.0,2.0,1998,1990,1.0,0.0
+17625,171079.0,OTS,33,05/01/2011,Dallas,Woodforest Bank,0.0,3.0,3.0,2011,2010,1.0,0.0
+17629,118823.0,OCC,33,08/31/2022,Atlanta,"First Federal Bank, A FSB",0.0,2.0,2.0,2022,2020,1.0,0.0
+17630,341873.0,STATE,35,12/14/1990,Dallas,Bancplus Savings Association,0.0,3.0,3.0,1990,1990,1.0,0.0
+17653,130604.0,OTS,33,12/16/2005,Chicago,Peoples Federal Savings Bank,0.0,1.0,1.0,2005,2000,1.0,0.0
+17661,120517.0,OCC,33,01/01/2013,Chicago,Central Kentucky Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+17695,164568.0,STATE,42,06/01/2011,New York,North Penn Bank,0.0,2.0,2.0,2011,2010,1.0,0.0
+17696,2150148.0,OCC,33,08/31/2022,New York,Ponce Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+17702,237876.0,OTS,33,12/07/1996,Atlanta,First Federal Bank,0.0,1.0,1.0,1996,1990,1.0,0.0
+17705,82164.0,OCC,37,08/31/2022,Chicago,First Federal Savings and Loan Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+17706,159590.0,OCC,34,08/31/2022,Dallas,"Greeneville Federal Bank, FSB",0.0,3.0,3.0,2022,2020,1.0,0.0
+17714,242460.0,OCC,33,08/22/2011,Kansas City,Queen City Federal Savings Bank,0.0,1.0,1.0,2011,2010,1.0,0.0
+17727,416228.0,STATE,13,08/31/2022,Atlanta,LifeStore Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+17729,96660.0,OTS,33,04/13/1998,Atlanta,"Regions Bank, FSB",0.0,1.0,1.0,1998,1990,1.0,0.0
+17736,6890.0,STATE,36,02/20/2009,New York,Canisteo Savings and Loan Association,0.0,1.0,1.0,2009,2000,1.0,0.0
+17743,2892072.0,OTS,33,01/10/1992,Atlanta,"Perpetual Savings Bank, FSB",1.0,1.0,1.0,1992,1990,1.0,0.0
+17771,112226.0,STATE,85,09/30/2020,Chicago,New Buffalo Savings Bank,0.0,2.0,2.0,2020,2020,1.0,0.0
+17778,538258.0,STATE,21,11/05/2010,New York,K Bank,0.0,1.0,1.0,2010,2010,1.0,0.0
+17792,10886.0,OTS,33,06/14/1991,Chicago,"First Commerce Bank, A FSB",0.0,1.0,1.0,1991,1990,1.0,0.0
+17799,29327.0,OTS,38,06/21/2007,New York,Golden Prague Federal Savings and Loan Association,0.0,2.0,2.0,2007,2000,1.0,0.0
+17810,2153690.0,OTS,37,01/21/2011,Dallas,United Western Bank,0.0,2.0,2.0,2011,2010,1.0,0.0
+17811,389843.0,STATE,13,10/10/2015,Atlanta,Shore Bank,0.0,1.0,1.0,2015,2010,1.0,0.0
+17824,70178.0,OTS,33,01/07/1994,Chicago,"Heart of Illinois Bank, F.S.B.",0.0,2.0,2.0,1994,1990,1.0,0.0
+17827,28248.0,OTS,33,01/15/1997,Chicago,Home Federal Savings Bank,0.0,1.0,1.0,1997,1990,1.0,0.0
+17831,3644048.0,OCC,34,08/31/2022,Atlanta,First Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+17833,4782218.0,OTS,37,12/31/2000,San Francisco,"World Savings and Loan Association, A Federal Savings and Loan Associati",0.0,1.0,1.0,2000,2000,1.0,0.0
+17841,272521.0,OTS,33,02/11/1994,Atlanta,"FloridaBank, A Federal Savings Bank",0.0,1.0,1.0,1994,1990,1.0,0.0
+17850,13408.0,OTS,33,02/14/2004,New York,Dollar Savings Bank,0.0,15.0,15.0,2004,2000,1.0,0.0
+17855,1052496.0,OTS,33,04/02/1995,Atlanta,"Ameribanc Savings Bank, FSB",0.0,1.0,1.0,1995,1990,1.0,0.0
+17874,9125.0,STATE,36,10/17/2008,New York,Elk County Savings and Loan Association,0.0,2.0,2.0,2008,2000,1.0,0.0
+17899,176450.0,OTS,33,10/01/2007,Chicago,"Cardunal Savings Bank, FSB",0.0,1.0,1.0,2007,2000,1.0,0.0
+17914,703762.0,OCC,3,08/31/2022,Atlanta,"Axiom Bank, National Association",0.0,2.0,2.0,2022,2020,1.0,0.0
+17937,140907.0,STATE,35,08/31/2022,Atlanta,"1st Federal Savings Bank of SC, Inc.",0.0,1.0,1.0,2022,2020,1.0,0.0
+17938,73110.0,OTS,37,10/31/1997,Atlanta,First Federal Savings and Loan Association of Chilton County,0.0,1.0,1.0,1997,1990,1.0,0.0
+17946,148616.0,OCC,33,07/03/2013,New York,Roebling Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+17978,40485.0,OTS,33,08/24/2000,Atlanta,"Dominion Savings Bank, F.S.B.",0.0,10.0,10.0,2000,2000,1.0,0.0
+17999,39383.0,OTS,38,05/08/1991,New York,First Federal Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0,0.0
+18009,8837584.0,OTS,33,03/01/1998,San Francisco,"Coast Federal Bank, Federal Savings Bank",0.0,1.0,1.0,1998,1990,1.0,0.0
+18011,145365.0,STATE,21,08/31/2022,Atlanta,First Fidelity Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+18021,167109.0,STATE,13,08/31/2022,Kansas City,Progressive Ozark Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+18029,463840.0,OCC,33,04/27/2012,Kansas City,"Inter Savings Bank, fsb  D/B/A  Interbank,  fsb",0.0,6.0,6.0,2012,2010,1.0,0.0
+18050,57517.0,OTS,33,11/05/2008,Atlanta,Security Bank,0.0,6.0,6.0,2008,2000,1.0,0.0
+18057,378751.0,OTS,33,12/09/1996,Atlanta,"Regions Bank, F.S.B.",0.0,3.0,3.0,1996,1990,1.0,0.0
+18065,55112.0,STATE,35,06/09/2006,Chicago,The Mercantile Savings Bank,0.0,1.0,1.0,2006,2000,1.0,0.0
+18081,1717520.0,OTS,33,10/21/1992,New York,Standard Federal Savings Bank,1.0,1.0,1.0,1992,1990,1.0,0.0
+18085,24299.0,STATE,35,03/16/1990,Kansas City,Sun Savings Bank,0.0,1.0,1.0,1990,1990,1.0,0.0
+18091,46230.0,OTS,38,09/30/1994,Kansas City,First Federal Savings and Loan Association of Hastings,0.0,1.0,1.0,1994,1990,1.0,0.0
+18092,188705.0,STATE,21,10/13/2018,New York,Colombo Bank,0.0,4.0,4.0,2018,2010,1.0,0.0
+18096,12947.0,STATE,36,08/14/2009,New York,Dwelling House Savings and Loan Association,0.0,12.0,12.0,2009,2000,1.0,0.0
+18097,17375.0,STATE,36,01/11/1991,New York,Connecticut Savings and Loan Association,0.0,1.0,1.0,1991,1990,1.0,0.0
+18112,29046.0,STATE,35,01/31/1993,Kansas City,Home Trust Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+18116,10947.0,STATE,81,06/30/1997,Atlanta,First Commonwealth Savings Bank FSB,0.0,1.0,1.0,1997,1990,1.0,0.0
+18120,19259.0,OCC,38,01/20/2012,New York,American Eagle Savings Bank,0.0,3.0,3.0,2012,2010,1.0,0.0
+18126,223248.0,STATE,35,08/30/1991,New York,Homestead Savings Association,0.0,2.0,2.0,1991,1990,1.0,0.0
+18132,425492.0,STATE,41,07/31/2012,New York,First Star Bank,0.0,1.0,1.0,2012,2010,1.0,0.0
+18164,9448.0,OTS,38,08/20/2010,Atlanta,Imperial Savings and Loan Association,0.0,11.0,11.0,2010,2010,1.0,0.0
+18177,28992.0,OTS,33,07/31/1998,New York,Fajardo Federal Savings Bank,0.0,3.0,3.0,1998,1990,1.0,0.0
+18205,248839.0,STATE,35,02/23/1990,Dallas,Texasbanc Savings Association,0.0,1.0,1.0,1990,1990,1.0,0.0
+18209,94195.0,OTS,33,05/08/1992,Atlanta,Shenandoah Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+18218,18256.0,STATE,41,01/03/1997,Chicago,"Litchfield Community Savings, S.B.",0.0,1.0,1.0,1997,1990,1.0,0.0
+18221,66086.0,STATE,35,08/31/1989,San Francisco,Home Savings Bank,0.0,2.0,2.0,1989,1980,1.0,0.0
+18261,93679.0,STATE,21,08/31/2022,Dallas,RiverBank,1.0,6.0,6.0,2022,2020,1.0,0.0
+18307,467894.0,OTS,33,12/01/1994,New York,Citizens Savings Bank FSB,0.0,2.0,2.0,1994,1990,1.0,0.0
+18311,30486.0,OTS,33,12/31/1995,Dallas,Sun World Federal Savings Bank,0.0,1.0,1.0,1995,1990,1.0,0.0
+18312,35536.0,OTS,33,04/11/1996,Chicago,"American Fidelity Bank, FSB",0.0,1.0,1.0,1996,1990,1.0,0.0
+18313,441753.0,OTS,33,11/04/1994,Chicago,"Republic Savings Bank, FSB",1.0,9.0,9.0,1994,1990,1.0,0.0
+18316,139771.0,STATE,21,08/31/2022,Dallas,Greater State Bank,0.0,7.0,7.0,2022,2020,1.0,0.0
+18325,521998.0,OTS,33,07/31/1998,New York,"First Home Savings Bank, F.S.B.",0.0,1.0,1.0,1998,1990,1.0,0.0
+18351,493555.0,OTS,37,05/26/1994,Dallas,"Equity Bank for Savings, F.A.",1.0,2.0,2.0,1994,1990,1.0,0.0
+18369,6128.0,STATE,36,01/31/1987,New York,Anthracite Building and Loan Association,0.0,1.0,1.0,1987,1980,1.0,0.0
+18372,28807.0,OTS,33,06/24/1993,Dallas,Eagle Federal Bank for Savings,0.0,3.0,3.0,1993,1990,1.0,0.0
+18381,271536.0,OCC,33,08/31/2022,Atlanta,"Interamerican Bank, A FSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+18400,837383.0,STATE,13,08/31/2022,Dallas,Financial Federal Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+18409,20161.0,OTS,37,12/03/1993,Dallas,Republic Federal Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+18426,111038.0,OCC,33,08/31/2022,Dallas,"Grand Bank for Savings, FSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+18429,81003.0,STATE,21,12/31/2008,Dallas,First Bank and Trust of Mississippi,0.0,2.0,2.0,2008,2000,1.0,0.0
+18467,145072.0,STATE,41,01/01/2023,Atlanta,CBL State Savings Bank,0.0,1.0,1.0,2023,2020,1.0,0.0
+18471,240966.0,STATE,35,01/04/1990,Dallas,First Guaranty Bank for Savings,0.0,1.0,1.0,1990,1990,1.0,0.0
+18478,124725.0,OTS,37,11/10/2000,New York,Nutmeg Federal Savings and Loan Association,0.0,1.0,1.0,2000,2000,1.0,0.0
+18482,33779.0,STATE,35,04/19/1991,Dallas,Mercantile Savings Bank,0.0,1.0,1.0,1991,1990,1.0,0.0
+18490,24275.0,OTS,33,11/02/2001,Dallas,The Federal Savings Bank of Evangeline Parish,0.0,2.0,2.0,2001,2000,1.0,0.0
+18503,36010.0,STATE,35,02/09/1990,Dallas,Colorado Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0,0.0
+18513,6078748.0,OCC,33,08/31/2022,New York,TrustCo Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+18522,1552939.0,OCC,33,01/14/2017,New York,"Lake Sunapee Bank, FSB",1.0,1.0,1.0,2017,2010,1.0,0.0
+18534,714574.0,STATE,21,07/30/2010,San Francisco,LibertyBank,0.0,1.0,1.0,2010,2010,1.0,0.0
+18546,50245.0,OTS,33,03/31/2006,Kansas City,"Central West End Bank, A Federal Savings Bank",0.0,3.0,3.0,2006,2000,1.0,0.0
+18553,130720.0,OTS,33,11/30/2001,San Francisco,"Del Amo Savings Bank, FSB",0.0,1.0,1.0,2001,2000,1.0,0.0
+18567,161556.0,OCC,38,08/31/2022,New York,Slovenian Savings and Loan Association of Franklin-Conemaugh,0.0,1.0,1.0,2022,2020,1.0,0.0
+18593,79030.0,STATE,41,08/31/2022,Dallas,"Angelina Savings Bank, SSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+18597,295333.0,STATE,21,03/01/2020,Dallas,Progressive Savings Bank,0.0,1.0,1.0,2020,2020,1.0,0.0
+18601,261726.0,STATE,13,08/31/2022,Dallas,United Bank,0.0,5.0,5.0,2022,2020,1.0,0.0
+18606,355501.0,OTS,33,11/16/1989,Atlanta,"General Bank, A Federal Savings Bank",0.0,8.0,8.0,1989,1980,1.0,0.0
+18614,71979.0,OTS,37,04/18/1997,Atlanta,"Firstate Financial, F.A.",0.0,1.0,1.0,1997,1990,1.0,0.0
+18644,209991.0,STATE,35,07/29/1997,San Francisco,Hancock Savings Bank,0.0,2.0,2.0,1997,1990,1.0,0.0
+18648,1260354.0,STATE,21,04/24/2009,San Francisco,First Bank of Beverly Hills,0.0,5.0,5.0,2009,2000,1.0,0.0
+18652,254759.0,STATE,13,09/11/2004,Atlanta,Guaranty Bank,0.0,1.0,1.0,2004,2000,1.0,0.0
+18654,259724.0,OTS,33,02/09/1995,Atlanta,"PRESIDENTIAL BANK, F.S.B.",0.0,1.0,1.0,1995,1990,1.0,0.0
+18671,2214549.0,STATE,35,10/15/1991,Dallas,"Oak Tree Savings Bank, S.S.B.",0.0,11.0,11.0,1991,1990,1.0,0.0
+18677,84667.0,OTS,33,10/01/1998,San Francisco,First Global Bank Federal Savings Bank,0.0,1.0,1.0,1998,1990,1.0,0.0
+18680,2507789.0,OTS,33,06/27/1997,Dallas,MidFirst Bank,0.0,2.0,2.0,1997,1990,1.0,0.0
+18685,5898515.0,STATE,21,02/27/2015,New York,Doral Bank,1.0,1.0,1.0,2015,2010,1.0,0.0
+18689,3689416.0,OTS,33,11/30/1998,New York,"ALBANK, FSB",0.0,1.0,1.0,1998,1990,1.0,0.0
+18694,922548.0,OTS,33,03/18/2006,San Francisco,Standard Bank,0.0,3.0,3.0,2006,2000,1.0,0.0
+18696,161641.0,OTS,33,07/10/1998,Atlanta,"Anchor Savings Bank, F.S.B.",0.0,1.0,1.0,1998,1990,1.0,0.0
+18704,380790.0,OTS,33,01/17/2003,New York,"Savings Bank of the Finger Lakes, FSB",0.0,2.0,2.0,2003,2000,1.0,0.0
+18720,401294.0,STATE,41,08/31/2022,Dallas,"Shelby Savings Bank, SSB",0.0,4.0,4.0,2022,2020,1.0,0.0
+18721,41886.0,STATE,35,09/10/1993,San Francisco,Amador Valley Savings and Loan Association,0.0,8.0,8.0,1993,1990,1.0,0.0
+18730,381486.0,OTS,33,11/01/1996,San Francisco,"Topa Savings Bank, FSB",0.0,6.0,6.0,1996,1990,1.0,0.0
+18734,145485.0,STATE,13,03/01/2010,San Francisco,Community Banks of Northern California,0.0,4.0,4.0,2010,2010,1.0,0.0
+18736,56769.0,STATE,35,01/31/1992,San Francisco,Butte Savings and Loan Association,0.0,1.0,1.0,1992,1990,1.0,0.0
+18748,16386.0,STATE,35,03/27/1998,Kansas City,"First Savings and Loan Association of South Dakota, Inc.",0.0,1.0,1.0,1998,1990,1.0,0.0
+18752,866459.0,OTS,33,08/20/2010,San Francisco,Los Padres Bank,0.0,4.0,4.0,2010,2010,1.0,0.0
+18754,1795420.0,OTS,33,12/18/2009,Atlanta,Peoples First Community Bank,1.0,3.0,3.0,2009,2000,1.0,0.0
+18760,21622295.0,STATE,13,08/31/2022,San Francisco,Pacific Premier Bank,0.0,4.0,4.0,2022,2020,1.0,0.0
+18767,638581.0,STATE,35,12/06/1991,San Francisco,Guardian Savings and Loan Association,0.0,4.0,4.0,1991,1990,1.0,0.0
+18777,110419000.0,OCC,33,08/31/2022,Dallas,USAA Federal Savings Bank,1.0,6.0,6.0,2022,2020,1.0,0.0
+18780,281348.0,STATE,21,05/01/2003,Atlanta,First Georgia Bank,0.0,1.0,1.0,2003,2000,1.0,0.0
+18785,253495.0,OTS,33,07/01/1995,San Francisco,"International Savings Bank, F.S.B.",0.0,1.0,1.0,1995,1990,1.0,0.0
+18798,139454.0,OCC,33,08/09/2019,New York,Chinatown Federal Savings Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+18801,1607372.0,OCC,33,03/24/2018,Atlanta,Gibraltar Private Bank & Trust Co.,1.0,3.0,3.0,2018,2010,1.0,0.0
+18803,102977.0,OTS,37,06/29/1990,New York,Charter Federal Savings and Loan Association,0.0,1.0,1.0,1990,1990,1.0,0.0
+18807,213205.0,OCC,3,10/30/2009,San Francisco,"Bank USA, National Association",0.0,4.0,4.0,2009,2000,1.0,0.0
+18808,110644.0,OTS,33,12/31/1997,San Francisco,"First Bank of Beverly Hills, FSB",0.0,5.0,5.0,1997,1990,1.0,0.0
+18814,50532.0,OTS,33,09/13/1991,Dallas,Davy Crockett Federal Savings Bank,0.0,1.0,1.0,1991,1990,1.0,0.0
+18817,13127.0,STATE,35,12/31/1993,New York,Sentry Savings and Loan Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+18823,2442858.0,OCC,33,08/31/2022,Chicago,"Sterling Bank and Trust, FSB",0.0,4.0,4.0,2022,2020,1.0,0.0
+18832,41550.0,STATE,35,11/14/1997,Dallas,"First Commercial Bank, SSB",0.0,1.0,1.0,1997,1990,1.0,0.0
+18834,1202137.0,OCC,33,08/31/2022,Chicago,"Liberty Savings Bank, F.S.B.",1.0,4.0,4.0,2022,2020,1.0,0.0
+18836,59403.0,OTS,33,12/08/1992,Atlanta,Palm Beach Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+18839,13111463.0,OTS,33,05/21/2009,Atlanta,"BankUnited, FSB",0.0,2.0,2.0,2009,2000,1.0,0.0
+18844,94823.0,STATE,13,10/22/2010,Atlanta,Progress Bank of Florida,0.0,1.0,1.0,2010,2010,1.0,0.0
+18850,325884.0,OCC,33,08/31/2022,New York,Abacus Federal Savings Bank,0.0,5.0,5.0,2022,2020,1.0,0.0
+18854,73400.0,OCC,33,03/26/2018,New York,Wawel Bank,0.0,2.0,2.0,2018,2010,1.0,0.0
+18856,93138.0,STATE,35,05/31/1997,San Francisco,US Community Savings Bank,0.0,1.0,1.0,1997,1990,1.0,0.0
+18858,1960018.0,OTS,37,09/30/1988,Dallas,Guaranty Federal Savings and Loan Association,0.0,1.0,1.0,1988,1980,1.0,0.0
+18859,331556.0,OCC,33,10/04/2019,Dallas,Preferred Bank,0.0,2.0,2.0,2019,2010,1.0,0.0
+18860,585656.0,OCC,33,11/01/2013,Atlanta,Acacia Federal Savings Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+18861,755923.0,OTS,33,11/13/2009,Atlanta,"Century Bank, a Federal Savings Bank",0.0,5.0,5.0,2009,2000,1.0,0.0
+18865,452283.0,OTS,33,06/01/2011,Atlanta,First Community Bank of America,0.0,5.0,5.0,2011,2010,1.0,0.0
+18870,210528.0,OTS,33,05/24/2001,San Francisco,"Bank of Stockdale, F.S.B.",0.0,1.0,1.0,2001,2000,1.0,0.0
+18871,1464127.0,OTS,33,12/18/2009,Atlanta,New South Federal Savings Bank,1.0,2.0,2.0,2009,2000,1.0,0.0
+18876,240251.0,OTS,33,07/16/2010,Atlanta,Turnberry Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+18880,36484.0,STATE,41,05/23/2014,Chicago,Columbia Savings Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+18884,606153.0,OTS,33,07/31/2009,Chicago,Peoples Community Bank,0.0,3.0,3.0,2009,2000,1.0,0.0
+18891,36426.0,STATE,36,09/12/2014,Chicago,The Home Building and Loan Company,0.0,11.0,11.0,2014,2010,1.0,0.0
+18892,3217178.0,STATE,35,08/31/2022,Chicago,Union Savings Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+18907,410396.0,OTS,33,05/07/1993,Chicago,Charter Oak Federal Savings Bank,0.0,4.0,4.0,1993,1990,1.0,0.0
+18908,159630.0,STATE,35,01/31/1987,Chicago,Midwest Savings Association,0.0,9.0,9.0,1987,1980,1.0,0.0
+18915,21712.0,OTS,33,05/03/2004,Dallas,Allied Houston Bank,0.0,6.0,6.0,2004,2000,1.0,0.0
+18921,30628.0,STATE,35,08/16/1996,Dallas,Firstbanc Savings of Texas,0.0,2.0,2.0,1996,1990,1.0,0.0
+18923,18493587.0,OTS,33,07/30/2009,Atlanta,"Chevy Chase Bank, F.S.B.",1.0,1.0,1.0,2009,2000,1.0,0.0
+18924,8443364.0,OCC,33,01/01/2020,Kansas City,Mutual of Omaha Bank,1.0,1.0,1.0,2020,2020,1.0,0.0
+18927,319176.0,OCC,33,01/01/2016,New York,American Bank,0.0,15.0,15.0,2016,2010,1.0,0.0
+18928,61232.0,STATE,35,11/29/2013,Dallas,Union Savings Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+18930,187366.0,OTS,33,03/16/1990,Dallas,"First America Savings Bank, FSB",0.0,1.0,1.0,1990,1990,1.0,0.0
+18937,2790988.0,OCC,3,11/02/2007,Atlanta,"R-G Crown Bank, National Association",0.0,3.0,3.0,2007,2000,1.0,0.0
+18939,1572770.0,OTS,33,12/04/1992,New York,Second National Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+18942,604045.0,STATE,13,02/15/2014,New York,Baltimore County Savings Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+18948,161430.0,STATE,41,10/14/2011,Atlanta,"Blue Ridge Savings Bank, Inc.",0.0,1.0,1.0,2011,2010,1.0,0.0
+18952,331846.0,OCC,33,05/10/2013,New York,"The Washington Savings Bank, FSB",0.0,3.0,3.0,2013,2010,1.0,0.0
+18961,326035.0,OCC,33,08/31/2022,New York,"Eastern Savings Bank, FSB",0.0,5.0,5.0,2022,2020,1.0,0.0
+18963,186104.0,OCC,33,10/01/2014,Atlanta,Bank of Atlanta,0.0,1.0,1.0,2014,2010,1.0,0.0
+18964,817787.0,OCC,33,08/31/2022,New York,"Presidential Bank, FSB",1.0,1.0,1.0,2022,2020,1.0,0.0
+18968,1113906.0,OCC,33,11/01/2021,New York,"SEVERN SAVINGS BANK, FSB DBA SEVERN BANK",0.0,1.0,1.0,2021,2020,1.0,0.0
+18969,140063.0,OCC,37,05/30/2014,New York,Slavie Federal Savings Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+18970,77215.0,STATE,21,09/11/2015,New York,Fairmount Bank,0.0,2.0,2.0,2015,2010,1.0,0.0
+18972,135673.0,STATE,21,12/05/2015,New York,Regal Bank & Trust,0.0,1.0,1.0,2015,2010,1.0,0.0
+18974,223510.0,OCC,33,07/08/2016,New York,Hopkins Federal Savings Bank,0.0,1.0,1.0,2016,2010,1.0,0.0
+18975,161973.0,STATE,41,03/12/1997,Dallas,"Horizon Bank & Trust, SSB",0.0,2.0,2.0,1997,1990,1.0,0.0
+18979,337023.0,OTS,33,05/01/2004,Atlanta,"Essex Savings Bank, F.S.B.",0.0,1.0,1.0,2004,2000,1.0,0.0
+18980,661568.0,OTS,33,03/03/1995,San Francisco,"Plaza Home Mortgage Bank, a Federal Savings Bank",0.0,5.0,5.0,1995,1990,1.0,0.0
+18996,176160.0,STATE,21,10/01/2020,New York,Carroll Community Bank,0.0,5.0,5.0,2020,2020,1.0,0.0
+19001,50566.0,OTS,33,04/07/1995,New York,Family First FSB,0.0,12.0,12.0,1995,1990,1.0,0.0
+19008,50790.0,OTS,33,01/20/2007,New York,Valley Bank of Maryland,0.0,1.0,1.0,2007,2000,1.0,0.0
+19012,225755.0,STATE,21,08/20/2004,Atlanta,Madison Bank,0.0,1.0,1.0,2004,2000,1.0,0.0
+19016,172343.0,STATE,35,05/08/1990,Dallas,Mississippi Savings Bank,0.0,1.0,1.0,1990,1990,1.0,0.0
+19023,56200.0,OTS,37,11/05/1998,Atlanta,Lochaven Federal Savings and Loan Association,0.0,1.0,1.0,1998,1990,1.0,0.0
+19029,3646071.0,OTS,33,02/19/2010,San Francisco,"La Jolla Bank, FSB",0.0,2.0,2.0,2010,2010,1.0,0.0
+19042,119027.0,STATE,41,04/30/1996,Dallas,"Charter Bank, S.S.B.",0.0,1.0,1.0,1996,1990,1.0,0.0
+19047,485271.0,OCC,3,08/31/2022,Chicago,"United Midwest Savings Bank, National Association",0.0,1.0,1.0,2022,2020,1.0,0.0
+19048,75117.0,OTS,33,07/02/1997,Atlanta,"Seaboard Savings Bank, FSB",0.0,1.0,1.0,1997,1990,1.0,0.0
+19050,137307.0,OTS,33,07/17/1992,New York,New England Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+19059,35042.0,OTS,33,06/19/1992,San Francisco,"First Newport Bank, F.S.B.",0.0,3.0,3.0,1992,1990,1.0,0.0
+19060,108031.0,STATE,35,07/01/1996,San Francisco,"Torrance Bank, S.S.B.",0.0,3.0,3.0,1996,1990,1.0,0.0
+19061,58064.0,STATE,35,09/06/1991,Atlanta,Bay Savings Bank,0.0,6.0,6.0,1991,1990,1.0,0.0
+19063,6177.0,OTS,34,07/09/2010,New York,Ideal Federal Savings Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+19065,31467.0,OTS,33,06/25/1999,Atlanta,"Partners Bank of Florida, FSB",0.0,1.0,1.0,1999,1990,1.0,0.0
+19066,485387.0,OCC,33,08/31/2022,Dallas,Homeland Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+19068,1192209.0,OCC,33,01/01/2015,Dallas,"Southwest Securities , FSB",1.0,8.0,8.0,2015,2010,1.0,0.0
+19073,113859.0,OCC,3,01/15/1998,Dallas,"Sun World, National Association",0.0,1.0,1.0,1998,1990,1.0,0.0
+19076,38978.0,OTS,33,08/07/1992,Atlanta,Citadel Federal Savings Bank,0.0,1.0,1.0,1992,1990,1.0,0.0
+19080,234209.0,OTS,33,09/15/2007,Atlanta,Monticello Bank,0.0,3.0,3.0,2007,2000,1.0,0.0
+19084,77029.0,STATE,35,01/10/1997,Dallas,Colorado Springs Savings and Loan Association,0.0,1.0,1.0,1997,1990,1.0,0.0
+19085,61665.0,OCC,33,11/30/2012,Atlanta,E*TRADE United Bank,0.0,1.0,1.0,2012,2010,1.0,0.0
+19086,65075.0,OTS,33,08/31/1994,San Francisco,"Home Federal Bank, SB",0.0,1.0,1.0,1994,1990,1.0,0.0
+19092,57479.0,OTS,33,12/31/1997,San Francisco,Flagship Bank FSB,0.0,2.0,2.0,1997,1990,1.0,0.0
+19097,36626.0,STATE,35,06/05/1993,Dallas,Sun Savings Association,0.0,1.0,1.0,1993,1990,1.0,0.0
+19101,68981.0,OTS,33,07/12/1999,Atlanta,"Oceanmark Bank, A FSB",0.0,1.0,1.0,1999,1990,1.0,0.0
+19103,85449.0,OTS,33,07/30/1996,Atlanta,"Key Florida Bank, A Federal Savings Bank",0.0,5.0,5.0,1996,1990,1.0,0.0
+19108,1201922.0,OTS,33,01/22/2010,Dallas,Charter Bank,0.0,4.0,4.0,2010,2010,1.0,0.0
+19109,128700.0,OTS,33,01/01/2006,Kansas City,"First Savings Bank, F.S.B.",0.0,2.0,2.0,2006,2000,1.0,0.0
+19115,433512.0,OCC,33,04/27/2012,Atlanta,Plantation Federal Bank,0.0,6.0,6.0,2012,2010,1.0,0.0
+19129,163831.0,OTS,33,06/27/1996,Dallas,"River Valley Bank, FSB",0.0,1.0,1.0,1996,1990,1.0,0.0
+19134,492643.0,OTS,33,04/01/1995,Atlanta,"AMTRUST BANK, F.S.B.",0.0,1.0,1.0,1995,1990,1.0,0.0
+19136,79070.0,OTS,33,11/22/1996,Atlanta,"Preferred Bank, A FSB",0.0,1.0,1.0,1996,1990,1.0,0.0
+19140,9315611.0,OCC,33,08/31/2022,San Francisco,"American Savings Bank, FSB",0.0,4.0,4.0,2022,2020,1.0,0.0
+19149,3851.0,OTS,33,09/30/2008,Chicago,Universal Savings Bank FA,0.0,1.0,1.0,2008,2000,1.0,0.0
+19154,69141.0,OTS,33,11/05/1998,Atlanta,Bankers Savings Bank,0.0,1.0,1.0,1998,1990,1.0,0.0
+19157,25391417.0,OCC,3,12/01/2022,New York,"Flagstar Bank, National Association",1.0,6.0,6.0,2022,2020,1.0,0.0
+19168,6299148.0,OCC,3,08/31/2022,San Francisco,"LendingClub Bank, National Association",0.0,6.0,6.0,2022,2020,1.0,0.0
+19172,76826.0,OTS,33,06/01/1996,Atlanta,"Treasure Coast Bank, A Federal Savings Bank",0.0,1.0,1.0,1996,1990,1.0,0.0
+19179,71928.0,OTS,38,05/11/1990,Kansas City,"Topeka Savings, A Federal Savings and Loan Association",0.0,1.0,1.0,1990,1990,1.0,0.0
+19180,56201.0,OTS,33,09/25/2000,New York,First Virgin Islands FSB,0.0,2.0,2.0,2000,2000,1.0,0.0
+19185,724698.0,OCC,3,04/01/2000,Chicago,TCF National Bank Wisconsin,0.0,1.0,1.0,2000,2000,1.0,0.0
+19187,21365.0,OTS,33,06/30/2011,Chicago,American Home Bank,0.0,3.0,3.0,2011,2010,1.0,0.0
+19189,382803.0,OTS,33,07/16/2010,Atlanta,Woodlands Bank,0.0,5.0,5.0,2010,2010,1.0,0.0
+19190,36469.0,OTS,33,09/12/2002,Kansas City,"First American Savings Bank, F.S.B.",0.0,1.0,1.0,2002,2000,1.0,0.0
+19193,2473806.0,OTS,33,09/28/2007,Atlanta,NetBank,0.0,2.0,2.0,2007,2000,1.0,0.0
+19194,28089.0,OTS,33,05/11/1990,Dallas,"Great West Savings Bank, F.S.B.",0.0,2.0,2.0,1990,1990,1.0,0.0
+19199,322131.0,OCC,33,11/01/2011,Atlanta,Federal Trust Bank,0.0,5.0,5.0,2011,2010,1.0,0.0
+19201,255920.0,OTS,33,10/22/2010,San Francisco,"First Arizona Savings, A FSB",0.0,2.0,2.0,2010,2010,1.0,0.0
+19202,203262.0,OTS,33,12/04/2009,Atlanta,Greater Atlantic Bank,0.0,5.0,5.0,2009,2000,1.0,0.0
+19208,35355.0,OTS,33,09/14/1990,Dallas,First Federal Savings Bank of Hempstead,0.0,2.0,2.0,1990,1990,1.0,0.0
+19220,1002511.0,OTS,33,12/13/1996,Kansas City,"First Bank, Federal Savings Bank",1.0,1.0,1.0,1996,1990,1.0,0.0
+19222,671140.0,OTS,33,11/30/1998,Dallas,"Local America Bank of Tulsa, A Federal Savings Bank",0.0,3.0,3.0,1998,1990,1.0,0.0
+19225,422245.0,OTS,37,04/26/1991,Dallas,Red River Federal Savings and Loan Association,0.0,2.0,2.0,1991,1990,1.0,0.0
+19227,80148.0,STATE,35,07/18/1997,Atlanta,"Lowcountry Savings Bank, Inc.",0.0,1.0,1.0,1997,1990,1.0,0.0
+19232,517.0,OTS,33,09/09/2005,Dallas,"First Heights Bank, a  FSB",0.0,1.0,1.0,2005,2000,1.0,0.0
+19233,3161743.0,OCC,3,08/31/2022,Chicago,"NATIONAL COOPERATIVE BANK, N.A.",0.0,1.0,1.0,2022,2020,1.0,0.0
+19235,2461979.0,OTS,33,11/03/2006,Chicago,Union Federal Bank of Indianapolis,1.0,4.0,4.0,2006,2000,1.0,0.0
+19239,13464352.0,OTS,33,08/21/2009,Dallas,Guaranty Bank,1.0,24.0,24.0,2009,2000,1.0,0.0
+19240,588856.0,STATE,81,08/12/1998,Dallas,"Franklin Federal Bancorp, A Federal Savings Bank",0.0,2.0,2.0,1998,1990,1.0,0.0
+19242,151484.0,OCC,3,03/23/1998,Chicago,Peoples National Bank,1.0,1.0,1.0,1998,1990,1.0,0.0
+19244,6244877.0,OCC,3,10/01/2006,Dallas,"Citibank Texas, National Association",1.0,3.0,3.0,2006,2000,1.0,0.0
+19245,48437.0,OTS,33,10/23/2009,Kansas City,"United Security Savings Bank, F.S.B.",0.0,1.0,1.0,2009,2000,1.0,0.0
+19250,1349755.0,OCC,33,08/31/2022,Kansas City,First Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+19255,307021614.0,OTS,33,09/25/2008,San Francisco,Washington Mutual Bank,0.0,22.0,22.0,2008,2000,1.0,0.0
+19262,18646936.0,OTS,33,02/13/2001,Dallas,Bank United,0.0,12.0,12.0,2001,2000,1.0,0.0
+19263,1833.0,OTS,33,03/19/2001,Dallas,Pacific Southwest Bank,1.0,5.0,5.0,2001,2000,1.0,0.0
+19265,16490888.0,OTS,33,01/03/1997,Dallas,"First Nationwide Bank, FSB",1.0,13.0,13.0,1997,1990,1.0,0.0
+19267,719927.0,OTS,33,01/28/1994,Atlanta,Virginia Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+19268,1765455.0,OTS,33,07/27/2001,Chicago,Superior Bank FSB,0.0,6.0,6.0,2001,2000,1.0,0.0
+19270,451172.0,OTS,33,10/31/2003,Dallas,Bluebonnet Savings Bank FSB,1.0,1.0,1.0,2003,2000,1.0,0.0
+19271,107093.0,OCC,33,09/30/2016,Atlanta,American Bank of Huntsville,0.0,4.0,4.0,2016,2010,1.0,0.0
+19274,18410.0,OCC,3,02/09/2006,Atlanta,FBR National Trust Company,1.0,1.0,1.0,2006,2000,1.0,0.0
+19276,140142.0,OCC,33,11/28/2013,New York,Colombo Bank,0.0,7.0,7.0,2013,2010,1.0,0.0
+19282,24653.0,OCC,34,11/30/2012,New York,Hull Federal Savings Bank,0.0,1.0,1.0,2012,2010,1.0,0.0
+19419,848596.0,OTS,38,07/19/1991,San Francisco,"Southwest Savings and Loan Association, FA",0.0,4.0,4.0,1991,1990,1.0,0.0
+19456,209157.0,OTS,38,07/05/1991,New York,Colonial Federal Savings Association,0.0,1.0,1.0,1991,1990,1.0,0.0
+19736,103942.0,OTS,33,01/15/2000,Kansas City,"UNICO Bank, Federal Savings Bank",0.0,1.0,1.0,2000,2000,1.0,0.0
+19737,164819.0,OCC,33,08/31/2022,San Francisco,"Gateway Bank, F.S.B.",0.0,11.0,11.0,2022,2020,1.0,0.0
+19738,280986.0,STATE,41,09/13/1999,Chicago,"Advance Bank, s.b.",0.0,1.0,1.0,1999,1990,1.0,0.0
+19743,62727.0,OCC,33,05/06/2016,Atlanta,"SouthBank, a Federal Savings Bank",0.0,4.0,4.0,2016,2010,1.0,0.0
+19745,2108698.0,OCC,33,08/31/2022,Dallas,Colorado Federal Savings Bank,0.0,8.0,8.0,2022,2020,1.0,0.0
+19758,274330.0,OTS,33,07/02/1996,Dallas,"Colorado Savings Bank, F.S.B.",0.0,1.0,1.0,1996,1990,1.0,0.0
+19814,16753.0,OTS,33,01/29/1993,Dallas,"Life Savings Bank, F.S.B.",0.0,1.0,1.0,1993,1990,1.0,0.0
+19828,156243.0,OTS,33,09/14/2000,Kansas City,Reliastar Bank,1.0,1.0,1.0,2000,2000,1.0,0.0
+19917,388780.0,STATE,81,06/29/1994,Dallas,First Federal Savings Bank,0.0,2.0,2.0,1994,1990,1.0,0.0
+20118,2879.0,OTS,34,07/15/1994,Atlanta,Bay Federal Savings Bank,0.0,3.0,3.0,1994,1990,1.0,0.0
+20149,84726.0,OTS,34,08/06/1993,New York,Marine View Federal Savings Bank,0.0,1.0,1.0,1993,1990,1.0,0.0
+20165,1647135.0,OTS,37,01/01/2011,Dallas,IBERIABANK fsb,1.0,1.0,1.0,2011,2010,1.0,0.0
+20244,1196762.0,OTS,34,09/16/1994,Chicago,Transohio Federal Savings Bank,0.0,1.0,1.0,1994,1990,1.0,0.0
+20426,88778.0,OCC,33,08/31/2022,Dallas,Priority Bank,0.0,2.0,2.0,2022,2020,1.0,0.0
+20440,2444512.0,OCC,3,04/01/2000,Chicago,TCF NATIONAL BANK,1.0,1.0,1.0,2000,2000,1.0,0.0
+20450,18720.0,OCC,33,07/31/2015,Atlanta,"SouthBank, a Federal Savings Bank",0.0,4.0,4.0,2015,2010,1.0,0.0
+20460,108239.0,OTS,33,01/23/1999,New York,Stamford Federal Savings Bank,0.0,1.0,1.0,1999,1990,1.0,0.0
+20473,46141.0,OTS,33,04/15/2000,Chicago,"Matewan Bank, FSB",0.0,1.0,1.0,2000,2000,1.0,0.0
+20478,4111503.0,OTS,43,02/29/1996,New York,CrossLand Federal Savings Bank,0.0,1.0,1.0,1996,1990,1.0,0.0
+20500,29259.0,STATE,21,10/22/2010,Atlanta,The Gordon Bank,0.0,1.0,1.0,2010,2010,1.0,0.0
+20504,494885.0,OCC,3,07/01/2011,New York,"Wilmington Trust, National Association",1.0,1.0,1.0,2011,2010,1.0,0.0
+20515,287210.0,OCC,33,08/31/2022,Kansas City,Frontier Bank,1.0,2.0,2.0,2022,2020,1.0,0.0
+20525,81563.0,OTS,33,11/30/2010,Dallas,"Dryades Savings Bank, F.S.B.",0.0,2.0,2.0,2010,2010,1.0,0.0
+20540,37923.0,OTS,33,02/28/2003,New York,Enterprise Federal Savings Bank,0.0,1.0,1.0,2003,2000,1.0,0.0
+20553,1770123.0,OCC,3,01/02/1999,New York,"Banco Popular, National Association (New Jersey)",0.0,4.0,4.0,1999,1990,1.0,0.0
+20719,200.0,OCC,33,06/30/2013,New York,Monadnock Community Bank,0.0,1.0,1.0,2013,2010,1.0,0.0
+20907,490656.0,OTS,33,04/24/2009,San Francisco,"First Bank of Idaho, FSB",0.0,1.0,1.0,2009,2000,1.0,0.0
+20923,164335.0,OCC,33,08/29/2013,Atlanta,Bank of St. Augustine,0.0,1.0,1.0,2013,2010,1.0,0.0
+20925,1166638.0,OCC,33,08/31/2022,Dallas,First Command Bank,1.0,2.0,2.0,2022,2020,1.0,0.0
+21042,226307.0,OTS,33,10/31/2004,Kansas City,MidCountry Bank,0.0,1.0,1.0,2004,2000,1.0,0.0
+21068,365959.0,STATE,21,08/31/2022,Dallas,American Bank of Oklahoma,0.0,7.0,7.0,2022,2020,1.0,0.0
+21077,717331.0,OCC,33,03/30/2021,Chicago,"State Farm Bank, F.S.B.",0.0,4.0,4.0,2021,2020,1.0,0.0
+21100,46792.0,OCC,33,08/27/2021,Atlanta,Home Federal Bank of Hollywood,0.0,3.0,3.0,2021,2020,1.0,0.0
+21105,2236878.0,OCC,33,02/10/2014,Chicago,First Place Bank,0.0,2.0,2.0,2014,2010,1.0,0.0
+21125,144688.0,OTS,33,08/21/2009,Atlanta,Ebank,0.0,5.0,5.0,2009,2000,1.0,0.0
+21127,88031.0,OTS,33,03/26/2010,Atlanta,Key West Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+21166,80736.0,OCC,33,11/07/2014,San Francisco,"Frontier Bank, FSB",0.0,1.0,1.0,2014,2010,1.0,0.0
+21185,37594043.0,OCC,33,08/31/2022,Atlanta,"TIAA, FSB",0.0,1.0,1.0,2022,2020,1.0,0.0
+21193,332596.0,OTS,33,02/18/2011,San Francisco,"San Luis Trust Bank, FSB",0.0,7.0,7.0,2011,2010,1.0,0.0
+21237,148321.0,OTS,33,07/01/2004,Chicago,"First State,  FSB",0.0,2.0,2.0,2004,2000,1.0,0.0
+21247,152659.0,OTS,33,10/31/2009,Atlanta,Manatee River Community Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+21253,103455.0,STATE,21,08/31/2022,Atlanta,New Republic Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+21263,85436.0,OTS,33,10/21/2005,Atlanta,"Equinox Bank, FSB",0.0,2.0,2.0,2005,2000,1.0,0.0
+21283,129429.0,OTS,33,05/06/2011,Atlanta,Coastal Bank,0.0,3.0,3.0,2011,2010,1.0,0.0
+21310,587884.0,STATE,13,09/01/2015,Dallas,Magna Bank,0.0,2.0,2.0,2015,2010,1.0,0.0
+21330,4219.0,OTS,33,03/31/2011,New York,"Guardian Trust Company, FSB",1.0,4.0,4.0,2011,2010,1.0,0.0
+21345,155566.0,OTS,33,03/05/2010,New York,Waterfield Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+21386,228724.0,OCC,33,10/02/2021,Atlanta,CornerstoneBank,0.0,1.0,1.0,2021,2020,1.0,0.0
+21389,147961.0,OTS,33,09/04/2009,Chicago,Platinum Community Bank,0.0,3.0,3.0,2009,2000,1.0,0.0
+21433,128004.0,OTS,33,12/02/2006,Atlanta,1st Service Bank,0.0,1.0,1.0,2006,2000,1.0,0.0
+21483,1022892.0,OCC,33,08/31/2022,San Francisco,Farm Bureau Bank FSB,0.0,1.0,1.0,2022,2020,1.0,0.0
+21554,41482.0,OCC,33,08/31/2022,New York,AIG Federal Savings Bank,1.0,1.0,1.0,2022,2020,1.0,0.0
+21582,1539.0,OTS,33,03/31/2008,New York,"INATrust, fsb",1.0,1.0,1.0,2008,2000,1.0,0.0
+21602,55002198.0,OCC,33,04/01/2018,San Francisco,"American Express Bank,  FSB.",0.0,5.0,5.0,2018,2010,1.0,0.0
+21623,1700117.0,OCC,33,08/19/2011,Atlanta,Lydian Private Bank,0.0,2.0,2.0,2011,2010,1.0,0.0
+21635,54373.0,OCC,34,06/08/2012,Atlanta,Carolina Federal Savings Bank,0.0,5.0,5.0,2012,2010,1.0,0.0
+21651,104884.0,OCC,33,08/31/2022,Chicago,United Trust Bank,0.0,5.0,5.0,2022,2020,1.0,0.0
+21735,10719.0,OCC,33,08/31/2022,San Francisco,Davidson Trust Co.,1.0,3.0,3.0,2022,2020,1.0,0.0
+21743,762714.0,OCC,33,08/31/2022,Chicago,The Federal Savings Bank,0.0,6.0,6.0,2022,2020,1.0,0.0
+21749,48861.0,OCC,33,04/20/2012,New York,"Fort Lee Federal Savings Bank, FSB",0.0,2.0,2.0,2012,2010,1.0,0.0
+22218,33326143.0,OCC,33,08/31/2022,Dallas,MidFirst Bank,1.0,5.0,5.0,2022,2020,1.0,0.0
+22653,929742.0,STATE,21,05/25/2018,Atlanta,Atlantic Coast Bank,0.0,1.0,1.0,2018,2010,1.0,0.0
+23600,518151.0,OTS,33,09/18/2009,Chicago,"Irwin Union Bank,  F.S.B.",0.0,2.0,2.0,2009,2000,1.0,0.0
+23659,596688.0,OCC,33,08/31/2022,New York,Community Federal Savings Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+23704,131990.0,STATE,85,06/12/2015,New York,Union Federal Savings Bank,0.0,2.0,2.0,2015,2010,1.0,0.0
+23747,224955.0,OCC,33,06/01/2014,Atlanta,"Harrington Bank, FSB",0.0,2.0,2.0,2014,2010,1.0,0.0
+23750,1779439.0,OCC,3,08/31/2022,Chicago,Citizens Community Federal National Association,0.0,1.0,1.0,2022,2020,1.0,0.0
+23777,42019.0,OCC,3,07/01/2005,Atlanta,"Omni Interim, National Association",0.0,2.0,2.0,2005,2000,1.0,0.0
+23866,982396.0,STATE,21,08/31/2022,San Francisco,Sound Community Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
+23918,132460.0,OCC,33,02/04/2020,Dallas,"Grand Mountain Bank, FSB",0.0,2.0,2.0,2020,2020,1.0,0.0
+23937,364834.0,STATE,21,04/01/2019,Atlanta,The Oculina Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+24011,64344.0,OTS,33,07/30/2010,Atlanta,Bayside Savings Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+24090,793429.0,OCC,33,08/31/2022,New York,Quontic Bank,0.0,5.0,5.0,2022,2020,1.0,0.0
+24186,259.0,OCC,33,03/31/2014,New York,Saddle River Valley Bank,0.0,1.0,1.0,2014,2010,1.0,0.0
+24202,65498.0,OTS,33,10/23/2009,Atlanta,Partners Bank,0.0,2.0,2.0,2009,2000,1.0,0.0
+24273,1338340.0,OCC,33,12/18/2014,Dallas,OmniAmerican Bank,0.0,3.0,3.0,2014,2010,1.0,0.0
+24282,676475.0,OCC,33,01/01/2015,New York,Continental Bank,0.0,1.0,1.0,2015,2010,1.0,0.0
+24335,59252.0,OCC,33,03/29/2013,Atlanta,"Reliance Bank, FSB",0.0,1.0,1.0,2013,2010,1.0,0.0
+24341,148658.0,OTS,33,02/01/2010,Atlanta,Liberty Bank,0.0,2.0,2.0,2010,2010,1.0,0.0
+24494,23292.0,OCC,33,10/25/2019,Chicago,Resolute Bank,0.0,1.0,1.0,2019,2010,1.0,0.0
+24572,208204.0,OTS,33,06/03/2011,Atlanta,Atlantic Bank and Trust,0.0,1.0,1.0,2011,2010,1.0,0.0
+24592,213094.0,STATE,21,04/01/2018,Atlanta,Sunshine Community Bank,0.0,1.0,1.0,2018,2010,1.0,0.0
+24625,68201.0,OTS,33,12/17/2010,Atlanta,"Appalachian Community Bank, F.S.B.",0.0,10.0,10.0,2010,2010,1.0,0.0
+24702,20330.0,OCC,33,06/22/2018,San Francisco,High Desert Bank,0.0,1.0,1.0,2018,2010,1.0,0.0
+24781,8407.0,OCC,33,12/31/2017,Atlanta,The Trust Company of Virginia,1.0,2.0,2.0,2017,2010,1.0,0.0
+24828,59415.0,OCC,33,10/20/2012,Atlanta,1st Commonwealth Bank of Virginia,0.0,11.0,11.0,2012,2010,1.0,0.0
+24906,47562923.0,OCC,3,01/04/2022,San Francisco,"CIT Bank, National Association",0.0,1.0,1.0,2022,2020,1.0,0.0
+25577,103965.0,OTS,33,09/19/2008,Atlanta,"Ameribank, Inc.",0.0,2.0,2.0,2008,2000,1.0,0.0
+26385,166456.0,OTS,33,04/17/2009,Kansas City,American Sterling Bank,0.0,11.0,11.0,2009,2000,1.0,0.0
+27055,2576594.0,OCC,33,08/31/2022,New York,Westfield Bank,0.0,1.0,1.0,2022,2020,1.0,0.0
