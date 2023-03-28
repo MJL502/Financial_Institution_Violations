@@ -22,12 +22,13 @@
 ## Getting Started:
 
 1. Clone `https://github.com/MJL502/Financial_Institution_Violations`
-2. Make sure you have pandas installed on your machine
-3. Make sure you have Jupyter Notebook installed on your machine
-4. Make sure you have Python 3.9 or later
-5. Open Financial_Institution_Violations.ipynb
-6. Click 'Run All'
-7. IF YOU PREFER NOT TO INSTALL PACKAGES ON YOUR MACHINE THERE IS A TXT FILE CALLED HowToSetUpVirtualEnvironment.txt IN THE DIRECTORY.  IT WILL EXPLAIN HOW TO SET UP A VIRTUAL ENVIRONMENT ON YOUR MACHINE.
+2. Make sure you have pandas installed on your machine (from a command line run: pip3 install pandas)
+3. Make sure you have Jupyter Notebook installed on your machine (from a command line run: pip3 install jupyterlab)
+4. Make sure you have Python 3.9 or later (from a command line run: pip3 install python)
+5. Make sure you have Requests installed (from a command line run: pip3 install requests)
+6. Open Financial_Institution_Violations.ipynb
+7. Click 'Run All'
+8. IF YOU PREFER NOT TO INSTALL PACKAGES ON YOUR MACHINE THERE IS A TXT FILE CALLED HowToSetUpVirtualEnvironment.txt IN THE DIRECTORY.  IT WILL EXPLAIN HOW TO SET UP A VIRTUAL ENVIRONMENT ON YOUR MACHINE.
 
 
 ## Features:
