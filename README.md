@@ -35,7 +35,7 @@
 - [ ] 1. Reads data in from an API provided by the FIDC and creates a inst_full.csv file (or reads in inst_full.csv if the API data has already been downloaded.)  Also reads in a CSV file (ots-enforcement-order-listing.csv)  
 - [ ] 2. Cleans data, removes null values, changes column names, formats data, removes unnecessary data, and performs multiple merges.
 - [ ] 3. Creates 4 visualizations using Tableau.
-- [ ] 4. There is a HowToSetUpVirtualEnvironment.txt in the directory that explains how to set up a virtual environment so you don't have ton install packages on your machine.
+- [ ] 4. There is a HowToSetUpVirtualEnvironment.txt in the directory that explains how to set up a virtual environment so you don't have to install packages on your machine.
 - [ ] 5. The data is interepreted in the markdown and in this read me.
 
 
